@@ -1,97 +1,97 @@
 {
   "input_file": "/home/terry/.hermes/cache/documents/doc_9a32734f66de_basics_of_human_brain_anatomy.txt",
-  "output_dir": "/home/terry/word_book",
-  "format": "Markdown files by category + JSON source log",
+  "output_dir": "/home/terry/word-book",
+  "format": "Markdown files by category + JSON source log; category Markdown entries sorted alphabetically by heading.",
   "categories": {
     "神经科学": [
-      "neocortex",
-      "prefrontal",
-      "granular frontal neocortex",
-      "somatosensory",
+      "amygdala",
+      "basal ganglia",
       "brainstem",
       "cerebellum",
-      "thalamus",
-      "basal ganglia",
-      "hypothalamus",
+      "granular frontal neocortex",
       "hippocampus",
-      "amygdala",
-      "limbic"
+      "hypothalamus",
+      "limbic",
+      "neocortex",
+      "prefrontal",
+      "somatosensory",
+      "thalamus"
     ],
     "生物学": [
-      "bilaterian",
-      "vertebrate",
-      "primate",
-      "anemone",
-      "nematode",
-      "crustacean",
-      "octopus",
-      "squid",
-      "slug",
       "amphibian",
-      "reptile",
-      "homosapiens",
-      "chimpanzee",
-      "rodent",
-      "Ediacaran",
-      "Cambrian",
-      "Ordovician",
-      "Silurian",
-      "Devonian",
-      "Carboniferous",
-      "Permian",
-      "Triassic",
-      "Jurassic",
-      "Cretaceous",
-      "polio",
-      "burdock",
-      "lineage",
-      "niche",
+      "anemone",
       "ape",
-      "iguana"
+      "bilaterian",
+      "burdock",
+      "Cambrian",
+      "Carboniferous",
+      "chimpanzee",
+      "Cretaceous",
+      "crustacean",
+      "Devonian",
+      "Ediacaran",
+      "homosapiens",
+      "iguana",
+      "Jurassic",
+      "lineage",
+      "nematode",
+      "niche",
+      "octopus",
+      "Ordovician",
+      "Permian",
+      "polio",
+      "primate",
+      "reptile",
+      "rodent",
+      "Silurian",
+      "slug",
+      "squid",
+      "Triassic",
+      "vertebrate"
     ],
     "通用": [
-      "tumult",
-      "guise",
-      "sitcom",
-      "feat",
-      "tiff",
-      "cusp",
-      "chagrin",
-      "intrepid",
-      "proclaim",
-      "verge",
-      "nook",
-      "cranny",
-      "mesmerize",
+      "acquirement",
+      "awe-inspiring",
       "beguile",
+      "calamity",
+      "chagrin",
+      "chauvinism",
+      "cranny",
+      "culmination",
+      "cusp",
+      "delineate",
+      "devolve",
+      "endow",
+      "feat",
       "garner",
-      "wondrous",
+      "grain",
+      "guise",
+      "infuriating",
+      "intrepid",
+      "litmus",
       "locus",
-      "unwieldy",
+      "loom",
+      "mesmerize",
       "millennia",
       "minuscule",
-      "sheer",
-      "ungodly",
-      "tantalizing",
-      "infuriating",
-      "awe-inspiring",
-      "tuck",
-      "grain",
-      "endow",
-      "tinker",
-      "acquirement",
-      "triune",
-      "subjectivity",
-      "delineate",
-      "litmus",
-      "culmination",
+      "nook",
       "outwit",
-      "calamity",
-      "unfathomable",
-      "chauvinism",
-      "loom",
+      "proclaim",
       "rung",
-      "devolve"
+      "sheer",
+      "sitcom",
+      "subjectivity",
+      "tantalizing",
+      "tiff",
+      "tinker",
+      "triune",
+      "tuck",
+      "tumult",
+      "unfathomable",
+      "ungodly",
+      "unwieldy",
+      "verge",
+      "wondrous"
     ]
   },
   "source_policy": "Definitions were checked against public dictionary pages where reachable; Collins returned 403/Cloudflare in this environment and was not bypassed. Phonetics were added where extracted from reachable pages.",
@@ -103,108 +103,45 @@
   ],
   "neuroscience_entries": [
     {
-      "term": "neocortex",
+      "term": "amygdala",
       "category": "神经科学",
       "pos": "noun / 名词",
-      "en": "The neocortex is the six-layered outer/dorsal region of the mammalian cerebral cortex, associated with higher cortical processing such as perception, language, and reasoning.",
-      "zh": "新皮层：哺乳动物大脑皮层外侧、典型六层结构的部分；与高级认知、感觉整合、语言、推理等功能密切相关。",
+      "en": "The amygdala is an almond-shaped gray-matter structure in each temporal lobe/limbic system, linked to emotion—especially fear and pleasure—memory, and olfaction.",
+      "zh": "杏仁核：位于颞叶前部、形似杏仁的灰质结构，属于边缘系统；与情绪（尤其恐惧、愉悦）、记忆和嗅觉相关。",
       "sources": [
         [
           "Merriam-Webster",
-          "the large 6-layered dorsal region of the cerebral cortex that is unique to mammals",
-          "https://www.merriam-webster.com/dictionary/neocortex"
+          "an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe; part of the limbic system",
+          "https://www.merriam-webster.com/dictionary/amygdala"
         ],
         [
           "Cambridge",
-          "part of the outer layer of the brain, usually connected with higher thinking and intelligence",
-          "https://dictionary.cambridge.org/dictionary/english/neocortex"
+          "one of two parts of the brain that affect how people feel emotions, especially fear and pleasure",
+          "https://dictionary.cambridge.org/dictionary/english/amygdala"
         ],
         [
           "Oxford Learner’s",
-          "the part of the brain that controls sight and hearing",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/neocortex"
+          "either of two areas in the brain that are linked to memory, the emotions and the sense of smell",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/amygdala"
         ]
       ]
     },
     {
-      "term": "prefrontal",
+      "term": "basal ganglia",
       "category": "神经科学",
-      "pos": "adjective / 形容词",
-      "en": "Prefrontal means located in or relating to the front part of the frontal lobe/forebrain; in neuroanatomy it commonly modifies cortex, as in prefrontal cortex.",
-      "zh": "前额叶的、额前部的：位于或涉及额叶前部/大脑前部的；常见搭配是 prefrontal cortex（前额叶皮层）。",
+      "pos": "plural noun / 复数名词",
+      "en": "The basal ganglia are deep groups of gray-matter nuclei in each cerebral hemisphere that help regulate movement and also contribute to emotion, motivation, and cognition.",
+      "zh": "基底神经节/基底核：位于大脑半球深部的一组灰质核团；对运动控制很重要，也参与情绪、动机和认知功能。",
       "sources": [
         [
-          "Merriam-Webster",
-          "anterior to or involving the anterior part of a frontal structure",
-          "https://www.merriam-webster.com/dictionary/prefrontal"
+          "Merriam-Webster: basal ganglion",
+          "any of four deeply placed masses of gray matter within each cerebral hemisphere",
+          "https://www.merriam-webster.com/dictionary/basal%20ganglion"
         ],
         [
-          "Cambridge",
-          "in a position near the front of the brain or the head",
-          "https://dictionary.cambridge.org/dictionary/english/prefrontal"
-        ]
-      ]
-    },
-    {
-      "term": "granular frontal neocortex",
-      "category": "神经科学",
-      "pos": "noun phrase / 名词短语",
-      "en": "A specialized neuroanatomical phrase meaning the granular part of the frontal neocortex—frontal cortical tissue with a well-developed granular layer IV, often discussed in relation to granular/prefrontal cortex.",
-      "zh": "颗粒性额叶新皮层：额叶新皮层中具有明显颗粒层（尤其第 IV 层）的区域；通常用于比较或描述前额叶/额叶皮层的细胞构筑。主流学习词典未收录为独立词条，因此按 granular + frontal + neocortex 组合解释。",
-      "sources": [
-        [
-          "Merriam-Webster: granular",
-          "consisting of or appearing to consist of granules; finely detailed",
-          "https://www.merriam-webster.com/dictionary/granular"
-        ],
-        [
-          "Cambridge: granular",
-          "made of, or seeming like, granules",
-          "https://dictionary.cambridge.org/dictionary/english/granular"
-        ],
-        [
-          "Oxford Learner’s: granular",
-          "consisting of small granules; looking or feeling like a collection of granules",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/granular"
-        ],
-        [
-          "Merriam-Webster: frontal",
-          "relating to the forehead or frontal bone / front structure (dictionary sense checked)",
-          "https://www.merriam-webster.com/dictionary/frontal"
-        ],
-        [
-          "Cambridge: frontal",
-          "relating to the front of something; relating to the forehead",
-          "https://dictionary.cambridge.org/dictionary/english/frontal"
-        ],
-        [
-          "Merriam-Webster: neocortex",
-          "the large 6-layered dorsal region of the cerebral cortex that is unique to mammals",
-          "https://www.merriam-webster.com/dictionary/neocortex"
-        ]
-      ]
-    },
-    {
-      "term": "somatosensory",
-      "category": "神经科学",
-      "pos": "adjective / 形容词",
-      "en": "Somatosensory means relating to sensory information from the body rather than special sense organs, including touch, pain, temperature, proprioception, and body-state signals.",
-      "zh": "躯体感觉的：与身体本身产生的感觉有关，如触觉、痛觉、温度觉、本体感觉等，而不是视觉、听觉等特殊感觉。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "sensory activity having its origin elsewhere than in the special sense organs and conveying information about the state of the body proper and its immediate environment",
-          "https://www.merriam-webster.com/dictionary/somatosensory"
-        ],
-        [
-          "Merriam-Webster",
-          "relating to regions in the parietal lobe that receive and process somatosensory stimuli",
-          "https://www.merriam-webster.com/dictionary/somatosensory"
-        ],
-        [
-          "Cambridge",
-          "examples of use were available; no concise definition surfaced in fetched page",
-          "https://dictionary.cambridge.org/dictionary/english/somatosensory"
+          "Cambridge: basal ganglion",
+          "one of four areas in each side of the brain that helps process information related to movement, emotions, and solving problems",
+          "https://dictionary.cambridge.org/dictionary/english/basal-ganglion?q=basal-ganglia"
         ]
       ]
     },
@@ -257,69 +194,41 @@
       ]
     },
     {
-      "term": "thalamus",
+      "term": "granular frontal neocortex",
       "category": "神经科学",
-      "pos": "noun / 名词",
-      "en": "The thalamus is a paired diencephalic structure that relays and processes information, especially sensory signals, to and from the cerebral cortex.",
-      "zh": "丘脑：间脑中的成对结构，是许多感觉信息通往大脑皮层的重要中继站，也参与运动、觉醒和注意等功能。",
+      "pos": "noun phrase / 名词短语",
+      "en": "A specialized neuroanatomical phrase meaning the granular part of the frontal neocortex—frontal cortical tissue with a well-developed granular layer IV, often discussed in relation to granular/prefrontal cortex.",
+      "zh": "颗粒性额叶新皮层：额叶新皮层中具有明显颗粒层（尤其第 IV 层）的区域；通常用于比较或描述前额叶/额叶皮层的细胞构筑。主流学习词典未收录为独立词条，因此按 granular + frontal + neocortex 组合解释。",
       "sources": [
         [
-          "Merriam-Webster",
-          "the largest subdivision of the diencephalon... serves chiefly to relay impulses and especially sensory impulses to and from the cerebral cortex",
-          "https://www.merriam-webster.com/dictionary/thalamus"
+          "Merriam-Webster: granular",
+          "consisting of or appearing to consist of granules; finely detailed",
+          "https://www.merriam-webster.com/dictionary/granular"
         ],
         [
-          "Cambridge",
-          "one of the two oval-shaped parts of the brain that control feeling and all the senses except for the sense of smell",
-          "https://dictionary.cambridge.org/dictionary/english/thalamus"
+          "Cambridge: granular",
+          "made of, or seeming like, granules",
+          "https://dictionary.cambridge.org/dictionary/english/granular"
         ],
         [
-          "Oxford Learner’s",
-          "either of the two parts of the brain that control pain and feeling",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/thalamus"
-        ]
-      ]
-    },
-    {
-      "term": "basal ganglia",
-      "category": "神经科学",
-      "pos": "plural noun / 复数名词",
-      "en": "The basal ganglia are deep groups of gray-matter nuclei in each cerebral hemisphere that help regulate movement and also contribute to emotion, motivation, and cognition.",
-      "zh": "基底神经节/基底核：位于大脑半球深部的一组灰质核团；对运动控制很重要，也参与情绪、动机和认知功能。",
-      "sources": [
-        [
-          "Merriam-Webster: basal ganglion",
-          "any of four deeply placed masses of gray matter within each cerebral hemisphere",
-          "https://www.merriam-webster.com/dictionary/basal%20ganglion"
+          "Oxford Learner’s: granular",
+          "consisting of small granules; looking or feeling like a collection of granules",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/granular"
         ],
         [
-          "Cambridge: basal ganglion",
-          "one of four areas in each side of the brain that helps process information related to movement, emotions, and solving problems",
-          "https://dictionary.cambridge.org/dictionary/english/basal-ganglion?q=basal-ganglia"
-        ]
-      ]
-    },
-    {
-      "term": "hypothalamus",
-      "category": "神经科学",
-      "pos": "noun / 名词",
-      "en": "The hypothalamus is a small lower central part of the brain beneath the thalamus, containing autonomic and endocrine regulatory centers for body temperature, hunger, thirst, and hormone release.",
-      "zh": "下丘脑：位于丘脑下方的脑区；调节体温、饥饿、口渴、内分泌激素释放以及自主神经功能。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a basal part of the diencephalon that lies beneath the thalamus... includes vital autonomic regulatory centers",
-          "https://www.merriam-webster.com/dictionary/hypothalamus"
+          "Merriam-Webster: frontal",
+          "relating to the forehead or frontal bone / front structure (dictionary sense checked)",
+          "https://www.merriam-webster.com/dictionary/frontal"
         ],
         [
-          "Cambridge",
-          "a small part in the brain that controls things such as body temperature and the release of hormones, that is below the thalamus",
-          "https://dictionary.cambridge.org/dictionary/english/hypothalamus"
+          "Cambridge: frontal",
+          "relating to the front of something; relating to the forehead",
+          "https://dictionary.cambridge.org/dictionary/english/frontal"
         ],
         [
-          "Oxford Learner’s",
-          "an area in the central lower part of the brain that controls body temperature, hunger and the release of hormones",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/hypothalamus"
+          "Merriam-Webster: neocortex",
+          "the large 6-layered dorsal region of the cerebral cortex that is unique to mammals",
+          "https://www.merriam-webster.com/dictionary/neocortex"
         ]
       ]
     },
@@ -348,93 +257,144 @@
       ]
     },
     {
-      "term": "amygdala",
+      "term": "hypothalamus",
       "category": "神经科学",
       "pos": "noun / 名词",
-      "en": "The amygdala is an almond-shaped gray-matter structure in each temporal lobe/limbic system, linked to emotion—especially fear and pleasure—memory, and olfaction.",
-      "zh": "杏仁核：位于颞叶前部、形似杏仁的灰质结构，属于边缘系统；与情绪（尤其恐惧、愉悦）、记忆和嗅觉相关。",
+      "en": "The hypothalamus is a small lower central part of the brain beneath the thalamus, containing autonomic and endocrine regulatory centers for body temperature, hunger, thirst, and hormone release.",
+      "zh": "下丘脑：位于丘脑下方的脑区；调节体温、饥饿、口渴、内分泌激素释放以及自主神经功能。",
       "sources": [
         [
           "Merriam-Webster",
-          "an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe; part of the limbic system",
-          "https://www.merriam-webster.com/dictionary/amygdala"
+          "a basal part of the diencephalon that lies beneath the thalamus... includes vital autonomic regulatory centers",
+          "https://www.merriam-webster.com/dictionary/hypothalamus"
         ],
         [
           "Cambridge",
-          "one of two parts of the brain that affect how people feel emotions, especially fear and pleasure",
-          "https://dictionary.cambridge.org/dictionary/english/amygdala"
+          "a small part in the brain that controls things such as body temperature and the release of hormones, that is below the thalamus",
+          "https://dictionary.cambridge.org/dictionary/english/hypothalamus"
         ],
         [
           "Oxford Learner’s",
-          "either of two areas in the brain that are linked to memory, the emotions and the sense of smell",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/amygdala"
+          "an area in the central lower part of the brain that controls body temperature, hunger and the release of hormones",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/hypothalamus"
+        ]
+      ]
+    },
+    {
+      "term": "neocortex",
+      "category": "神经科学",
+      "pos": "noun / 名词",
+      "en": "The neocortex is the six-layered outer/dorsal region of the mammalian cerebral cortex, associated with higher cortical processing such as perception, language, and reasoning.",
+      "zh": "新皮层：哺乳动物大脑皮层外侧、典型六层结构的部分；与高级认知、感觉整合、语言、推理等功能密切相关。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "the large 6-layered dorsal region of the cerebral cortex that is unique to mammals",
+          "https://www.merriam-webster.com/dictionary/neocortex"
+        ],
+        [
+          "Cambridge",
+          "part of the outer layer of the brain, usually connected with higher thinking and intelligence",
+          "https://dictionary.cambridge.org/dictionary/english/neocortex"
+        ],
+        [
+          "Oxford Learner’s",
+          "the part of the brain that controls sight and hearing",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/neocortex"
+        ]
+      ]
+    },
+    {
+      "term": "prefrontal",
+      "category": "神经科学",
+      "pos": "adjective / 形容词",
+      "en": "Prefrontal means located in or relating to the front part of the frontal lobe/forebrain; in neuroanatomy it commonly modifies cortex, as in prefrontal cortex.",
+      "zh": "前额叶的、额前部的：位于或涉及额叶前部/大脑前部的；常见搭配是 prefrontal cortex（前额叶皮层）。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "anterior to or involving the anterior part of a frontal structure",
+          "https://www.merriam-webster.com/dictionary/prefrontal"
+        ],
+        [
+          "Cambridge",
+          "in a position near the front of the brain or the head",
+          "https://dictionary.cambridge.org/dictionary/english/prefrontal"
+        ]
+      ]
+    },
+    {
+      "term": "somatosensory",
+      "category": "神经科学",
+      "pos": "adjective / 形容词",
+      "en": "Somatosensory means relating to sensory information from the body rather than special sense organs, including touch, pain, temperature, proprioception, and body-state signals.",
+      "zh": "躯体感觉的：与身体本身产生的感觉有关，如触觉、痛觉、温度觉、本体感觉等，而不是视觉、听觉等特殊感觉。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "sensory activity having its origin elsewhere than in the special sense organs and conveying information about the state of the body proper and its immediate environment",
+          "https://www.merriam-webster.com/dictionary/somatosensory"
+        ],
+        [
+          "Merriam-Webster",
+          "relating to regions in the parietal lobe that receive and process somatosensory stimuli",
+          "https://www.merriam-webster.com/dictionary/somatosensory"
+        ],
+        [
+          "Cambridge",
+          "examples of use were available; no concise definition surfaced in fetched page",
+          "https://dictionary.cambridge.org/dictionary/english/somatosensory"
+        ]
+      ]
+    },
+    {
+      "term": "thalamus",
+      "category": "神经科学",
+      "pos": "noun / 名词",
+      "en": "The thalamus is a paired diencephalic structure that relays and processes information, especially sensory signals, to and from the cerebral cortex.",
+      "zh": "丘脑：间脑中的成对结构，是许多感觉信息通往大脑皮层的重要中继站，也参与运动、觉醒和注意等功能。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "the largest subdivision of the diencephalon... serves chiefly to relay impulses and especially sensory impulses to and from the cerebral cortex",
+          "https://www.merriam-webster.com/dictionary/thalamus"
+        ],
+        [
+          "Cambridge",
+          "one of the two oval-shaped parts of the brain that control feeling and all the senses except for the sense of smell",
+          "https://dictionary.cambridge.org/dictionary/english/thalamus"
+        ],
+        [
+          "Oxford Learner’s",
+          "either of the two parts of the brain that control pain and feeling",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/thalamus"
         ]
       ]
     }
   ],
   "biology_entries": [
     {
-      "term": "bilaterian",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "A bilaterian is an animal with bilateral symmetry—its body can be divided into left and right mirror-image halves.",
-      "zh": "两侧对称动物：身体可分成左右近似镜像两半的动物；大多数动物类群（如脊椎动物、节肢动物、软体动物）属于这一大类。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "an animal having bilateral symmetry",
-          "https://www.merriam-webster.com/dictionary/bilaterian"
-        ]
-      ]
-    },
-    {
-      "term": "vertebrate",
+      "term": "amphibian",
       "category": "生物学",
       "subcategory": "动物分类/生物演化",
       "pos": "noun/adjective / 名词/形容词",
-      "en": "A vertebrate is an animal in Vertebrata, typically having a backbone or spinal column, a distinct head and internal skeleton.",
-      "zh": "脊椎动物/脊椎的：通常具有脊柱或脊椎骨、明显头部和内骨骼的动物，如鱼类、两栖类、爬行类、鸟类和哺乳类。",
+      "en": "An amphibian is a cold-blooded vertebrate such as a frog, toad, newt or salamander, often living in water as larvae and on land as adults.",
+      "zh": "两栖动物/两栖的：冷血脊椎动物，如蛙、蟾蜍、蝾螈；通常幼体水生、成体可在陆地生活。",
       "sources": [
         [
           "Merriam-Webster",
-          "any of a subphylum (Vertebrata) of chordates that comprises animals (such as mammals, birds, reptiles, amphibians, and fishes) typically having a bony or cartilaginous spinal column which replaces the notochord , a distinct head containing a brain which arises as an enlarged part of the nerve cord , and an internal usually bony skeleton and that includes some primitive forms (such as lampreys ) in which the spinal column is absent and the notochord persists throughout life",
-          "https://www.merriam-webster.com/dictionary/vertebrate"
+          "an amphibious organism",
+          "https://www.merriam-webster.com/dictionary/amphibian"
         ],
         [
           "Cambridge",
-          "having a spine (= back bone )",
-          "https://dictionary.cambridge.org/dictionary/english/vertebrate"
+          "relating to animals of the class Amphibia (= the amphibians)",
+          "https://dictionary.cambridge.org/dictionary/english/amphibian"
         ],
         [
           "Oxford Learner’s",
-          "having a backbone",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/vertebrate_1"
-        ]
-      ]
-    },
-    {
-      "term": "primate",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "A primate is a mammal in the order Primates, including humans, apes, monkeys, lemurs and tarsiers, often characterized by grasping hands/feet and advanced vision.",
-      "zh": "灵长类动物：灵长目哺乳动物，包括人类、猿、猴、狐猴、眼镜猴等；常具有抓握能力、较发达视觉和较大的大脑。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "any of an order (Primates) of mammals that are characterized especially by advanced development of binocular vision resulting in stereoscopic depth perception , specialization of the hands and feet for grasping, and enlargement of the cerebral hemispheres and that include humans, apes, monkeys, and related forms (such as lemurs and tarsiers)",
-          "https://www.merriam-webster.com/dictionary/primate"
-        ],
-        [
-          "Cambridge",
-          "a member of the most developed and intelligent group of mammals , including humans , monkeys , and apes",
-          "https://dictionary.cambridge.org/dictionary/english/primate"
-        ],
-        [
-          "Oxford Learner’s",
-          "any animal that belongs to the group of mammals that includes humans, apes and monkeys",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/primate"
+          "any animal that can live both on land and in water. Amphibians have cold blood and skin without scales . Frogs , toads and newts are all amphibians .",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/amphibian"
         ]
       ]
     },
@@ -464,262 +424,17 @@
       ]
     },
     {
-      "term": "nematode",
+      "term": "bilaterian",
       "category": "生物学",
       "subcategory": "动物分类/生物演化",
       "pos": "noun / 名词",
-      "en": "A nematode is a roundworm: a thin, unsegmented cylindrical worm, free-living or parasitic in plants or animals.",
-      "zh": "线虫：身体细长、圆筒形、不分节的蠕虫；可自由生活于土壤/水中，也可寄生于植物或动物。",
+      "en": "A bilaterian is an animal with bilateral symmetry—its body can be divided into left and right mirror-image halves.",
+      "zh": "两侧对称动物：身体可分成左右近似镜像两半的动物；大多数动物类群（如脊椎动物、节肢动物、软体动物）属于这一大类。",
       "sources": [
         [
           "Merriam-Webster",
-          "any of a phylum (Nematoda or Nemata) of elongated cylindrical worms parasitic in animals or plants or free-living in soil or water",
-          "https://www.merriam-webster.com/dictionary/nematode"
-        ],
-        [
-          "Cambridge",
-          "a thin worm that is not divided into sections",
-          "https://dictionary.cambridge.org/dictionary/english/nematode"
-        ],
-        [
-          "Oxford Learner’s",
-          "a worm with a thin body that is shaped like a tube and not divided into sections",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/nematode"
-        ]
-      ]
-    },
-    {
-      "term": "crustacean",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "A crustacean is mostly an aquatic arthropod with a hard exoskeleton and segmented body; crabs, lobsters, shrimp and barnacles are examples.",
-      "zh": "甲壳动物：多为水生节肢动物，具有硬外骨骼和分节身体；螃蟹、龙虾、虾、藤壶等都属于甲壳动物。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "any of a large class (Crustacea) of mostly aquatic mandibulate arthropods that have a chitinous or calcareous and chitinous exoskeleton, a pair of often much modified appendages on each segment, and two pairs of antennae and that include the lobsters, shrimp, crabs, wood lice, water fleas, and barnacles",
-          "https://www.merriam-webster.com/dictionary/crustacean"
-        ],
-        [
-          "Cambridge",
-          "any of various types of animal that live in water and have a hard outer shell",
-          "https://dictionary.cambridge.org/dictionary/english/crustacean"
-        ],
-        [
-          "Oxford Learner’s",
-          "any creature with a soft body that is divided into sections, and a hard outer shell. Most crustaceans live in water. Crabs , lobsters and shrimps are all crustaceans .",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/crustacean"
-        ]
-      ]
-    },
-    {
-      "term": "octopus",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "An octopus is a cephalopod mollusk with a soft body and eight arms bearing suckers.",
-      "zh": "章鱼/八腕目动物：软体动物门头足纲动物，身体柔软，有八条带吸盘的腕。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "any of a genus ( Octopus ) of cephalopod mollusks that have eight muscular arms equipped with two rows of suckers",
-          "https://www.merriam-webster.com/dictionary/octopus"
-        ],
-        [
-          "Cambridge",
-          "a sea creature with a soft , oval body and eight arms",
-          "https://dictionary.cambridge.org/dictionary/english/octopus"
-        ],
-        [
-          "Oxford Learner’s",
-          "a sea creature with a soft round body and eight long arms, which is sometimes used for food",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/octopus"
-        ]
-      ]
-    },
-    {
-      "term": "squid",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "A squid is a cephalopod with a long soft body, eight arms and two longer tentacles around the mouth.",
-      "zh": "鱿鱼/枪乌贼：头足类软体动物，身体细长柔软，口周围有八条腕和两条较长触腕。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "any of an order (Teuthoidea) of cephalopods having eight short arms and two usually longer tentacles, a long tapered body, a caudal fin on each side, and usually a slender internal chitinous support",
-          "https://www.merriam-webster.com/dictionary/squid"
-        ],
-        [
-          "Cambridge",
-          "a sea creature with a long body and ten arms situated around the mouth , or this animal eaten as food",
-          "https://dictionary.cambridge.org/dictionary/english/squid"
-        ],
-        [
-          "Oxford Learner’s",
-          "a sea creature that has a long soft body, eight arms and two tentacles (= long thin parts like arms) around its mouth, and that is sometimes used for food",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/squid"
-        ]
-      ]
-    },
-    {
-      "term": "slug",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "A slug is a small soft-bodied gastropod, like a snail but without an obvious external shell.",
-      "zh": "蛞蝓/鼻涕虫：软体动物，类似蜗牛但通常没有明显外壳，身体柔软、行动缓慢。",
-      "sources": [
-        [
-          "Cambridge",
-          "a small , usually black or brown creature with a long , soft body and no arms or legs , like a snail but with no shell",
-          "https://dictionary.cambridge.org/dictionary/english/slug"
-        ],
-        [
-          "Oxford Learner’s",
-          "a small, soft creature, like a snail without a shell, that moves very slowly and often eats garden plants",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/slug_1"
-        ]
-      ]
-    },
-    {
-      "term": "amphibian",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun/adjective / 名词/形容词",
-      "en": "An amphibian is a cold-blooded vertebrate such as a frog, toad, newt or salamander, often living in water as larvae and on land as adults.",
-      "zh": "两栖动物/两栖的：冷血脊椎动物，如蛙、蟾蜍、蝾螈；通常幼体水生、成体可在陆地生活。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "an amphibious organism",
-          "https://www.merriam-webster.com/dictionary/amphibian"
-        ],
-        [
-          "Cambridge",
-          "relating to animals of the class Amphibia (= the amphibians)",
-          "https://dictionary.cambridge.org/dictionary/english/amphibian"
-        ],
-        [
-          "Oxford Learner’s",
-          "any animal that can live both on land and in water. Amphibians have cold blood and skin without scales . Frogs , toads and newts are all amphibians .",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/amphibian"
-        ]
-      ]
-    },
-    {
-      "term": "reptile",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "A reptile is a cold-blooded, air-breathing vertebrate with scaly skin, typically laying eggs; snakes, lizards, turtles and crocodiles are examples.",
-      "zh": "爬行动物：冷血、用肺呼吸、皮肤常覆鳞片或骨板的脊椎动物，通常产卵；蛇、蜥蜴、龟、鳄等属于此类。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "an animal that crawls or moves on its belly (such as a snake) or on small short legs (such as a lizard)",
-          "https://www.merriam-webster.com/dictionary/reptile"
-        ],
-        [
-          "Cambridge",
-          "an animal that produces eggs and uses the heat of the sun to control its blood temperature",
-          "https://dictionary.cambridge.org/dictionary/english/reptile"
-        ],
-        [
-          "Oxford Learner’s",
-          "any animal that has cold blood and skin covered in scales , and that lays eggs. Snakes, crocodiles and tortoises are all reptiles .",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/reptile"
-        ]
-      ]
-    },
-    {
-      "term": "homosapiens",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "Homo sapiens is the species name for modern humans. The file spelling “homosapiens” is normalized here as “Homo sapiens”.",
-      "zh": "智人：现代人类的物种名。原文件写作 homosapiens，这里按标准写法 Homo sapiens 处理。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "humankind",
-          "https://www.merriam-webster.com/dictionary/Homo%20sapiens"
-        ],
-        [
-          "Cambridge",
-          "modern humans considered together as a species",
-          "https://dictionary.cambridge.org/dictionary/english/homo-sapiens"
-        ],
-        [
-          "Oxford Learner’s",
-          "the kind or species of human that exists now",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/homo-sapiens"
-        ]
-      ]
-    },
-    {
-      "term": "chimpanzee",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "A chimpanzee is an intelligent African great ape of the genus Pan, closely related to humans.",
-      "zh": "黑猩猩：非洲大型类人猿，属于 Pan 属，智能较高，与人类亲缘关系很近。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a great ape ( Pan troglodytes ) of equatorial Africa that is smaller and more arboreal than the gorilla compare bonobo",
-          "https://www.merriam-webster.com/dictionary/chimpanzee"
-        ],
-        [
-          "Cambridge",
-          "a small , very intelligent African ape with black or brown fur",
-          "https://dictionary.cambridge.org/dictionary/english/chimpanzee"
-        ],
-        [
-          "Oxford Learner’s",
-          "a small intelligent African ape (= an animal like a large monkey without a tail)",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/chimpanzee"
-        ]
-      ]
-    },
-    {
-      "term": "rodent",
-      "category": "生物学",
-      "subcategory": "动物分类/生物演化",
-      "pos": "noun / 名词",
-      "en": "A rodent is a mammal of the order Rodentia, usually small and characterized by a pair of strong gnawing incisors in each jaw.",
-      "zh": "啮齿动物：啮齿目哺乳动物，通常体型较小，上下颌有适合啃咬的一对门齿；鼠、松鼠、海狸等属于此类。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "any of an order (Rodentia) of relatively small gnawing mammals (such as a mouse, squirrel, or beaver) that have in both jaws a single pair of incisors with a chisel-shaped edge",
-          "https://www.merriam-webster.com/dictionary/rodent"
-        ],
-        [
-          "Cambridge",
-          "any of various small mammals with large , sharp front teeth , such as mice and rats",
-          "https://dictionary.cambridge.org/dictionary/english/rodent"
-        ],
-        [
-          "Oxford Learner’s",
-          "any small animal that belongs to a group of animals with strong sharp front teeth. Mice, rats and squirrels are all rodents .",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/rodent"
-        ]
-      ]
-    },
-    {
-      "term": "Ediacaran",
-      "category": "生物学",
-      "subcategory": "古生物学/地质年代",
-      "pos": "adjective/noun / 形容词/名词",
-      "en": "Ediacaran refers to the late Precambrian interval and its distinctive extinct multicellular marine organisms.",
-      "zh": "埃迪卡拉纪/埃迪卡拉生物群的：指前寒武纪晚期的地质时期及其中典型的已灭绝多细胞海洋生物群。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "being or belonging to an assemblage of extinct multicellular marine organisms of the Late Precambrian era",
-          "https://www.merriam-webster.com/dictionary/Ediacaran"
+          "an animal having bilateral symmetry",
+          "https://www.merriam-webster.com/dictionary/bilaterian"
         ]
       ]
     },
@@ -749,66 +464,6 @@
       ]
     },
     {
-      "term": "Ordovician",
-      "category": "生物学",
-      "subcategory": "古生物学/地质年代",
-      "pos": "adjective/noun / 形容词/名词",
-      "en": "Ordovician refers to the Paleozoic period between the Cambrian and Silurian, marked by diverse marine life including early vertebrates.",
-      "zh": "奥陶纪/奥陶系的：寒武纪之后、志留纪之前的古生代时期，海洋生物多样，出现多类海生动物和早期脊椎动物。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "of, relating to, or being the period between the Cambrian and the Silurian or the corresponding system of rocks see Geologic Time Table",
-          "https://www.merriam-webster.com/dictionary/Ordovician"
-        ],
-        [
-          "Cambridge",
-          "from or referring to the period of time between about 485 and 445 million years ago, in which there were many different types of animals in the sea , including vertebrates (= animals with backbones ) , but no life on land",
-          "https://dictionary.cambridge.org/dictionary/english/ordovician"
-        ]
-      ]
-    },
-    {
-      "term": "Silurian",
-      "category": "生物学",
-      "subcategory": "古生物学/地质年代",
-      "pos": "adjective/noun / 形容词/名词",
-      "en": "Silurian refers to the Paleozoic period between the Ordovician and Devonian, associated with jawed fishes and early land plants/animals.",
-      "zh": "志留纪/志留系的：奥陶纪之后、泥盆纪之前的古生代时期，出现有颌鱼类以及早期陆生植物和小型陆生动物。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "of, relating to, or being a period of the Paleozoic era between the Ordovician and Devonian or the corresponding system of rocks marked by numerous eurypterid crustaceans and the appearance of the first land plants see Geologic Time Table",
-          "https://www.merriam-webster.com/dictionary/Silurian"
-        ],
-        [
-          "Cambridge",
-          "from or referring to the period of time between about 445 and 420 million years ago, in which fish with jaws (= mouth bones ) and some plants and small animals on land first appeared",
-          "https://dictionary.cambridge.org/dictionary/english/silurian"
-        ]
-      ]
-    },
-    {
-      "term": "Devonian",
-      "category": "生物学",
-      "subcategory": "古生物学/地质年代",
-      "pos": "adjective/noun / 形容词/名词",
-      "en": "Devonian refers to the Paleozoic period after the Silurian, notable for the expansion of fishes and the appearance of many land plants including early trees.",
-      "zh": "泥盆纪/泥盆系的：志留纪之后的古生代时期，常被称为“鱼类时代”，陆生植物也显著发展并出现早期树木。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "of, relating to, or being the period of the Paleozoic era between the Silurian and the Mississippian or the corresponding system of rocks see Geologic Time Table",
-          "https://www.merriam-webster.com/dictionary/Devonian"
-        ],
-        [
-          "Cambridge",
-          "from or referring to the period of time between about 420 and 360 million years ago, in which many plants , including the first trees , appeared on land",
-          "https://dictionary.cambridge.org/dictionary/english/devonian"
-        ]
-      ]
-    },
-    {
       "term": "Carboniferous",
       "category": "生物学",
       "subcategory": "古生物学/地质年代",
@@ -834,42 +489,137 @@
       ]
     },
     {
-      "term": "Permian",
+      "term": "chimpanzee",
       "category": "生物学",
-      "subcategory": "古生物学/地质年代",
-      "pos": "adjective/noun / 形容词/名词",
-      "en": "Permian refers to the last Paleozoic period, ending with the largest mass extinction in Earth history.",
-      "zh": "二叠纪/二叠系的：古生代最后一个时期，末期发生地球历史上规模最大的生物大灭绝。",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "A chimpanzee is an intelligent African great ape of the genus Pan, closely related to humans.",
+      "zh": "黑猩猩：非洲大型类人猿，属于 Pan 属，智能较高，与人类亲缘关系很近。",
       "sources": [
         [
           "Merriam-Webster",
-          "of, relating to, or being the last period of the Paleozoic era or the corresponding system of rocks see Geologic Time Table",
-          "https://www.merriam-webster.com/dictionary/Permian"
+          "a great ape ( Pan troglodytes ) of equatorial Africa that is smaller and more arboreal than the gorilla compare bonobo",
+          "https://www.merriam-webster.com/dictionary/chimpanzee"
         ],
         [
           "Cambridge",
-          "from or referring to the period of time between about 290 and 250 million years ago, in which large reptiles and amphibians appeared , and that ended with most species on earth becoming extinct (= dying out completely )",
-          "https://dictionary.cambridge.org/dictionary/english/permian"
+          "a small , very intelligent African ape with black or brown fur",
+          "https://dictionary.cambridge.org/dictionary/english/chimpanzee"
+        ],
+        [
+          "Oxford Learner’s",
+          "a small intelligent African ape (= an animal like a large monkey without a tail)",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/chimpanzee"
         ]
       ]
     },
     {
-      "term": "Triassic",
+      "term": "Cretaceous",
       "category": "生物学",
       "subcategory": "古生物学/地质年代",
       "pos": "adjective/noun / 形容词/名词",
-      "en": "Triassic refers to the earliest Mesozoic period, when dinosaurs first appeared.",
-      "zh": "三叠纪/三叠系的：中生代最早时期，恐龙首次出现。",
+      "en": "Cretaceous refers to the last Mesozoic period, with flowering plants expanding, mammals diversifying, and many organisms including non-avian dinosaurs becoming extinct at the end.",
+      "zh": "白垩纪/白垩系的：中生代最后时期，开花植物扩张、哺乳动物多样化，末期包括非鸟恐龙在内的许多生物灭绝。",
       "sources": [
         [
           "Merriam-Webster",
-          "of, relating to, or being the earliest period of the Mesozoic era or the corresponding system of rocks marked by the first appearance of the dinosaurs see Geologic Time Table",
-          "https://www.merriam-webster.com/dictionary/Triassic"
+          "of, relating to, or being the last period of the Mesozoic era characterized by continued dominance of reptiles, emergent dominance of angiosperms, diversification of mammals, and the extinction of many types of organisms at the close of the period",
+          "https://www.merriam-webster.com/dictionary/Cretaceous"
         ],
         [
           "Cambridge",
-          "from or referring to the period of time between around 245 and 208 million years ago, in which dinosaurs (= large reptiles that no longer exist ) first appeared",
-          "https://dictionary.cambridge.org/dictionary/english/triassic"
+          "from or referring to the period of time between around 144 and 65 million years ago, in which plants with flowers first appeared",
+          "https://dictionary.cambridge.org/dictionary/english/cretaceous"
+        ],
+        [
+          "Oxford Learner’s",
+          "belonging to the period between around 146 and 65 million years ago, when dinosaurs lived (until they died out); relating to the rocks formed during this time",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/cretaceous"
+        ]
+      ]
+    },
+    {
+      "term": "crustacean",
+      "category": "生物学",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "A crustacean is mostly an aquatic arthropod with a hard exoskeleton and segmented body; crabs, lobsters, shrimp and barnacles are examples.",
+      "zh": "甲壳动物：多为水生节肢动物，具有硬外骨骼和分节身体；螃蟹、龙虾、虾、藤壶等都属于甲壳动物。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "any of a large class (Crustacea) of mostly aquatic mandibulate arthropods that have a chitinous or calcareous and chitinous exoskeleton, a pair of often much modified appendages on each segment, and two pairs of antennae and that include the lobsters, shrimp, crabs, wood lice, water fleas, and barnacles",
+          "https://www.merriam-webster.com/dictionary/crustacean"
+        ],
+        [
+          "Cambridge",
+          "any of various types of animal that live in water and have a hard outer shell",
+          "https://dictionary.cambridge.org/dictionary/english/crustacean"
+        ],
+        [
+          "Oxford Learner’s",
+          "any creature with a soft body that is divided into sections, and a hard outer shell. Most crustaceans live in water. Crabs , lobsters and shrimps are all crustaceans .",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/crustacean"
+        ]
+      ]
+    },
+    {
+      "term": "Devonian",
+      "category": "生物学",
+      "subcategory": "古生物学/地质年代",
+      "pos": "adjective/noun / 形容词/名词",
+      "en": "Devonian refers to the Paleozoic period after the Silurian, notable for the expansion of fishes and the appearance of many land plants including early trees.",
+      "zh": "泥盆纪/泥盆系的：志留纪之后的古生代时期，常被称为“鱼类时代”，陆生植物也显著发展并出现早期树木。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "of, relating to, or being the period of the Paleozoic era between the Silurian and the Mississippian or the corresponding system of rocks see Geologic Time Table",
+          "https://www.merriam-webster.com/dictionary/Devonian"
+        ],
+        [
+          "Cambridge",
+          "from or referring to the period of time between about 420 and 360 million years ago, in which many plants , including the first trees , appeared on land",
+          "https://dictionary.cambridge.org/dictionary/english/devonian"
+        ]
+      ]
+    },
+    {
+      "term": "Ediacaran",
+      "category": "生物学",
+      "subcategory": "古生物学/地质年代",
+      "pos": "adjective/noun / 形容词/名词",
+      "en": "Ediacaran refers to the late Precambrian interval and its distinctive extinct multicellular marine organisms.",
+      "zh": "埃迪卡拉纪/埃迪卡拉生物群的：指前寒武纪晚期的地质时期及其中典型的已灭绝多细胞海洋生物群。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "being or belonging to an assemblage of extinct multicellular marine organisms of the Late Precambrian era",
+          "https://www.merriam-webster.com/dictionary/Ediacaran"
+        ]
+      ]
+    },
+    {
+      "term": "homosapiens",
+      "category": "生物学",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "Homo sapiens is the species name for modern humans. The file spelling “homosapiens” is normalized here as “Homo sapiens”.",
+      "zh": "智人：现代人类的物种名。原文件写作 homosapiens，这里按标准写法 Homo sapiens 处理。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "humankind",
+          "https://www.merriam-webster.com/dictionary/Homo%20sapiens"
+        ],
+        [
+          "Cambridge",
+          "modern humans considered together as a species",
+          "https://dictionary.cambridge.org/dictionary/english/homo-sapiens"
+        ],
+        [
+          "Oxford Learner’s",
+          "the kind or species of human that exists now",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/homo-sapiens"
         ]
       ]
     },
@@ -899,27 +649,277 @@
       ]
     },
     {
-      "term": "Cretaceous",
+      "term": "nematode",
       "category": "生物学",
-      "subcategory": "古生物学/地质年代",
-      "pos": "adjective/noun / 形容词/名词",
-      "en": "Cretaceous refers to the last Mesozoic period, with flowering plants expanding, mammals diversifying, and many organisms including non-avian dinosaurs becoming extinct at the end.",
-      "zh": "白垩纪/白垩系的：中生代最后时期，开花植物扩张、哺乳动物多样化，末期包括非鸟恐龙在内的许多生物灭绝。",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "A nematode is a roundworm: a thin, unsegmented cylindrical worm, free-living or parasitic in plants or animals.",
+      "zh": "线虫：身体细长、圆筒形、不分节的蠕虫；可自由生活于土壤/水中，也可寄生于植物或动物。",
       "sources": [
         [
           "Merriam-Webster",
-          "of, relating to, or being the last period of the Mesozoic era characterized by continued dominance of reptiles, emergent dominance of angiosperms, diversification of mammals, and the extinction of many types of organisms at the close of the period",
-          "https://www.merriam-webster.com/dictionary/Cretaceous"
+          "any of a phylum (Nematoda or Nemata) of elongated cylindrical worms parasitic in animals or plants or free-living in soil or water",
+          "https://www.merriam-webster.com/dictionary/nematode"
         ],
         [
           "Cambridge",
-          "from or referring to the period of time between around 144 and 65 million years ago, in which plants with flowers first appeared",
-          "https://dictionary.cambridge.org/dictionary/english/cretaceous"
+          "a thin worm that is not divided into sections",
+          "https://dictionary.cambridge.org/dictionary/english/nematode"
         ],
         [
           "Oxford Learner’s",
-          "belonging to the period between around 146 and 65 million years ago, when dinosaurs lived (until they died out); relating to the rocks formed during this time",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/cretaceous"
+          "a worm with a thin body that is shaped like a tube and not divided into sections",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/nematode"
+        ]
+      ]
+    },
+    {
+      "term": "octopus",
+      "category": "生物学",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "An octopus is a cephalopod mollusk with a soft body and eight arms bearing suckers.",
+      "zh": "章鱼/八腕目动物：软体动物门头足纲动物，身体柔软，有八条带吸盘的腕。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "any of a genus ( Octopus ) of cephalopod mollusks that have eight muscular arms equipped with two rows of suckers",
+          "https://www.merriam-webster.com/dictionary/octopus"
+        ],
+        [
+          "Cambridge",
+          "a sea creature with a soft , oval body and eight arms",
+          "https://dictionary.cambridge.org/dictionary/english/octopus"
+        ],
+        [
+          "Oxford Learner’s",
+          "a sea creature with a soft round body and eight long arms, which is sometimes used for food",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/octopus"
+        ]
+      ]
+    },
+    {
+      "term": "Ordovician",
+      "category": "生物学",
+      "subcategory": "古生物学/地质年代",
+      "pos": "adjective/noun / 形容词/名词",
+      "en": "Ordovician refers to the Paleozoic period between the Cambrian and Silurian, marked by diverse marine life including early vertebrates.",
+      "zh": "奥陶纪/奥陶系的：寒武纪之后、志留纪之前的古生代时期，海洋生物多样，出现多类海生动物和早期脊椎动物。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "of, relating to, or being the period between the Cambrian and the Silurian or the corresponding system of rocks see Geologic Time Table",
+          "https://www.merriam-webster.com/dictionary/Ordovician"
+        ],
+        [
+          "Cambridge",
+          "from or referring to the period of time between about 485 and 445 million years ago, in which there were many different types of animals in the sea , including vertebrates (= animals with backbones ) , but no life on land",
+          "https://dictionary.cambridge.org/dictionary/english/ordovician"
+        ]
+      ]
+    },
+    {
+      "term": "Permian",
+      "category": "生物学",
+      "subcategory": "古生物学/地质年代",
+      "pos": "adjective/noun / 形容词/名词",
+      "en": "Permian refers to the last Paleozoic period, ending with the largest mass extinction in Earth history.",
+      "zh": "二叠纪/二叠系的：古生代最后一个时期，末期发生地球历史上规模最大的生物大灭绝。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "of, relating to, or being the last period of the Paleozoic era or the corresponding system of rocks see Geologic Time Table",
+          "https://www.merriam-webster.com/dictionary/Permian"
+        ],
+        [
+          "Cambridge",
+          "from or referring to the period of time between about 290 and 250 million years ago, in which large reptiles and amphibians appeared , and that ended with most species on earth becoming extinct (= dying out completely )",
+          "https://dictionary.cambridge.org/dictionary/english/permian"
+        ]
+      ]
+    },
+    {
+      "term": "primate",
+      "category": "生物学",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "A primate is a mammal in the order Primates, including humans, apes, monkeys, lemurs and tarsiers, often characterized by grasping hands/feet and advanced vision.",
+      "zh": "灵长类动物：灵长目哺乳动物，包括人类、猿、猴、狐猴、眼镜猴等；常具有抓握能力、较发达视觉和较大的大脑。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "any of an order (Primates) of mammals that are characterized especially by advanced development of binocular vision resulting in stereoscopic depth perception , specialization of the hands and feet for grasping, and enlargement of the cerebral hemispheres and that include humans, apes, monkeys, and related forms (such as lemurs and tarsiers)",
+          "https://www.merriam-webster.com/dictionary/primate"
+        ],
+        [
+          "Cambridge",
+          "a member of the most developed and intelligent group of mammals , including humans , monkeys , and apes",
+          "https://dictionary.cambridge.org/dictionary/english/primate"
+        ],
+        [
+          "Oxford Learner’s",
+          "any animal that belongs to the group of mammals that includes humans, apes and monkeys",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/primate"
+        ]
+      ]
+    },
+    {
+      "term": "reptile",
+      "category": "生物学",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "A reptile is a cold-blooded, air-breathing vertebrate with scaly skin, typically laying eggs; snakes, lizards, turtles and crocodiles are examples.",
+      "zh": "爬行动物：冷血、用肺呼吸、皮肤常覆鳞片或骨板的脊椎动物，通常产卵；蛇、蜥蜴、龟、鳄等属于此类。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "an animal that crawls or moves on its belly (such as a snake) or on small short legs (such as a lizard)",
+          "https://www.merriam-webster.com/dictionary/reptile"
+        ],
+        [
+          "Cambridge",
+          "an animal that produces eggs and uses the heat of the sun to control its blood temperature",
+          "https://dictionary.cambridge.org/dictionary/english/reptile"
+        ],
+        [
+          "Oxford Learner’s",
+          "any animal that has cold blood and skin covered in scales , and that lays eggs. Snakes, crocodiles and tortoises are all reptiles .",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/reptile"
+        ]
+      ]
+    },
+    {
+      "term": "rodent",
+      "category": "生物学",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "A rodent is a mammal of the order Rodentia, usually small and characterized by a pair of strong gnawing incisors in each jaw.",
+      "zh": "啮齿动物：啮齿目哺乳动物，通常体型较小，上下颌有适合啃咬的一对门齿；鼠、松鼠、海狸等属于此类。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "any of an order (Rodentia) of relatively small gnawing mammals (such as a mouse, squirrel, or beaver) that have in both jaws a single pair of incisors with a chisel-shaped edge",
+          "https://www.merriam-webster.com/dictionary/rodent"
+        ],
+        [
+          "Cambridge",
+          "any of various small mammals with large , sharp front teeth , such as mice and rats",
+          "https://dictionary.cambridge.org/dictionary/english/rodent"
+        ],
+        [
+          "Oxford Learner’s",
+          "any small animal that belongs to a group of animals with strong sharp front teeth. Mice, rats and squirrels are all rodents .",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/rodent"
+        ]
+      ]
+    },
+    {
+      "term": "Silurian",
+      "category": "生物学",
+      "subcategory": "古生物学/地质年代",
+      "pos": "adjective/noun / 形容词/名词",
+      "en": "Silurian refers to the Paleozoic period between the Ordovician and Devonian, associated with jawed fishes and early land plants/animals.",
+      "zh": "志留纪/志留系的：奥陶纪之后、泥盆纪之前的古生代时期，出现有颌鱼类以及早期陆生植物和小型陆生动物。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "of, relating to, or being a period of the Paleozoic era between the Ordovician and Devonian or the corresponding system of rocks marked by numerous eurypterid crustaceans and the appearance of the first land plants see Geologic Time Table",
+          "https://www.merriam-webster.com/dictionary/Silurian"
+        ],
+        [
+          "Cambridge",
+          "from or referring to the period of time between about 445 and 420 million years ago, in which fish with jaws (= mouth bones ) and some plants and small animals on land first appeared",
+          "https://dictionary.cambridge.org/dictionary/english/silurian"
+        ]
+      ]
+    },
+    {
+      "term": "slug",
+      "category": "生物学",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "A slug is a small soft-bodied gastropod, like a snail but without an obvious external shell.",
+      "zh": "蛞蝓/鼻涕虫：软体动物，类似蜗牛但通常没有明显外壳，身体柔软、行动缓慢。",
+      "sources": [
+        [
+          "Cambridge",
+          "a small , usually black or brown creature with a long , soft body and no arms or legs , like a snail but with no shell",
+          "https://dictionary.cambridge.org/dictionary/english/slug"
+        ],
+        [
+          "Oxford Learner’s",
+          "a small, soft creature, like a snail without a shell, that moves very slowly and often eats garden plants",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/slug_1"
+        ]
+      ]
+    },
+    {
+      "term": "squid",
+      "category": "生物学",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun / 名词",
+      "en": "A squid is a cephalopod with a long soft body, eight arms and two longer tentacles around the mouth.",
+      "zh": "鱿鱼/枪乌贼：头足类软体动物，身体细长柔软，口周围有八条腕和两条较长触腕。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "any of an order (Teuthoidea) of cephalopods having eight short arms and two usually longer tentacles, a long tapered body, a caudal fin on each side, and usually a slender internal chitinous support",
+          "https://www.merriam-webster.com/dictionary/squid"
+        ],
+        [
+          "Cambridge",
+          "a sea creature with a long body and ten arms situated around the mouth , or this animal eaten as food",
+          "https://dictionary.cambridge.org/dictionary/english/squid"
+        ],
+        [
+          "Oxford Learner’s",
+          "a sea creature that has a long soft body, eight arms and two tentacles (= long thin parts like arms) around its mouth, and that is sometimes used for food",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/squid"
+        ]
+      ]
+    },
+    {
+      "term": "Triassic",
+      "category": "生物学",
+      "subcategory": "古生物学/地质年代",
+      "pos": "adjective/noun / 形容词/名词",
+      "en": "Triassic refers to the earliest Mesozoic period, when dinosaurs first appeared.",
+      "zh": "三叠纪/三叠系的：中生代最早时期，恐龙首次出现。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "of, relating to, or being the earliest period of the Mesozoic era or the corresponding system of rocks marked by the first appearance of the dinosaurs see Geologic Time Table",
+          "https://www.merriam-webster.com/dictionary/Triassic"
+        ],
+        [
+          "Cambridge",
+          "from or referring to the period of time between around 245 and 208 million years ago, in which dinosaurs (= large reptiles that no longer exist ) first appeared",
+          "https://dictionary.cambridge.org/dictionary/english/triassic"
+        ]
+      ]
+    },
+    {
+      "term": "vertebrate",
+      "category": "生物学",
+      "subcategory": "动物分类/生物演化",
+      "pos": "noun/adjective / 名词/形容词",
+      "en": "A vertebrate is an animal in Vertebrata, typically having a backbone or spinal column, a distinct head and internal skeleton.",
+      "zh": "脊椎动物/脊椎的：通常具有脊柱或脊椎骨、明显头部和内骨骼的动物，如鱼类、两栖类、爬行类、鸟类和哺乳类。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "any of a subphylum (Vertebrata) of chordates that comprises animals (such as mammals, birds, reptiles, amphibians, and fishes) typically having a bony or cartilaginous spinal column which replaces the notochord , a distinct head containing a brain which arises as an enlarged part of the nerve cord , and an internal usually bony skeleton and that includes some primitive forms (such as lampreys ) in which the spinal column is absent and the notochord persists throughout life",
+          "https://www.merriam-webster.com/dictionary/vertebrate"
+        ],
+        [
+          "Cambridge",
+          "having a spine (= back bone )",
+          "https://dictionary.cambridge.org/dictionary/english/vertebrate"
+        ],
+        [
+          "Oxford Learner’s",
+          "having a backbone",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/vertebrate_1"
         ]
       ]
     }
@@ -1659,366 +1659,70 @@
   },
   "others_entries": [
     {
-      "term": "tumult",
+      "term": "acquirement",
       "category": "通用",
-      "subcategory": "情绪/事件",
+      "subcategory": "学习/能力",
       "pos": "noun / 名词",
-      "phonetics": "/ˈtjuːmʌlt/; /ˈtuːmʌlt/",
-      "en": "A tumult is a noisy, confused, excited disturbance or a state of great confusion.",
-      "zh": "喧嚣；骚动；混乱：通常指人群造成的嘈杂混乱，或形势、情绪上的动荡。",
+      "phonetics": "ə-ˈkwī(-ə)r-mənt; ə-ˈkwī(ə)r-mənt",
+      "en": "An acquirement is something acquired, especially a skill or ability gained through effort.",
+      "zh": "习得物；成就；学到的技能：通过努力获得的能力、知识或成果。",
       "sources": [
         [
           "Merriam-Webster",
-          "disorderly agitation or milling about of a crowd usually with uproar and confusion of voices : commotion",
-          "https://www.merriam-webster.com/dictionary/tumult"
-        ],
-        [
-          "Cambridge",
-          "a loud noise , especially that produced by an excited crowd , or a state of confusion , change , or uncertainty",
-          "https://dictionary.cambridge.org/dictionary/english/tumult"
-        ],
-        [
-          "Oxford Learner’s",
-          "a confused situation in which there is usually a lot of noise and excitement, often involving large numbers of people",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/tumult"
+          "a skill of mind or body usually resulting from continued endeavor",
+          "https://www.merriam-webster.com/dictionary/acquirement"
         ]
       ]
     },
     {
-      "term": "polio",
+      "term": "ape",
       "category": "生物学",
-      "subcategory": "医学/病毒性疾病",
+      "subcategory": "动物分类",
       "pos": "noun / 名词",
-      "phonetics": "/ˈpəʊliəʊ/; /ˌpəʊliəʊˌmaɪəˈlaɪtɪs/",
-      "en": "Polio is an infectious disease caused by poliovirus that can affect the central nervous system and cause paralysis.",
-      "zh": "小儿麻痹症/脊髓灰质炎：由脊髓灰质炎病毒引起的传染病，可影响中枢神经系统并导致暂时或永久性瘫痪。",
+      "phonetics": "/eɪp/",
+      "en": "An ape is a large tailless primate such as a chimpanzee, gorilla, orangutan, or gibbon.",
+      "zh": "猿；类人猿：无尾的大型灵长类动物，如黑猩猩、大猩猩、猩猩、长臂猿。",
       "sources": [
         [
           "Merriam-Webster",
-          "an infectious disease especially of young children that is caused by the poliovirus",
-          "https://www.merriam-webster.com/dictionary/polio"
+          "any of various large tailless semi-erect primates of Africa and southeastern Asia (such as the chimpanzee, gorilla, orangutan, or gibbon)",
+          "https://www.merriam-webster.com/dictionary/ape"
         ],
         [
           "Cambridge",
-          "a serious infectious disease that can cause permanent paralysis (= being unable to move the body )",
-          "https://dictionary.cambridge.org/dictionary/english/polio"
+          "an animal like a large monkey with no tail , that uses its arms to move through trees",
+          "https://dictionary.cambridge.org/dictionary/english/ape"
         ],
         [
           "Oxford Learner’s",
-          "a disease that affects the central nervous system and can cause temporary or permanent paralysis (= loss of control or feeling in part or most of the body)",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/polio"
+          "a large animal like a monkey, with no tail. There are different types of ape .",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/ape_1"
         ]
       ]
     },
     {
-      "term": "guise",
+      "term": "awe-inspiring",
       "category": "通用",
-      "subcategory": "外表/伪装",
-      "pos": "noun / 名词",
-      "phonetics": "/ɡaɪz/",
-      "en": "A guise is the outward appearance or form of someone or something, especially one that hides the truth.",
-      "zh": "外表；伪装；表现形式：某人或某物呈现出来的样子，常含“掩盖真实情况”的意味。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a form or style of dress : costume",
-          "https://www.merriam-webster.com/dictionary/guise"
-        ],
-        [
-          "Cambridge",
-          "the appearance of someone or something, especially when intended to deceive",
-          "https://dictionary.cambridge.org/dictionary/english/guise"
-        ],
-        [
-          "Oxford Learner’s",
-          "a way in which somebody/something appears, often in a way that is different from usual or that hides the truth about them/it",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/guise"
-        ]
-      ]
-    },
-    {
-      "term": "sitcom",
-      "category": "通用",
-      "subcategory": "影视/媒体",
-      "pos": "noun / 名词",
-      "phonetics": "/ˈsɪtkɒm/; /ˈsɪtkɑːm/",
-      "en": "A sitcom is a situation comedy: a regular TV comedy with continuing characters in funny situations.",
-      "zh": "情景喜剧：固定角色在不同幽默情境中展开故事的电视喜剧。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a television series that involves a continuing cast of characters in a succession of comedic circumstances : situation comedy",
-          "https://www.merriam-webster.com/dictionary/sitcom"
-        ],
-        [
-          "Cambridge",
-          "a situation comedy",
-          "https://dictionary.cambridge.org/dictionary/english/sitcom"
-        ],
-        [
-          "Oxford Learner’s",
-          "a regular comedy programme on television that shows the same characters in different funny situations",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/sitcom"
-        ]
-      ]
-    },
-    {
-      "term": "feat",
-      "category": "通用",
-      "subcategory": "成就",
-      "pos": "noun / 名词",
-      "phonetics": "/fiːt/",
-      "en": "A feat is an impressive action or achievement requiring skill, strength, courage, or effort.",
-      "zh": "壮举；功绩；技艺：需要技巧、力量、勇气或努力才能完成的出色行动或成就。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a deed notable especially for courage",
-          "https://www.merriam-webster.com/dictionary/feat"
-        ],
-        [
-          "Cambridge",
-          "something difficult needing a lot of skill , strength , courage , etc. to achieve it",
-          "https://dictionary.cambridge.org/dictionary/english/feat"
-        ],
-        [
-          "Oxford Learner’s",
-          "an action or a piece of work that needs skill, strength or courage",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/feat"
-        ]
-      ]
-    },
-    {
-      "term": "tiff",
-      "category": "通用",
-      "subcategory": "人际关系",
-      "pos": "noun / 名词",
-      "phonetics": "/tɪf/",
-      "en": "A tiff is a slight or petty quarrel, often between close people.",
-      "zh": "小争吵；拌嘴：通常指亲近的人之间轻微的争执。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a petty quarrel",
-          "https://www.merriam-webster.com/dictionary/tiff"
-        ],
-        [
-          "Cambridge",
-          "a slight argument",
-          "https://dictionary.cambridge.org/dictionary/english/tiff"
-        ],
-        [
-          "Oxford Learner’s",
-          "a slight argument between close friends or two people who love each other",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/tiff_1"
-        ]
-      ]
-    },
-    {
-      "term": "cusp",
-      "category": "通用",
-      "subcategory": "边界/转折",
-      "pos": "noun / 名词",
-      "phonetics": "/kʌsp/",
-      "en": "A cusp is a pointed end or a boundary/turning point between two states or things.",
-      "zh": "尖端；交界点；转折点：可指尖形端点，也可指两种状态之间的边界或临界点。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "point , apex : such as",
-          "https://www.merriam-webster.com/dictionary/cusp"
-        ],
-        [
-          "Cambridge",
-          "the dividing line between two very different things",
-          "https://dictionary.cambridge.org/dictionary/english/cusp"
-        ],
-        [
-          "Oxford Learner’s",
-          "a pointed end where two curves meet",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/cusp"
-        ]
-      ]
-    },
-    {
-      "term": "chagrin",
-      "category": "通用",
-      "subcategory": "情绪",
-      "pos": "noun / 名词",
-      "phonetics": "/ˈʃæɡrɪn/; /ʃəˈɡrɪn/",
-      "en": "Chagrin is disappointment, embarrassment, or annoyance caused by failure or humiliation.",
-      "zh": "懊恼；懊丧；羞恼：因失败、失望或受挫而产生的不快。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "disquietude or distress of mind caused by humiliation, disappointment, or failure",
-          "https://www.merriam-webster.com/dictionary/chagrin"
-        ],
-        [
-          "Cambridge",
-          "disappointment or anger , especially when caused by a failure or mistake",
-          "https://dictionary.cambridge.org/dictionary/english/chagrin"
-        ],
-        [
-          "Oxford Learner’s",
-          "a feeling of being disappointed or annoyed",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/chagrin"
-        ]
-      ]
-    },
-    {
-      "term": "intrepid",
-      "category": "通用",
-      "subcategory": "性格",
+      "subcategory": "评价/感受",
       "pos": "adjective / 形容词",
-      "phonetics": "/ɪnˈtrepɪd/",
-      "en": "Intrepid means very brave and not afraid of danger or difficulty.",
-      "zh": "无畏的；勇敢的：面对危险或困难时非常勇敢。",
+      "phonetics": "/ˈɔː ɪnspaɪərɪŋ/",
+      "en": "Awe-inspiring means extremely impressive, causing great respect, admiration, or wonder.",
+      "zh": "令人敬畏的；震撼人心的：极其壮观或出色，使人产生敬意、惊叹或崇敬。",
       "sources": [
         [
           "Merriam-Webster",
-          "characterized by resolute fearlessness, fortitude , and endurance",
-          "https://www.merriam-webster.com/dictionary/intrepid"
+          "that arouses awe",
+          "https://www.merriam-webster.com/dictionary/awe-inspiring"
         ],
         [
           "Cambridge",
-          "extremely brave and showing no fear of dangerous situations",
-          "https://dictionary.cambridge.org/dictionary/english/intrepid"
+          "causing you to feel great respect or admiration",
+          "https://dictionary.cambridge.org/dictionary/english/awe-inspiring"
         ],
         [
           "Oxford Learner’s",
-          "very brave; not afraid of danger or difficulties",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/intrepid"
-        ]
-      ]
-    },
-    {
-      "term": "proclaim",
-      "category": "通用",
-      "subcategory": "表达/宣告",
-      "pos": "verb / 动词",
-      "phonetics": "/prəˈkleɪm/; /prəˈkleɪmz/",
-      "en": "To proclaim is to announce something publicly or officially.",
-      "zh": "宣告；宣布；声明：公开或正式地告知某事。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "to declare publicly, typically insistently, proudly, or defiantly and in either speech or writing : announce",
-          "https://www.merriam-webster.com/dictionary/proclaim"
-        ],
-        [
-          "Cambridge",
-          "to announce something publicly or officially , especially something positive",
-          "https://dictionary.cambridge.org/dictionary/english/proclaim"
-        ],
-        [
-          "Oxford Learner’s",
-          "to publicly and officially tell people about something important",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/proclaim"
-        ]
-      ]
-    },
-    {
-      "term": "verge",
-      "category": "通用",
-      "subcategory": "边缘/临界",
-      "pos": "noun / 名词",
-      "phonetics": "/vɜːdʒ/; /vɜːrdʒ/",
-      "en": "A verge is an edge, border, brink, or threshold; often used in “on the verge of”.",
-      "zh": "边缘；路边；临界点：常用于 on the verge of，表示“濒临、即将”。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "brink , threshold",
-          "https://www.merriam-webster.com/dictionary/verge"
-        ],
-        [
-          "Cambridge",
-          "the edge or border of something",
-          "https://dictionary.cambridge.org/dictionary/english/verge"
-        ],
-        [
-          "Oxford Learner’s",
-          "a piece of grass at the edge of a path, road, etc.",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/verge_1"
-        ]
-      ]
-    },
-    {
-      "term": "nook",
-      "category": "通用",
-      "subcategory": "空间",
-      "pos": "noun / 名词",
-      "phonetics": "/nʊk/",
-      "en": "A nook is a small, sheltered or hidden corner or space.",
-      "zh": "角落；隐蔽处：小而安静、遮蔽或隐藏的空间。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a right-angled corner",
-          "https://www.merriam-webster.com/dictionary/nook"
-        ],
-        [
-          "Cambridge",
-          "a small space that is hidden or partly sheltered",
-          "https://dictionary.cambridge.org/dictionary/english/nook"
-        ],
-        [
-          "Oxford Learner’s",
-          "a small quiet place or corner that is sheltered or hidden from other people",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/nook"
-        ]
-      ]
-    },
-    {
-      "term": "cranny",
-      "category": "通用",
-      "subcategory": "空间",
-      "pos": "noun / 名词",
-      "phonetics": "/ˈkræni/",
-      "en": "A cranny is a small narrow opening, crack, or crevice.",
-      "zh": "裂缝；缝隙；小孔：固体中的狭小开口或缝。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a small break or slit : crevice",
-          "https://www.merriam-webster.com/dictionary/cranny"
-        ],
-        [
-          "Cambridge",
-          "a small , narrow opening in something solid",
-          "https://dictionary.cambridge.org/dictionary/english/cranny"
-        ],
-        [
-          "Oxford Learner’s",
-          "a very small hole or opening, especially in a wall",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/cranny"
-        ]
-      ]
-    },
-    {
-      "term": "mesmerize",
-      "category": "通用",
-      "subcategory": "心理/注意力",
-      "pos": "verb / 动词",
-      "phonetics": "/ˈmezməraɪz/; /ˈmezməraɪzɪz/",
-      "en": "To mesmerize is to hold someone’s attention completely, as if fascinating or hypnotizing them.",
-      "zh": "迷住；吸引住；使着迷：强烈吸引某人的注意力，使其难以关注别的事。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "to subject to mesmerism",
-          "https://www.merriam-webster.com/dictionary/mesmerize"
-        ],
-        [
-          "Cambridge",
-          "to have someone's attention completely so that they cannot think of anything else",
-          "https://dictionary.cambridge.org/dictionary/english/mesmerize"
-        ],
-        [
-          "Oxford Learner’s",
-          "to have such a strong effect on you that you cannot give your attention to anything else",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/mesmerize"
+          "extremely impressive; making you admire it very much",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/awe-inspiring"
         ]
       ]
     },
@@ -2049,32 +1753,6 @@
       ]
     },
     {
-      "term": "garner",
-      "category": "通用",
-      "subcategory": "获得/收集",
-      "pos": "verb / 动词",
-      "phonetics": "/ˈɡɑːnə(r)/; /ˈɡɑːrnər/",
-      "en": "To garner is to collect, obtain, or gather something, often after effort.",
-      "zh": "获得；收集；积累：通常指经过努力取得支持、信息、奖项等。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "to gather into storage",
-          "https://www.merriam-webster.com/dictionary/garner"
-        ],
-        [
-          "Cambridge",
-          "to collect something, usually after much work or with difficulty",
-          "https://dictionary.cambridge.org/dictionary/english/garner"
-        ],
-        [
-          "Oxford Learner’s",
-          "to obtain or collect something such as information, support, etc.",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/garner"
-        ]
-      ]
-    },
-    {
       "term": "burdock",
       "category": "生物学",
       "subcategory": "植物",
@@ -2101,28 +1779,486 @@
       ]
     },
     {
-      "term": "wondrous",
+      "term": "calamity",
       "category": "通用",
-      "subcategory": "评价/感受",
-      "pos": "adjective / 形容词",
-      "phonetics": "/ˈwʌndrəs/",
-      "en": "Wondrous means wonderful, extraordinary, beautiful, or impressive.",
-      "zh": "奇妙的；令人惊叹的：非常美好、非凡或令人赞叹。",
+      "subcategory": "灾难",
+      "pos": "noun / 名词",
+      "phonetics": "/kəˈlæməti/",
+      "en": "A calamity is a disastrous event causing great damage, loss, or suffering.",
+      "zh": "灾难；大祸：造成重大损失、破坏或痛苦的事件。",
       "sources": [
         [
           "Merriam-Webster",
-          "that is to be marveled at : extraordinary",
-          "https://www.merriam-webster.com/dictionary/wondrous"
+          "a disastrous event marked by great loss and lasting distress and suffering",
+          "https://www.merriam-webster.com/dictionary/calamity"
         ],
         [
           "Cambridge",
-          "extremely and surprisingly good",
-          "https://dictionary.cambridge.org/dictionary/english/wondrous"
+          "a serious accident or bad event causing damage or suffering",
+          "https://dictionary.cambridge.org/dictionary/english/calamity"
         ],
         [
           "Oxford Learner’s",
-          "strange, beautiful and impressive",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/wondrous"
+          "an event that causes great damage to people’s lives, property, etc.",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/calamity"
+        ]
+      ]
+    },
+    {
+      "term": "chagrin",
+      "category": "通用",
+      "subcategory": "情绪",
+      "pos": "noun / 名词",
+      "phonetics": "/ˈʃæɡrɪn/; /ʃəˈɡrɪn/",
+      "en": "Chagrin is disappointment, embarrassment, or annoyance caused by failure or humiliation.",
+      "zh": "懊恼；懊丧；羞恼：因失败、失望或受挫而产生的不快。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "disquietude or distress of mind caused by humiliation, disappointment, or failure",
+          "https://www.merriam-webster.com/dictionary/chagrin"
+        ],
+        [
+          "Cambridge",
+          "disappointment or anger , especially when caused by a failure or mistake",
+          "https://dictionary.cambridge.org/dictionary/english/chagrin"
+        ],
+        [
+          "Oxford Learner’s",
+          "a feeling of being disappointed or annoyed",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/chagrin"
+        ]
+      ]
+    },
+    {
+      "term": "chauvinism",
+      "category": "通用",
+      "subcategory": "社会/态度",
+      "pos": "noun / 名词",
+      "phonetics": "/ˈʃəʊvɪnɪzəm/",
+      "en": "Chauvinism is an aggressive or unreasonable belief that one’s own group, country, sex, etc. is superior.",
+      "zh": "沙文主义；盲目优越感：不合理地认为自己的国家、群体、性别等优越。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "an attitude of superiority toward members of the opposite sex",
+          "https://www.merriam-webster.com/dictionary/chauvinism"
+        ],
+        [
+          "Cambridge",
+          "the strong and unreasonable belief that your own country or race is the best or most important",
+          "https://dictionary.cambridge.org/dictionary/english/chauvinism"
+        ],
+        [
+          "Oxford Learner’s",
+          "an aggressive and unreasonable belief that your own country is better than all others",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/chauvinism"
+        ]
+      ]
+    },
+    {
+      "term": "cranny",
+      "category": "通用",
+      "subcategory": "空间",
+      "pos": "noun / 名词",
+      "phonetics": "/ˈkræni/",
+      "en": "A cranny is a small narrow opening, crack, or crevice.",
+      "zh": "裂缝；缝隙；小孔：固体中的狭小开口或缝。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "a small break or slit : crevice",
+          "https://www.merriam-webster.com/dictionary/cranny"
+        ],
+        [
+          "Cambridge",
+          "a small , narrow opening in something solid",
+          "https://dictionary.cambridge.org/dictionary/english/cranny"
+        ],
+        [
+          "Oxford Learner’s",
+          "a very small hole or opening, especially in a wall",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/cranny"
+        ]
+      ]
+    },
+    {
+      "term": "culmination",
+      "category": "通用",
+      "subcategory": "过程/结果",
+      "pos": "noun / 名词",
+      "phonetics": "/ˌkʌlmɪˈneɪʃn/",
+      "en": "Culmination is the highest point, final result, or end reached after a process or series of events.",
+      "zh": "顶点；高潮；最终结果：一系列过程发展到的最高点或最终阶段。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "the action of culminating",
+          "https://www.merriam-webster.com/dictionary/culmination"
+        ],
+        [
+          "Cambridge",
+          "the point at which an event or series of events ends , having developed until it reaches this point",
+          "https://dictionary.cambridge.org/dictionary/english/culmination"
+        ],
+        [
+          "Oxford Learner’s",
+          "the highest point or end of something, usually happening after a long time",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/culmination"
+        ]
+      ]
+    },
+    {
+      "term": "cusp",
+      "category": "通用",
+      "subcategory": "边界/转折",
+      "pos": "noun / 名词",
+      "phonetics": "/kʌsp/",
+      "en": "A cusp is a pointed end or a boundary/turning point between two states or things.",
+      "zh": "尖端；交界点；转折点：可指尖形端点，也可指两种状态之间的边界或临界点。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "point , apex : such as",
+          "https://www.merriam-webster.com/dictionary/cusp"
+        ],
+        [
+          "Cambridge",
+          "the dividing line between two very different things",
+          "https://dictionary.cambridge.org/dictionary/english/cusp"
+        ],
+        [
+          "Oxford Learner’s",
+          "a pointed end where two curves meet",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/cusp"
+        ]
+      ]
+    },
+    {
+      "term": "delineate",
+      "category": "通用",
+      "subcategory": "描述/划定",
+      "pos": "verb / 动词",
+      "phonetics": "/dɪˈlɪnieɪt/; /dɪˈlɪnieɪts/",
+      "en": "To delineate is to describe, explain, draw, or mark something clearly and in detail.",
+      "zh": "描绘；阐明；划定：清楚、详细地描述、解释或标出边界。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "to describe, portray , or set forth with accuracy or in detail",
+          "https://www.merriam-webster.com/dictionary/delineate"
+        ],
+        [
+          "Cambridge",
+          "to describe or mark the edge of something",
+          "https://dictionary.cambridge.org/dictionary/english/delineate"
+        ],
+        [
+          "Oxford Learner’s",
+          "to describe, draw or explain something in detail",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/delineate"
+        ]
+      ]
+    },
+    {
+      "term": "devolve",
+      "category": "通用",
+      "subcategory": "转移/退化",
+      "pos": "verb / 动词",
+      "phonetics": "/dɪˈvɒlv/; /dɪˈvɑːlv/",
+      "en": "To devolve is to transfer power or responsibility to others; it can also mean to degenerate into a worse state.",
+      "zh": "移交；下放；退化：把权力或责任转交给他人/下级；也可指恶化、退化成较差状态。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "to pass on (something, such as responsibility, rights, or powers) from one person or entity to another",
+          "https://www.merriam-webster.com/dictionary/devolve"
+        ],
+        [
+          "Cambridge",
+          "to ( cause power or responsibility to) be given to other people",
+          "https://dictionary.cambridge.org/dictionary/english/devolve"
+        ]
+      ]
+    },
+    {
+      "term": "endow",
+      "category": "通用",
+      "subcategory": "给予/资助",
+      "pos": "verb / 动词",
+      "phonetics": "/ɪnˈdaʊ/; /ɪnˈdaʊz/",
+      "en": "To endow is to give money to an institution or to provide someone/something with a quality or ability.",
+      "zh": "捐赠；资助；赋予：给机构捐款以提供收入，或赋予某人/某物某种品质、能力。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "to furnish with an income",
+          "https://www.merriam-webster.com/dictionary/endow"
+        ],
+        [
+          "Cambridge",
+          "to give a large amount of money to pay for creating a college , hospital , etc. or to provide an income for it",
+          "https://dictionary.cambridge.org/dictionary/english/endow"
+        ],
+        [
+          "Oxford Learner’s",
+          "to give a large sum of money to a school, a college or another institution to provide it with an income",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/endow"
+        ]
+      ]
+    },
+    {
+      "term": "feat",
+      "category": "通用",
+      "subcategory": "成就",
+      "pos": "noun / 名词",
+      "phonetics": "/fiːt/",
+      "en": "A feat is an impressive action or achievement requiring skill, strength, courage, or effort.",
+      "zh": "壮举；功绩；技艺：需要技巧、力量、勇气或努力才能完成的出色行动或成就。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "a deed notable especially for courage",
+          "https://www.merriam-webster.com/dictionary/feat"
+        ],
+        [
+          "Cambridge",
+          "something difficult needing a lot of skill , strength , courage , etc. to achieve it",
+          "https://dictionary.cambridge.org/dictionary/english/feat"
+        ],
+        [
+          "Oxford Learner’s",
+          "an action or a piece of work that needs skill, strength or courage",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/feat"
+        ]
+      ]
+    },
+    {
+      "term": "garner",
+      "category": "通用",
+      "subcategory": "获得/收集",
+      "pos": "verb / 动词",
+      "phonetics": "/ˈɡɑːnə(r)/; /ˈɡɑːrnər/",
+      "en": "To garner is to collect, obtain, or gather something, often after effort.",
+      "zh": "获得；收集；积累：通常指经过努力取得支持、信息、奖项等。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "to gather into storage",
+          "https://www.merriam-webster.com/dictionary/garner"
+        ],
+        [
+          "Cambridge",
+          "to collect something, usually after much work or with difficulty",
+          "https://dictionary.cambridge.org/dictionary/english/garner"
+        ],
+        [
+          "Oxford Learner’s",
+          "to obtain or collect something such as information, support, etc.",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/garner"
+        ]
+      ]
+    },
+    {
+      "term": "grain",
+      "category": "通用",
+      "subcategory": "食物/材料",
+      "pos": "noun / 名词",
+      "phonetics": "/ɡreɪn/",
+      "en": "Grain is a small hard seed of a food plant such as wheat or rice; it can also mean the texture/fibres of wood or material.",
+      "zh": "谷粒；谷物；纹理：粮食作物的小硬种子，也可指木材、材料的纹理。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "a single small hard seed",
+          "https://www.merriam-webster.com/dictionary/grain"
+        ],
+        [
+          "Cambridge",
+          "a seed or seeds from a plant , especially a plant like a grass such as rice or wheat",
+          "https://dictionary.cambridge.org/dictionary/english/grain"
+        ],
+        [
+          "Oxford Learner’s",
+          "the small hard seeds of food plants such as wheat , rice, etc.; a single seed of such a plant",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/grain"
+        ]
+      ]
+    },
+    {
+      "term": "guise",
+      "category": "通用",
+      "subcategory": "外表/伪装",
+      "pos": "noun / 名词",
+      "phonetics": "/ɡaɪz/",
+      "en": "A guise is the outward appearance or form of someone or something, especially one that hides the truth.",
+      "zh": "外表；伪装；表现形式：某人或某物呈现出来的样子，常含“掩盖真实情况”的意味。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "a form or style of dress : costume",
+          "https://www.merriam-webster.com/dictionary/guise"
+        ],
+        [
+          "Cambridge",
+          "the appearance of someone or something, especially when intended to deceive",
+          "https://dictionary.cambridge.org/dictionary/english/guise"
+        ],
+        [
+          "Oxford Learner’s",
+          "a way in which somebody/something appears, often in a way that is different from usual or that hides the truth about them/it",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/guise"
+        ]
+      ]
+    },
+    {
+      "term": "iguana",
+      "category": "生物学",
+      "subcategory": "动物分类",
+      "pos": "noun / 名词",
+      "phonetics": "/ɪˈɡwɑːnə/",
+      "en": "An iguana is a large chiefly herbivorous tropical American lizard, usually green or brownish.",
+      "zh": "鬣蜥：主要分布于热带美洲的大型蜥蜴，多为植食性，通常呈绿色或褐色。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "any of various large chiefly herbivorous usually green or brownish tropical American lizards (family Iguanidae, the iguana family) that have a serrated dorsal crest and large dewlap",
+          "https://www.merriam-webster.com/dictionary/iguana"
+        ],
+        [
+          "Cambridge",
+          "a large greyish-green lizard of tropical America",
+          "https://dictionary.cambridge.org/dictionary/english/iguana"
+        ],
+        [
+          "Oxford Learner’s",
+          "a large tropical American lizard (= a type of reptile )",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/iguana"
+        ]
+      ]
+    },
+    {
+      "term": "infuriating",
+      "category": "通用",
+      "subcategory": "情绪",
+      "pos": "adjective / 形容词",
+      "phonetics": "/ɪnˈfjʊərieɪtɪŋ/; /ɪnˈfjʊrieɪtɪŋ/",
+      "en": "Infuriating means extremely annoying or making someone very angry.",
+      "zh": "令人极其恼火的：使人非常生气或烦躁。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "causing feelings of extreme anger",
+          "https://www.merriam-webster.com/dictionary/infuriating"
+        ],
+        [
+          "Cambridge",
+          "extremely annoying",
+          "https://dictionary.cambridge.org/dictionary/english/infuriating"
+        ],
+        [
+          "Oxford Learner’s",
+          "making you extremely angry",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/infuriating"
+        ]
+      ]
+    },
+    {
+      "term": "intrepid",
+      "category": "通用",
+      "subcategory": "性格",
+      "pos": "adjective / 形容词",
+      "phonetics": "/ɪnˈtrepɪd/",
+      "en": "Intrepid means very brave and not afraid of danger or difficulty.",
+      "zh": "无畏的；勇敢的：面对危险或困难时非常勇敢。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "characterized by resolute fearlessness, fortitude , and endurance",
+          "https://www.merriam-webster.com/dictionary/intrepid"
+        ],
+        [
+          "Cambridge",
+          "extremely brave and showing no fear of dangerous situations",
+          "https://dictionary.cambridge.org/dictionary/english/intrepid"
+        ],
+        [
+          "Oxford Learner’s",
+          "very brave; not afraid of danger or difficulties",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/intrepid"
+        ]
+      ]
+    },
+    {
+      "term": "limbic",
+      "category": "神经科学",
+      "subcategory": "脑结构/系统",
+      "pos": "adjective / 形容词",
+      "phonetics": "ˈlɪm.bɪk",
+      "en": "Limbic means relating to the limbic system of the brain, which is involved in emotion, motivation, memory, and related functions.",
+      "zh": "边缘系统的：与大脑边缘系统有关；该系统参与情绪、动机、记忆等功能。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "of, relating to, or being the limbic system of the brain",
+          "https://www.merriam-webster.com/dictionary/limbic"
+        ],
+        [
+          "Cambridge",
+          "a system of nerves and other structures in the brain that controls many of our emotions",
+          "https://dictionary.cambridge.org/dictionary/english/limbic"
+        ]
+      ]
+    },
+    {
+      "term": "lineage",
+      "category": "生物学",
+      "subcategory": "谱系/演化",
+      "pos": "noun / 名词",
+      "phonetics": "/ˈlɪniɪdʒ/",
+      "en": "Lineage is descent from a common ancestor; in biology it can mean an evolutionary line of organisms.",
+      "zh": "谱系；世系；演化支系：从共同祖先延续下来的血统或演化线路。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "descent in a line from a common progenitor",
+          "https://www.merriam-webster.com/dictionary/lineage"
+        ],
+        [
+          "Cambridge",
+          "the members of a person's family who are directly related to that person and who lived a long time before him or her",
+          "https://dictionary.cambridge.org/dictionary/english/lineage"
+        ],
+        [
+          "Oxford Learner’s",
+          "the series of families that somebody comes from originally",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/lineage"
+        ]
+      ]
+    },
+    {
+      "term": "litmus",
+      "category": "通用",
+      "subcategory": "化学/测试",
+      "pos": "noun / 名词",
+      "phonetics": "/ˈlɪtməs/",
+      "en": "Litmus is a dye from lichens used as an acid-base indicator, turning red in acid and blue in alkali.",
+      "zh": "石蕊：来自地衣的染料，用作酸碱指示剂；遇酸变红，遇碱变蓝。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "a coloring matter from lichens that turns red in acid solutions and blue in alkaline solutions and is used as an acid-base indicator",
+          "https://www.merriam-webster.com/dictionary/litmus"
+        ],
+        [
+          "Cambridge",
+          "a powder that is turned red by acid and blue by alkali",
+          "https://dictionary.cambridge.org/dictionary/english/litmus"
+        ],
+        [
+          "Oxford Learner’s",
+          "a substance that turns red when it touches an acid and blue when it touches an alkali",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/litmus"
         ]
       ]
     },
@@ -2153,28 +2289,54 @@
       ]
     },
     {
-      "term": "unwieldy",
+      "term": "loom",
       "category": "通用",
-      "subcategory": "形状/管理",
-      "pos": "adjective / 形容词",
-      "phonetics": "/ʌnˈwiːldi/",
-      "en": "Unwieldy means difficult to handle, move, control, or manage because of size, shape, weight, or complexity.",
-      "zh": "笨重的；难处理的：因体积、形状、重量或复杂性而难以移动、使用或管理。",
+      "subcategory": "出现/工具",
+      "pos": "verb/noun / 动词/名词",
+      "phonetics": "/luːm/; /luːmz/",
+      "en": "To loom is to appear as a large, unclear, often threatening shape; a loom is also a machine for weaving cloth.",
+      "zh": "隐约显现；逼近；织布机：动词指巨大、不清晰或令人不安地出现；名词指织布机。",
       "sources": [
         [
           "Merriam-Webster",
-          "not easily managed, handled, or used (as because of bulk, weight, complexity, or awkwardness) : cumbersome",
-          "https://www.merriam-webster.com/dictionary/unwieldy"
+          "a frame or machine for interlacing (see interlace sense 1 ) at right angles two or more sets of threads or yarns to form a cloth",
+          "https://www.merriam-webster.com/dictionary/loom"
         ],
         [
           "Cambridge",
-          "An unwieldy object is difficult to move or handle because it is heavy , large , or a strange shape",
-          "https://dictionary.cambridge.org/dictionary/english/unwieldy"
+          "to appear as a large , often frightening or unclear shape or object",
+          "https://dictionary.cambridge.org/dictionary/english/loom"
         ],
         [
           "Oxford Learner’s",
-          "difficult to move or control because of its size, shape or weight",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/unwieldy"
+          "to appear as a large shape that is not clear, especially in a frightening way",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/loom_1"
+        ]
+      ]
+    },
+    {
+      "term": "mesmerize",
+      "category": "通用",
+      "subcategory": "心理/注意力",
+      "pos": "verb / 动词",
+      "phonetics": "/ˈmezməraɪz/; /ˈmezməraɪzɪz/",
+      "en": "To mesmerize is to hold someone’s attention completely, as if fascinating or hypnotizing them.",
+      "zh": "迷住；吸引住；使着迷：强烈吸引某人的注意力，使其难以关注别的事。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "to subject to mesmerism",
+          "https://www.merriam-webster.com/dictionary/mesmerize"
+        ],
+        [
+          "Cambridge",
+          "to have someone's attention completely so that they cannot think of anything else",
+          "https://dictionary.cambridge.org/dictionary/english/mesmerize"
+        ],
+        [
+          "Oxford Learner’s",
+          "to have such a strong effect on you that you cannot give your attention to anything else",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/mesmerize"
         ]
       ]
     },
@@ -2226,419 +2388,54 @@
       ]
     },
     {
-      "term": "sheer",
-      "category": "通用",
-      "subcategory": "程度/性质",
-      "pos": "adjective / 形容词",
-      "phonetics": "/ʃɪə(r)/; /ʃɪr/",
-      "en": "Sheer is used to emphasize the great degree or amount of something; it can also mean very steep or very thin.",
-      "zh": "完全的；十足的；陡峭的；薄透的：常用于强调程度，也可指坡面很陡或织物很薄。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "unqualified , utter",
-          "https://www.merriam-webster.com/dictionary/sheer"
-        ],
-        [
-          "Cambridge",
-          "used to emphasize how very great , important , or powerful a quality or feeling is; nothing except",
-          "https://dictionary.cambridge.org/dictionary/english/sheer"
-        ],
-        [
-          "Oxford Learner’s",
-          "used to emphasize the size, degree or amount of something",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/sheer_1"
-        ]
-      ]
-    },
-    {
-      "term": "ungodly",
-      "category": "通用",
-      "subcategory": "程度/宗教",
-      "pos": "adjective / 形容词",
-      "phonetics": "/ʌnˈɡɒdli/; /ʌnˈɡɑːdli/",
-      "en": "Ungodly can mean impious or evil; informally it means extreme, unreasonable, or unacceptable.",
-      "zh": "不敬神的；邪恶的；过分的：正式指不虔敬或邪恶，口语中指极端、不合理或令人难以接受。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "denying or disobeying God : impious , irreligious",
-          "https://www.merriam-webster.com/dictionary/ungodly"
-        ],
-        [
-          "Cambridge",
-          "extreme or unacceptable",
-          "https://dictionary.cambridge.org/dictionary/english/ungodly"
-        ],
-        [
-          "Oxford Learner’s",
-          "not showing respect for God; evil",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/ungodly"
-        ]
-      ]
-    },
-    {
-      "term": "tantalizing",
-      "category": "通用",
-      "subcategory": "欲望/吸引",
-      "pos": "adjective / 形容词",
-      "phonetics": "/ˈtæntəlaɪzɪŋ/",
-      "en": "Tantalizing means exciting desire or interest while remaining difficult or impossible to obtain.",
-      "zh": "诱人的；撩人的；可望而不可即的：激起欲望或兴趣，却难以得到满足。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "possessing a quality that arouses or stimulates desire or interest",
-          "https://www.merriam-webster.com/dictionary/tantalizing"
-        ],
-        [
-          "Cambridge",
-          "Something that is tantalizing causes desire and excitement in you, but is unlikely to provide a way of satisfying that desire",
-          "https://dictionary.cambridge.org/dictionary/english/tantalizing"
-        ],
-        [
-          "Oxford Learner’s",
-          "making you want something that you cannot have or do",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/tantalizing"
-        ]
-      ]
-    },
-    {
-      "term": "infuriating",
-      "category": "通用",
-      "subcategory": "情绪",
-      "pos": "adjective / 形容词",
-      "phonetics": "/ɪnˈfjʊərieɪtɪŋ/; /ɪnˈfjʊrieɪtɪŋ/",
-      "en": "Infuriating means extremely annoying or making someone very angry.",
-      "zh": "令人极其恼火的：使人非常生气或烦躁。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "causing feelings of extreme anger",
-          "https://www.merriam-webster.com/dictionary/infuriating"
-        ],
-        [
-          "Cambridge",
-          "extremely annoying",
-          "https://dictionary.cambridge.org/dictionary/english/infuriating"
-        ],
-        [
-          "Oxford Learner’s",
-          "making you extremely angry",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/infuriating"
-        ]
-      ]
-    },
-    {
-      "term": "awe-inspiring",
-      "category": "通用",
-      "subcategory": "评价/感受",
-      "pos": "adjective / 形容词",
-      "phonetics": "/ˈɔː ɪnspaɪərɪŋ/",
-      "en": "Awe-inspiring means extremely impressive, causing great respect, admiration, or wonder.",
-      "zh": "令人敬畏的；震撼人心的：极其壮观或出色，使人产生敬意、惊叹或崇敬。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "that arouses awe",
-          "https://www.merriam-webster.com/dictionary/awe-inspiring"
-        ],
-        [
-          "Cambridge",
-          "causing you to feel great respect or admiration",
-          "https://dictionary.cambridge.org/dictionary/english/awe-inspiring"
-        ],
-        [
-          "Oxford Learner’s",
-          "extremely impressive; making you admire it very much",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/awe-inspiring"
-        ]
-      ]
-    },
-    {
-      "term": "tuck",
-      "category": "通用",
-      "subcategory": "动作",
-      "pos": "verb/noun / 动词/名词",
-      "phonetics": "/tʌk/; /tʌks/",
-      "en": "To tuck is to push, fold, or place something neatly or securely into a position.",
-      "zh": "塞进； tucked 折好；掖好：把衣物、纸张或物体边缘推入或折入，使其整齐或固定。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "to push in the loose end of so as to hold tightly",
-          "https://www.merriam-webster.com/dictionary/tuck"
-        ],
-        [
-          "Cambridge",
-          "to push a loose end of a piece of clothing or material into a particular place or position , especially to make it tidy or comfortable",
-          "https://dictionary.cambridge.org/dictionary/english/tuck"
-        ],
-        [
-          "Oxford Learner’s",
-          "to push, fold or turn the ends or edges of clothes, paper, etc. so that they are held in place or look neat",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/tuck_1"
-        ]
-      ]
-    },
-    {
-      "term": "grain",
-      "category": "通用",
-      "subcategory": "食物/材料",
-      "pos": "noun / 名词",
-      "phonetics": "/ɡreɪn/",
-      "en": "Grain is a small hard seed of a food plant such as wheat or rice; it can also mean the texture/fibres of wood or material.",
-      "zh": "谷粒；谷物；纹理：粮食作物的小硬种子，也可指木材、材料的纹理。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a single small hard seed",
-          "https://www.merriam-webster.com/dictionary/grain"
-        ],
-        [
-          "Cambridge",
-          "a seed or seeds from a plant , especially a plant like a grass such as rice or wheat",
-          "https://dictionary.cambridge.org/dictionary/english/grain"
-        ],
-        [
-          "Oxford Learner’s",
-          "the small hard seeds of food plants such as wheat , rice, etc.; a single seed of such a plant",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/grain"
-        ]
-      ]
-    },
-    {
-      "term": "endow",
-      "category": "通用",
-      "subcategory": "给予/资助",
-      "pos": "verb / 动词",
-      "phonetics": "/ɪnˈdaʊ/; /ɪnˈdaʊz/",
-      "en": "To endow is to give money to an institution or to provide someone/something with a quality or ability.",
-      "zh": "捐赠；资助；赋予：给机构捐款以提供收入，或赋予某人/某物某种品质、能力。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "to furnish with an income",
-          "https://www.merriam-webster.com/dictionary/endow"
-        ],
-        [
-          "Cambridge",
-          "to give a large amount of money to pay for creating a college , hospital , etc. or to provide an income for it",
-          "https://dictionary.cambridge.org/dictionary/english/endow"
-        ],
-        [
-          "Oxford Learner’s",
-          "to give a large sum of money to a school, a college or another institution to provide it with an income",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/endow"
-        ]
-      ]
-    },
-    {
-      "term": "tinker",
-      "category": "通用",
-      "subcategory": "修补/调整",
-      "pos": "verb/noun / 动词/名词",
-      "phonetics": "/ˈtɪŋkə(r)/; /ˈtɪŋkər/",
-      "en": "To tinker is to make small changes or repairs, especially experimentally; a tinker was traditionally a traveling repairer.",
-      "zh": "摆弄；修补；小改：尝试性地做小修改或维修；传统上也指流动修锅匠。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "to work in the manner of a tinker",
-          "https://www.merriam-webster.com/dictionary/tinker"
-        ],
-        [
-          "Cambridge",
-          "to make small changes to something, especially in an attempt to repair or improve it",
-          "https://dictionary.cambridge.org/dictionary/english/tinker"
-        ],
-        [
-          "Oxford Learner’s",
-          "an offensive word for a Traveller , Romani or other member of the travelling community",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/tinker_1"
-        ]
-      ]
-    },
-    {
-      "term": "lineage",
+      "term": "niche",
       "category": "生物学",
-      "subcategory": "谱系/演化",
+      "subcategory": "生态学/角色",
       "pos": "noun / 名词",
-      "phonetics": "/ˈlɪniɪdʒ/",
-      "en": "Lineage is descent from a common ancestor; in biology it can mean an evolutionary line of organisms.",
-      "zh": "谱系；世系；演化支系：从共同祖先延续下来的血统或演化线路。",
+      "phonetics": "/niːʃ/; /nɪtʃ/",
+      "en": "A niche is a suitable role or position; in ecology, it is the role and position of an organism in its environment.",
+      "zh": "生态位；合适位置：一般指适合的位置或角色；生态学中指生物在环境中的功能角色和位置。",
       "sources": [
         [
           "Merriam-Webster",
-          "descent in a line from a common progenitor",
-          "https://www.merriam-webster.com/dictionary/lineage"
+          "a recess in a wall especially for a statue",
+          "https://www.merriam-webster.com/dictionary/niche"
         ],
         [
           "Cambridge",
-          "the members of a person's family who are directly related to that person and who lived a long time before him or her",
-          "https://dictionary.cambridge.org/dictionary/english/lineage"
+          "a job or position that is very suitable for someone, especially one that they like",
+          "https://dictionary.cambridge.org/dictionary/english/niche"
         ],
         [
           "Oxford Learner’s",
-          "the series of families that somebody comes from originally",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/lineage"
+          "a comfortable or suitable role, job, way of life, etc.",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/niche_1"
         ]
       ]
     },
     {
-      "term": "acquirement",
+      "term": "nook",
       "category": "通用",
-      "subcategory": "学习/能力",
+      "subcategory": "空间",
       "pos": "noun / 名词",
-      "phonetics": "ə-ˈkwī(-ə)r-mənt; ə-ˈkwī(ə)r-mənt",
-      "en": "An acquirement is something acquired, especially a skill or ability gained through effort.",
-      "zh": "习得物；成就；学到的技能：通过努力获得的能力、知识或成果。",
+      "phonetics": "/nʊk/",
+      "en": "A nook is a small, sheltered or hidden corner or space.",
+      "zh": "角落；隐蔽处：小而安静、遮蔽或隐藏的空间。",
       "sources": [
         [
           "Merriam-Webster",
-          "a skill of mind or body usually resulting from continued endeavor",
-          "https://www.merriam-webster.com/dictionary/acquirement"
-        ]
-      ]
-    },
-    {
-      "term": "triune",
-      "category": "通用",
-      "subcategory": "哲学/宗教",
-      "pos": "adjective / 形容词",
-      "phonetics": "ˈtrī-ˌyün",
-      "en": "Triune means three-in-one, or consisting of three parts united as one.",
-      "zh": "三位一体的；三合一的：由三个部分构成但合为一体。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "trinity sense 1",
-          "https://www.merriam-webster.com/dictionary/triune"
-        ]
-      ]
-    },
-    {
-      "term": "limbic",
-      "category": "神经科学",
-      "subcategory": "脑结构/系统",
-      "pos": "adjective / 形容词",
-      "phonetics": "ˈlɪm.bɪk",
-      "en": "Limbic means relating to the limbic system of the brain, which is involved in emotion, motivation, memory, and related functions.",
-      "zh": "边缘系统的：与大脑边缘系统有关；该系统参与情绪、动机、记忆等功能。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "of, relating to, or being the limbic system of the brain",
-          "https://www.merriam-webster.com/dictionary/limbic"
+          "a right-angled corner",
+          "https://www.merriam-webster.com/dictionary/nook"
         ],
         [
           "Cambridge",
-          "a system of nerves and other structures in the brain that controls many of our emotions",
-          "https://dictionary.cambridge.org/dictionary/english/limbic"
-        ]
-      ]
-    },
-    {
-      "term": "subjectivity",
-      "category": "通用",
-      "subcategory": "认识/观点",
-      "pos": "noun / 名词",
-      "phonetics": "/ˌsʌbdʒekˈtɪvəti/",
-      "en": "Subjectivity is the quality of being influenced by personal feelings, opinions, or perspectives rather than only facts.",
-      "zh": "主观性：受个人感受、观点或视角影响，而非完全基于客观事实的性质。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "the quality, state, or nature of being subjective",
-          "https://www.merriam-webster.com/dictionary/subjectivity"
-        ],
-        [
-          "Cambridge",
-          "the influence of personal beliefs or feelings , rather than facts",
-          "https://dictionary.cambridge.org/dictionary/english/subjectivity"
+          "a small space that is hidden or partly sheltered",
+          "https://dictionary.cambridge.org/dictionary/english/nook"
         ],
         [
           "Oxford Learner’s",
-          "the fact of being influenced by personal ideas, opinions or feelings, rather than facts",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/subjectivity"
-        ]
-      ]
-    },
-    {
-      "term": "delineate",
-      "category": "通用",
-      "subcategory": "描述/划定",
-      "pos": "verb / 动词",
-      "phonetics": "/dɪˈlɪnieɪt/; /dɪˈlɪnieɪts/",
-      "en": "To delineate is to describe, explain, draw, or mark something clearly and in detail.",
-      "zh": "描绘；阐明；划定：清楚、详细地描述、解释或标出边界。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "to describe, portray , or set forth with accuracy or in detail",
-          "https://www.merriam-webster.com/dictionary/delineate"
-        ],
-        [
-          "Cambridge",
-          "to describe or mark the edge of something",
-          "https://dictionary.cambridge.org/dictionary/english/delineate"
-        ],
-        [
-          "Oxford Learner’s",
-          "to describe, draw or explain something in detail",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/delineate"
-        ]
-      ]
-    },
-    {
-      "term": "litmus",
-      "category": "通用",
-      "subcategory": "化学/测试",
-      "pos": "noun / 名词",
-      "phonetics": "/ˈlɪtməs/",
-      "en": "Litmus is a dye from lichens used as an acid-base indicator, turning red in acid and blue in alkali.",
-      "zh": "石蕊：来自地衣的染料，用作酸碱指示剂；遇酸变红，遇碱变蓝。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a coloring matter from lichens that turns red in acid solutions and blue in alkaline solutions and is used as an acid-base indicator",
-          "https://www.merriam-webster.com/dictionary/litmus"
-        ],
-        [
-          "Cambridge",
-          "a powder that is turned red by acid and blue by alkali",
-          "https://dictionary.cambridge.org/dictionary/english/litmus"
-        ],
-        [
-          "Oxford Learner’s",
-          "a substance that turns red when it touches an acid and blue when it touches an alkali",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/litmus"
-        ]
-      ]
-    },
-    {
-      "term": "culmination",
-      "category": "通用",
-      "subcategory": "过程/结果",
-      "pos": "noun / 名词",
-      "phonetics": "/ˌkʌlmɪˈneɪʃn/",
-      "en": "Culmination is the highest point, final result, or end reached after a process or series of events.",
-      "zh": "顶点；高潮；最终结果：一系列过程发展到的最高点或最终阶段。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "the action of culminating",
-          "https://www.merriam-webster.com/dictionary/culmination"
-        ],
-        [
-          "Cambridge",
-          "the point at which an event or series of events ends , having developed until it reaches this point",
-          "https://dictionary.cambridge.org/dictionary/english/culmination"
-        ],
-        [
-          "Oxford Learner’s",
-          "the highest point or end of something, usually happening after a long time",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/culmination"
+          "a small quiet place or corner that is sheltered or hidden from other people",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/nook"
         ]
       ]
     },
@@ -2669,158 +2466,54 @@
       ]
     },
     {
-      "term": "calamity",
-      "category": "通用",
-      "subcategory": "灾难",
-      "pos": "noun / 名词",
-      "phonetics": "/kəˈlæməti/",
-      "en": "A calamity is a disastrous event causing great damage, loss, or suffering.",
-      "zh": "灾难；大祸：造成重大损失、破坏或痛苦的事件。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a disastrous event marked by great loss and lasting distress and suffering",
-          "https://www.merriam-webster.com/dictionary/calamity"
-        ],
-        [
-          "Cambridge",
-          "a serious accident or bad event causing damage or suffering",
-          "https://dictionary.cambridge.org/dictionary/english/calamity"
-        ],
-        [
-          "Oxford Learner’s",
-          "an event that causes great damage to people’s lives, property, etc.",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/calamity"
-        ]
-      ]
-    },
-    {
-      "term": "niche",
+      "term": "polio",
       "category": "生物学",
-      "subcategory": "生态学/角色",
+      "subcategory": "医学/病毒性疾病",
       "pos": "noun / 名词",
-      "phonetics": "/niːʃ/; /nɪtʃ/",
-      "en": "A niche is a suitable role or position; in ecology, it is the role and position of an organism in its environment.",
-      "zh": "生态位；合适位置：一般指适合的位置或角色；生态学中指生物在环境中的功能角色和位置。",
+      "phonetics": "/ˈpəʊliəʊ/; /ˌpəʊliəʊˌmaɪəˈlaɪtɪs/",
+      "en": "Polio is an infectious disease caused by poliovirus that can affect the central nervous system and cause paralysis.",
+      "zh": "小儿麻痹症/脊髓灰质炎：由脊髓灰质炎病毒引起的传染病，可影响中枢神经系统并导致暂时或永久性瘫痪。",
       "sources": [
         [
           "Merriam-Webster",
-          "a recess in a wall especially for a statue",
-          "https://www.merriam-webster.com/dictionary/niche"
+          "an infectious disease especially of young children that is caused by the poliovirus",
+          "https://www.merriam-webster.com/dictionary/polio"
         ],
         [
           "Cambridge",
-          "a job or position that is very suitable for someone, especially one that they like",
-          "https://dictionary.cambridge.org/dictionary/english/niche"
+          "a serious infectious disease that can cause permanent paralysis (= being unable to move the body )",
+          "https://dictionary.cambridge.org/dictionary/english/polio"
         ],
         [
           "Oxford Learner’s",
-          "a comfortable or suitable role, job, way of life, etc.",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/niche_1"
+          "a disease that affects the central nervous system and can cause temporary or permanent paralysis (= loss of control or feeling in part or most of the body)",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/polio"
         ]
       ]
     },
     {
-      "term": "unfathomable",
+      "term": "proclaim",
       "category": "通用",
-      "subcategory": "理解/程度",
-      "pos": "adjective / 形容词",
-      "phonetics": "/ʌnˈfæðəməbl/",
-      "en": "Unfathomable means impossible or very difficult to understand or measure.",
-      "zh": "深不可测的；难以理解的：无法或极难理解、测量。",
+      "subcategory": "表达/宣告",
+      "pos": "verb / 动词",
+      "phonetics": "/prəˈkleɪm/; /prəˈkleɪmz/",
+      "en": "To proclaim is to announce something publicly or officially.",
+      "zh": "宣告；宣布；声明：公开或正式地告知某事。",
       "sources": [
         [
           "Merriam-Webster",
-          "not capable of being fathomed",
-          "https://www.merriam-webster.com/dictionary/unfathomable"
+          "to declare publicly, typically insistently, proudly, or defiantly and in either speech or writing : announce",
+          "https://www.merriam-webster.com/dictionary/proclaim"
         ],
         [
           "Cambridge",
-          "impossible to understand",
-          "https://dictionary.cambridge.org/dictionary/english/unfathomable"
+          "to announce something publicly or officially , especially something positive",
+          "https://dictionary.cambridge.org/dictionary/english/proclaim"
         ],
         [
           "Oxford Learner’s",
-          "too strange or difficult to be understood",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/unfathomable"
-        ]
-      ]
-    },
-    {
-      "term": "chauvinism",
-      "category": "通用",
-      "subcategory": "社会/态度",
-      "pos": "noun / 名词",
-      "phonetics": "/ˈʃəʊvɪnɪzəm/",
-      "en": "Chauvinism is an aggressive or unreasonable belief that one’s own group, country, sex, etc. is superior.",
-      "zh": "沙文主义；盲目优越感：不合理地认为自己的国家、群体、性别等优越。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "an attitude of superiority toward members of the opposite sex",
-          "https://www.merriam-webster.com/dictionary/chauvinism"
-        ],
-        [
-          "Cambridge",
-          "the strong and unreasonable belief that your own country or race is the best or most important",
-          "https://dictionary.cambridge.org/dictionary/english/chauvinism"
-        ],
-        [
-          "Oxford Learner’s",
-          "an aggressive and unreasonable belief that your own country is better than all others",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/chauvinism"
-        ]
-      ]
-    },
-    {
-      "term": "loom",
-      "category": "通用",
-      "subcategory": "出现/工具",
-      "pos": "verb/noun / 动词/名词",
-      "phonetics": "/luːm/; /luːmz/",
-      "en": "To loom is to appear as a large, unclear, often threatening shape; a loom is also a machine for weaving cloth.",
-      "zh": "隐约显现；逼近；织布机：动词指巨大、不清晰或令人不安地出现；名词指织布机。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "a frame or machine for interlacing (see interlace sense 1 ) at right angles two or more sets of threads or yarns to form a cloth",
-          "https://www.merriam-webster.com/dictionary/loom"
-        ],
-        [
-          "Cambridge",
-          "to appear as a large , often frightening or unclear shape or object",
-          "https://dictionary.cambridge.org/dictionary/english/loom"
-        ],
-        [
-          "Oxford Learner’s",
-          "to appear as a large shape that is not clear, especially in a frightening way",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/loom_1"
-        ]
-      ]
-    },
-    {
-      "term": "ape",
-      "category": "生物学",
-      "subcategory": "动物分类",
-      "pos": "noun / 名词",
-      "phonetics": "/eɪp/",
-      "en": "An ape is a large tailless primate such as a chimpanzee, gorilla, orangutan, or gibbon.",
-      "zh": "猿；类人猿：无尾的大型灵长类动物，如黑猩猩、大猩猩、猩猩、长臂猿。",
-      "sources": [
-        [
-          "Merriam-Webster",
-          "any of various large tailless semi-erect primates of Africa and southeastern Asia (such as the chimpanzee, gorilla, orangutan, or gibbon)",
-          "https://www.merriam-webster.com/dictionary/ape"
-        ],
-        [
-          "Cambridge",
-          "an animal like a large monkey with no tail , that uses its arms to move through trees",
-          "https://dictionary.cambridge.org/dictionary/english/ape"
-        ],
-        [
-          "Oxford Learner’s",
-          "a large animal like a monkey, with no tail. There are different types of ape .",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/ape_1"
+          "to publicly and officially tell people about something important",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/proclaim"
         ]
       ]
     },
@@ -2851,49 +2544,356 @@
       ]
     },
     {
-      "term": "iguana",
-      "category": "生物学",
-      "subcategory": "动物分类",
-      "pos": "noun / 名词",
-      "phonetics": "/ɪˈɡwɑːnə/",
-      "en": "An iguana is a large chiefly herbivorous tropical American lizard, usually green or brownish.",
-      "zh": "鬣蜥：主要分布于热带美洲的大型蜥蜴，多为植食性，通常呈绿色或褐色。",
+      "term": "sheer",
+      "category": "通用",
+      "subcategory": "程度/性质",
+      "pos": "adjective / 形容词",
+      "phonetics": "/ʃɪə(r)/; /ʃɪr/",
+      "en": "Sheer is used to emphasize the great degree or amount of something; it can also mean very steep or very thin.",
+      "zh": "完全的；十足的；陡峭的；薄透的：常用于强调程度，也可指坡面很陡或织物很薄。",
       "sources": [
         [
           "Merriam-Webster",
-          "any of various large chiefly herbivorous usually green or brownish tropical American lizards (family Iguanidae, the iguana family) that have a serrated dorsal crest and large dewlap",
-          "https://www.merriam-webster.com/dictionary/iguana"
+          "unqualified , utter",
+          "https://www.merriam-webster.com/dictionary/sheer"
         ],
         [
           "Cambridge",
-          "a large greyish-green lizard of tropical America",
-          "https://dictionary.cambridge.org/dictionary/english/iguana"
+          "used to emphasize how very great , important , or powerful a quality or feeling is; nothing except",
+          "https://dictionary.cambridge.org/dictionary/english/sheer"
         ],
         [
           "Oxford Learner’s",
-          "a large tropical American lizard (= a type of reptile )",
-          "https://www.oxfordlearnersdictionaries.com/definition/english/iguana"
+          "used to emphasize the size, degree or amount of something",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/sheer_1"
         ]
       ]
     },
     {
-      "term": "devolve",
+      "term": "sitcom",
       "category": "通用",
-      "subcategory": "转移/退化",
-      "pos": "verb / 动词",
-      "phonetics": "/dɪˈvɒlv/; /dɪˈvɑːlv/",
-      "en": "To devolve is to transfer power or responsibility to others; it can also mean to degenerate into a worse state.",
-      "zh": "移交；下放；退化：把权力或责任转交给他人/下级；也可指恶化、退化成较差状态。",
+      "subcategory": "影视/媒体",
+      "pos": "noun / 名词",
+      "phonetics": "/ˈsɪtkɒm/; /ˈsɪtkɑːm/",
+      "en": "A sitcom is a situation comedy: a regular TV comedy with continuing characters in funny situations.",
+      "zh": "情景喜剧：固定角色在不同幽默情境中展开故事的电视喜剧。",
       "sources": [
         [
           "Merriam-Webster",
-          "to pass on (something, such as responsibility, rights, or powers) from one person or entity to another",
-          "https://www.merriam-webster.com/dictionary/devolve"
+          "a television series that involves a continuing cast of characters in a succession of comedic circumstances : situation comedy",
+          "https://www.merriam-webster.com/dictionary/sitcom"
         ],
         [
           "Cambridge",
-          "to ( cause power or responsibility to) be given to other people",
-          "https://dictionary.cambridge.org/dictionary/english/devolve"
+          "a situation comedy",
+          "https://dictionary.cambridge.org/dictionary/english/sitcom"
+        ],
+        [
+          "Oxford Learner’s",
+          "a regular comedy programme on television that shows the same characters in different funny situations",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/sitcom"
+        ]
+      ]
+    },
+    {
+      "term": "subjectivity",
+      "category": "通用",
+      "subcategory": "认识/观点",
+      "pos": "noun / 名词",
+      "phonetics": "/ˌsʌbdʒekˈtɪvəti/",
+      "en": "Subjectivity is the quality of being influenced by personal feelings, opinions, or perspectives rather than only facts.",
+      "zh": "主观性：受个人感受、观点或视角影响，而非完全基于客观事实的性质。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "the quality, state, or nature of being subjective",
+          "https://www.merriam-webster.com/dictionary/subjectivity"
+        ],
+        [
+          "Cambridge",
+          "the influence of personal beliefs or feelings , rather than facts",
+          "https://dictionary.cambridge.org/dictionary/english/subjectivity"
+        ],
+        [
+          "Oxford Learner’s",
+          "the fact of being influenced by personal ideas, opinions or feelings, rather than facts",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/subjectivity"
+        ]
+      ]
+    },
+    {
+      "term": "tantalizing",
+      "category": "通用",
+      "subcategory": "欲望/吸引",
+      "pos": "adjective / 形容词",
+      "phonetics": "/ˈtæntəlaɪzɪŋ/",
+      "en": "Tantalizing means exciting desire or interest while remaining difficult or impossible to obtain.",
+      "zh": "诱人的；撩人的；可望而不可即的：激起欲望或兴趣，却难以得到满足。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "possessing a quality that arouses or stimulates desire or interest",
+          "https://www.merriam-webster.com/dictionary/tantalizing"
+        ],
+        [
+          "Cambridge",
+          "Something that is tantalizing causes desire and excitement in you, but is unlikely to provide a way of satisfying that desire",
+          "https://dictionary.cambridge.org/dictionary/english/tantalizing"
+        ],
+        [
+          "Oxford Learner’s",
+          "making you want something that you cannot have or do",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/tantalizing"
+        ]
+      ]
+    },
+    {
+      "term": "tiff",
+      "category": "通用",
+      "subcategory": "人际关系",
+      "pos": "noun / 名词",
+      "phonetics": "/tɪf/",
+      "en": "A tiff is a slight or petty quarrel, often between close people.",
+      "zh": "小争吵；拌嘴：通常指亲近的人之间轻微的争执。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "a petty quarrel",
+          "https://www.merriam-webster.com/dictionary/tiff"
+        ],
+        [
+          "Cambridge",
+          "a slight argument",
+          "https://dictionary.cambridge.org/dictionary/english/tiff"
+        ],
+        [
+          "Oxford Learner’s",
+          "a slight argument between close friends or two people who love each other",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/tiff_1"
+        ]
+      ]
+    },
+    {
+      "term": "tinker",
+      "category": "通用",
+      "subcategory": "修补/调整",
+      "pos": "verb/noun / 动词/名词",
+      "phonetics": "/ˈtɪŋkə(r)/; /ˈtɪŋkər/",
+      "en": "To tinker is to make small changes or repairs, especially experimentally; a tinker was traditionally a traveling repairer.",
+      "zh": "摆弄；修补；小改：尝试性地做小修改或维修；传统上也指流动修锅匠。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "to work in the manner of a tinker",
+          "https://www.merriam-webster.com/dictionary/tinker"
+        ],
+        [
+          "Cambridge",
+          "to make small changes to something, especially in an attempt to repair or improve it",
+          "https://dictionary.cambridge.org/dictionary/english/tinker"
+        ],
+        [
+          "Oxford Learner’s",
+          "an offensive word for a Traveller , Romani or other member of the travelling community",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/tinker_1"
+        ]
+      ]
+    },
+    {
+      "term": "triune",
+      "category": "通用",
+      "subcategory": "哲学/宗教",
+      "pos": "adjective / 形容词",
+      "phonetics": "ˈtrī-ˌyün",
+      "en": "Triune means three-in-one, or consisting of three parts united as one.",
+      "zh": "三位一体的；三合一的：由三个部分构成但合为一体。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "trinity sense 1",
+          "https://www.merriam-webster.com/dictionary/triune"
+        ]
+      ]
+    },
+    {
+      "term": "tuck",
+      "category": "通用",
+      "subcategory": "动作",
+      "pos": "verb/noun / 动词/名词",
+      "phonetics": "/tʌk/; /tʌks/",
+      "en": "To tuck is to push, fold, or place something neatly or securely into a position.",
+      "zh": "塞进； tucked 折好；掖好：把衣物、纸张或物体边缘推入或折入，使其整齐或固定。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "to push in the loose end of so as to hold tightly",
+          "https://www.merriam-webster.com/dictionary/tuck"
+        ],
+        [
+          "Cambridge",
+          "to push a loose end of a piece of clothing or material into a particular place or position , especially to make it tidy or comfortable",
+          "https://dictionary.cambridge.org/dictionary/english/tuck"
+        ],
+        [
+          "Oxford Learner’s",
+          "to push, fold or turn the ends or edges of clothes, paper, etc. so that they are held in place or look neat",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/tuck_1"
+        ]
+      ]
+    },
+    {
+      "term": "tumult",
+      "category": "通用",
+      "subcategory": "情绪/事件",
+      "pos": "noun / 名词",
+      "phonetics": "/ˈtjuːmʌlt/; /ˈtuːmʌlt/",
+      "en": "A tumult is a noisy, confused, excited disturbance or a state of great confusion.",
+      "zh": "喧嚣；骚动；混乱：通常指人群造成的嘈杂混乱，或形势、情绪上的动荡。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "disorderly agitation or milling about of a crowd usually with uproar and confusion of voices : commotion",
+          "https://www.merriam-webster.com/dictionary/tumult"
+        ],
+        [
+          "Cambridge",
+          "a loud noise , especially that produced by an excited crowd , or a state of confusion , change , or uncertainty",
+          "https://dictionary.cambridge.org/dictionary/english/tumult"
+        ],
+        [
+          "Oxford Learner’s",
+          "a confused situation in which there is usually a lot of noise and excitement, often involving large numbers of people",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/tumult"
+        ]
+      ]
+    },
+    {
+      "term": "unfathomable",
+      "category": "通用",
+      "subcategory": "理解/程度",
+      "pos": "adjective / 形容词",
+      "phonetics": "/ʌnˈfæðəməbl/",
+      "en": "Unfathomable means impossible or very difficult to understand or measure.",
+      "zh": "深不可测的；难以理解的：无法或极难理解、测量。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "not capable of being fathomed",
+          "https://www.merriam-webster.com/dictionary/unfathomable"
+        ],
+        [
+          "Cambridge",
+          "impossible to understand",
+          "https://dictionary.cambridge.org/dictionary/english/unfathomable"
+        ],
+        [
+          "Oxford Learner’s",
+          "too strange or difficult to be understood",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/unfathomable"
+        ]
+      ]
+    },
+    {
+      "term": "ungodly",
+      "category": "通用",
+      "subcategory": "程度/宗教",
+      "pos": "adjective / 形容词",
+      "phonetics": "/ʌnˈɡɒdli/; /ʌnˈɡɑːdli/",
+      "en": "Ungodly can mean impious or evil; informally it means extreme, unreasonable, or unacceptable.",
+      "zh": "不敬神的；邪恶的；过分的：正式指不虔敬或邪恶，口语中指极端、不合理或令人难以接受。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "denying or disobeying God : impious , irreligious",
+          "https://www.merriam-webster.com/dictionary/ungodly"
+        ],
+        [
+          "Cambridge",
+          "extreme or unacceptable",
+          "https://dictionary.cambridge.org/dictionary/english/ungodly"
+        ],
+        [
+          "Oxford Learner’s",
+          "not showing respect for God; evil",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/ungodly"
+        ]
+      ]
+    },
+    {
+      "term": "unwieldy",
+      "category": "通用",
+      "subcategory": "形状/管理",
+      "pos": "adjective / 形容词",
+      "phonetics": "/ʌnˈwiːldi/",
+      "en": "Unwieldy means difficult to handle, move, control, or manage because of size, shape, weight, or complexity.",
+      "zh": "笨重的；难处理的：因体积、形状、重量或复杂性而难以移动、使用或管理。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "not easily managed, handled, or used (as because of bulk, weight, complexity, or awkwardness) : cumbersome",
+          "https://www.merriam-webster.com/dictionary/unwieldy"
+        ],
+        [
+          "Cambridge",
+          "An unwieldy object is difficult to move or handle because it is heavy , large , or a strange shape",
+          "https://dictionary.cambridge.org/dictionary/english/unwieldy"
+        ],
+        [
+          "Oxford Learner’s",
+          "difficult to move or control because of its size, shape or weight",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/unwieldy"
+        ]
+      ]
+    },
+    {
+      "term": "verge",
+      "category": "通用",
+      "subcategory": "边缘/临界",
+      "pos": "noun / 名词",
+      "phonetics": "/vɜːdʒ/; /vɜːrdʒ/",
+      "en": "A verge is an edge, border, brink, or threshold; often used in “on the verge of”.",
+      "zh": "边缘；路边；临界点：常用于 on the verge of，表示“濒临、即将”。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "brink , threshold",
+          "https://www.merriam-webster.com/dictionary/verge"
+        ],
+        [
+          "Cambridge",
+          "the edge or border of something",
+          "https://dictionary.cambridge.org/dictionary/english/verge"
+        ],
+        [
+          "Oxford Learner’s",
+          "a piece of grass at the edge of a path, road, etc.",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/verge_1"
+        ]
+      ]
+    },
+    {
+      "term": "wondrous",
+      "category": "通用",
+      "subcategory": "评价/感受",
+      "pos": "adjective / 形容词",
+      "phonetics": "/ˈwʌndrəs/",
+      "en": "Wondrous means wonderful, extraordinary, beautiful, or impressive.",
+      "zh": "奇妙的；令人惊叹的：非常美好、非凡或令人赞叹。",
+      "sources": [
+        [
+          "Merriam-Webster",
+          "that is to be marveled at : extraordinary",
+          "https://www.merriam-webster.com/dictionary/wondrous"
+        ],
+        [
+          "Cambridge",
+          "extremely and surprisingly good",
+          "https://dictionary.cambridge.org/dictionary/english/wondrous"
+        ],
+        [
+          "Oxford Learner’s",
+          "strange, beautiful and impressive",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/wondrous"
         ]
       ]
     }
