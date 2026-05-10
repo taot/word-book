@@ -1,0 +1,382 @@
+# 生物学 / Biology
+
+来源词表：`biology.txt`  
+本文件按“生物学”大类保存，括号内给出细分方向。
+
+### bilaterian
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: A bilaterian is an animal with bilateral symmetry—its body can be divided into left and right mirror-image halves.
+- 中文解释：两侧对称动物：身体可分成左右近似镜像两半的动物；大多数动物类群（如脊椎动物、节肢动物、软体动物）属于这一大类。
+- 词典/公开来源：
+  - Merriam-Webster: an animal having bilateral symmetry
+    https://www.merriam-webster.com/dictionary/bilaterian
+
+### vertebrate
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun/adjective / 名词/形容词
+- English explanation: A vertebrate is an animal in Vertebrata, typically having a backbone or spinal column, a distinct head and internal skeleton.
+- 中文解释：脊椎动物/脊椎的：通常具有脊柱或脊椎骨、明显头部和内骨骼的动物，如鱼类、两栖类、爬行类、鸟类和哺乳类。
+- 词典/公开来源：
+  - Merriam-Webster: any of a subphylum (Vertebrata) of chordates that comprises animals (such as mammals, birds, reptiles, amphibians, and fishes) typically having a bony or cartilaginous spinal column which replaces the notochord , a distinct head containing a brain which arises as an enlarged part of the nerve cord , and an internal usually bony skeleton and that includes some primitive forms (such as lampreys ) in which the spinal column is absent and the notochord persists throughout life
+    https://www.merriam-webster.com/dictionary/vertebrate
+  - Cambridge: having a spine (= back bone )
+    https://dictionary.cambridge.org/dictionary/english/vertebrate
+  - Oxford Learner’s: having a backbone
+    https://www.oxfordlearnersdictionaries.com/definition/english/vertebrate_1
+
+### primate
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: A primate is a mammal in the order Primates, including humans, apes, monkeys, lemurs and tarsiers, often characterized by grasping hands/feet and advanced vision.
+- 中文解释：灵长类动物：灵长目哺乳动物，包括人类、猿、猴、狐猴、眼镜猴等；常具有抓握能力、较发达视觉和较大的大脑。
+- 词典/公开来源：
+  - Merriam-Webster: any of an order (Primates) of mammals that are characterized especially by advanced development of binocular vision resulting in stereoscopic depth perception , specialization of the hands and feet for grasping, and enlargement of the cerebral hemispheres and that include humans, apes, monkeys, and related forms (such as lemurs and tarsiers)
+    https://www.merriam-webster.com/dictionary/primate
+  - Cambridge: a member of the most developed and intelligent group of mammals , including humans , monkeys , and apes
+    https://dictionary.cambridge.org/dictionary/english/primate
+  - Oxford Learner’s: any animal that belongs to the group of mammals that includes humans, apes and monkeys
+    https://www.oxfordlearnersdictionaries.com/definition/english/primate
+
+### anemone
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: An anemone can mean a flowering plant of the genus Anemone, or a sea anemone, a soft flower-like marine animal.
+- 中文解释：银莲花/海葵：可指银莲花属植物；在动物学语境中常指海葵，即外形像花、身体柔软、生活在海洋中的刺胞动物。
+- 词典/公开来源：
+  - Merriam-Webster: sea anemone
+    https://www.merriam-webster.com/dictionary/anemone
+  - Cambridge: any of several types of small plant , wild or grown in gardens , with red , blue , or white flowers
+    https://dictionary.cambridge.org/dictionary/english/anemone
+  - Oxford Learner’s: a small plant with white, red, blue or purple flowers that are like cups in shape and have dark centres
+    https://www.oxfordlearnersdictionaries.com/definition/english/anemone
+
+### nematode
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: A nematode is a roundworm: a thin, unsegmented cylindrical worm, free-living or parasitic in plants or animals.
+- 中文解释：线虫：身体细长、圆筒形、不分节的蠕虫；可自由生活于土壤/水中，也可寄生于植物或动物。
+- 词典/公开来源：
+  - Merriam-Webster: any of a phylum (Nematoda or Nemata) of elongated cylindrical worms parasitic in animals or plants or free-living in soil or water
+    https://www.merriam-webster.com/dictionary/nematode
+  - Cambridge: a thin worm that is not divided into sections
+    https://dictionary.cambridge.org/dictionary/english/nematode
+  - Oxford Learner’s: a worm with a thin body that is shaped like a tube and not divided into sections
+    https://www.oxfordlearnersdictionaries.com/definition/english/nematode
+
+### crustacean
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: A crustacean is mostly an aquatic arthropod with a hard exoskeleton and segmented body; crabs, lobsters, shrimp and barnacles are examples.
+- 中文解释：甲壳动物：多为水生节肢动物，具有硬外骨骼和分节身体；螃蟹、龙虾、虾、藤壶等都属于甲壳动物。
+- 词典/公开来源：
+  - Merriam-Webster: any of a large class (Crustacea) of mostly aquatic mandibulate arthropods that have a chitinous or calcareous and chitinous exoskeleton, a pair of often much modified appendages on each segment, and two pairs of antennae and that include the lobsters, shrimp, crabs, wood lice, water fleas, and barnacles
+    https://www.merriam-webster.com/dictionary/crustacean
+  - Cambridge: any of various types of animal that live in water and have a hard outer shell
+    https://dictionary.cambridge.org/dictionary/english/crustacean
+  - Oxford Learner’s: any creature with a soft body that is divided into sections, and a hard outer shell. Most crustaceans live in water. Crabs , lobsters and shrimps are all crustaceans .
+    https://www.oxfordlearnersdictionaries.com/definition/english/crustacean
+
+### octopus
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: An octopus is a cephalopod mollusk with a soft body and eight arms bearing suckers.
+- 中文解释：章鱼/八腕目动物：软体动物门头足纲动物，身体柔软，有八条带吸盘的腕。
+- 词典/公开来源：
+  - Merriam-Webster: any of a genus ( Octopus ) of cephalopod mollusks that have eight muscular arms equipped with two rows of suckers
+    https://www.merriam-webster.com/dictionary/octopus
+  - Cambridge: a sea creature with a soft , oval body and eight arms
+    https://dictionary.cambridge.org/dictionary/english/octopus
+  - Oxford Learner’s: a sea creature with a soft round body and eight long arms, which is sometimes used for food
+    https://www.oxfordlearnersdictionaries.com/definition/english/octopus
+
+### squid
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: A squid is a cephalopod with a long soft body, eight arms and two longer tentacles around the mouth.
+- 中文解释：鱿鱼/枪乌贼：头足类软体动物，身体细长柔软，口周围有八条腕和两条较长触腕。
+- 词典/公开来源：
+  - Merriam-Webster: any of an order (Teuthoidea) of cephalopods having eight short arms and two usually longer tentacles, a long tapered body, a caudal fin on each side, and usually a slender internal chitinous support
+    https://www.merriam-webster.com/dictionary/squid
+  - Cambridge: a sea creature with a long body and ten arms situated around the mouth , or this animal eaten as food
+    https://dictionary.cambridge.org/dictionary/english/squid
+  - Oxford Learner’s: a sea creature that has a long soft body, eight arms and two tentacles (= long thin parts like arms) around its mouth, and that is sometimes used for food
+    https://www.oxfordlearnersdictionaries.com/definition/english/squid
+
+### slug
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: A slug is a small soft-bodied gastropod, like a snail but without an obvious external shell.
+- 中文解释：蛞蝓/鼻涕虫：软体动物，类似蜗牛但通常没有明显外壳，身体柔软、行动缓慢。
+- 词典/公开来源：
+  - Cambridge: a small , usually black or brown creature with a long , soft body and no arms or legs , like a snail but with no shell
+    https://dictionary.cambridge.org/dictionary/english/slug
+  - Oxford Learner’s: a small, soft creature, like a snail without a shell, that moves very slowly and often eats garden plants
+    https://www.oxfordlearnersdictionaries.com/definition/english/slug_1
+
+### amphibian
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun/adjective / 名词/形容词
+- English explanation: An amphibian is a cold-blooded vertebrate such as a frog, toad, newt or salamander, often living in water as larvae and on land as adults.
+- 中文解释：两栖动物/两栖的：冷血脊椎动物，如蛙、蟾蜍、蝾螈；通常幼体水生、成体可在陆地生活。
+- 词典/公开来源：
+  - Merriam-Webster: an amphibious organism
+    https://www.merriam-webster.com/dictionary/amphibian
+  - Cambridge: relating to animals of the class Amphibia (= the amphibians)
+    https://dictionary.cambridge.org/dictionary/english/amphibian
+  - Oxford Learner’s: any animal that can live both on land and in water. Amphibians have cold blood and skin without scales . Frogs , toads and newts are all amphibians .
+    https://www.oxfordlearnersdictionaries.com/definition/english/amphibian
+
+### reptile
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: A reptile is a cold-blooded, air-breathing vertebrate with scaly skin, typically laying eggs; snakes, lizards, turtles and crocodiles are examples.
+- 中文解释：爬行动物：冷血、用肺呼吸、皮肤常覆鳞片或骨板的脊椎动物，通常产卵；蛇、蜥蜴、龟、鳄等属于此类。
+- 词典/公开来源：
+  - Merriam-Webster: an animal that crawls or moves on its belly (such as a snake) or on small short legs (such as a lizard)
+    https://www.merriam-webster.com/dictionary/reptile
+  - Cambridge: an animal that produces eggs and uses the heat of the sun to control its blood temperature
+    https://dictionary.cambridge.org/dictionary/english/reptile
+  - Oxford Learner’s: any animal that has cold blood and skin covered in scales , and that lays eggs. Snakes, crocodiles and tortoises are all reptiles .
+    https://www.oxfordlearnersdictionaries.com/definition/english/reptile
+
+### homosapiens
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: Homo sapiens is the species name for modern humans. The file spelling “homosapiens” is normalized here as “Homo sapiens”.
+- 中文解释：智人：现代人类的物种名。原文件写作 homosapiens，这里按标准写法 Homo sapiens 处理。
+- 词典/公开来源：
+  - Merriam-Webster: humankind
+    https://www.merriam-webster.com/dictionary/Homo%20sapiens
+  - Cambridge: modern humans considered together as a species
+    https://dictionary.cambridge.org/dictionary/english/homo-sapiens
+  - Oxford Learner’s: the kind or species of human that exists now
+    https://www.oxfordlearnersdictionaries.com/definition/english/homo-sapiens
+
+### chimpanzee
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: A chimpanzee is an intelligent African great ape of the genus Pan, closely related to humans.
+- 中文解释：黑猩猩：非洲大型类人猿，属于 Pan 属，智能较高，与人类亲缘关系很近。
+- 词典/公开来源：
+  - Merriam-Webster: a great ape ( Pan troglodytes ) of equatorial Africa that is smaller and more arboreal than the gorilla compare bonobo
+    https://www.merriam-webster.com/dictionary/chimpanzee
+  - Cambridge: a small , very intelligent African ape with black or brown fur
+    https://dictionary.cambridge.org/dictionary/english/chimpanzee
+  - Oxford Learner’s: a small intelligent African ape (= an animal like a large monkey without a tail)
+    https://www.oxfordlearnersdictionaries.com/definition/english/chimpanzee
+
+### rodent
+- 分类：生物学（动物分类/生物演化）
+- 词性：noun / 名词
+- English explanation: A rodent is a mammal of the order Rodentia, usually small and characterized by a pair of strong gnawing incisors in each jaw.
+- 中文解释：啮齿动物：啮齿目哺乳动物，通常体型较小，上下颌有适合啃咬的一对门齿；鼠、松鼠、海狸等属于此类。
+- 词典/公开来源：
+  - Merriam-Webster: any of an order (Rodentia) of relatively small gnawing mammals (such as a mouse, squirrel, or beaver) that have in both jaws a single pair of incisors with a chisel-shaped edge
+    https://www.merriam-webster.com/dictionary/rodent
+  - Cambridge: any of various small mammals with large , sharp front teeth , such as mice and rats
+    https://dictionary.cambridge.org/dictionary/english/rodent
+  - Oxford Learner’s: any small animal that belongs to a group of animals with strong sharp front teeth. Mice, rats and squirrels are all rodents .
+    https://www.oxfordlearnersdictionaries.com/definition/english/rodent
+
+### Ediacaran
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Ediacaran refers to the late Precambrian interval and its distinctive extinct multicellular marine organisms.
+- 中文解释：埃迪卡拉纪/埃迪卡拉生物群的：指前寒武纪晚期的地质时期及其中典型的已灭绝多细胞海洋生物群。
+- 词典/公开来源：
+  - Merriam-Webster: being or belonging to an assemblage of extinct multicellular marine organisms of the Late Precambrian era
+    https://www.merriam-webster.com/dictionary/Ediacaran
+
+### Cambrian
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Cambrian refers to the earliest Paleozoic period, famous for the rapid diversification of many animal groups, especially invertebrates.
+- 中文解释：寒武纪/寒武系的：古生代最早时期，以许多动物类群（特别是无脊椎动物）快速多样化而著名。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or being the earliest geologic period of the Paleozoic era or the corresponding system of rocks marked by fossils of nearly every major invertebrate animal group see Geologic Time Table
+    https://www.merriam-webster.com/dictionary/Cambrian
+  - Cambridge: from or referring to the period of time between about 543 and 490 million years ago, in which many different types of invertebrates (= animals with no back bone ) first appeared
+    https://dictionary.cambridge.org/dictionary/english/cambrian
+  - Oxford Learner’s: of the first period of the Palaeozoic; of the rocks formed during this time
+    https://www.oxfordlearnersdictionaries.com/definition/english/cambrian
+
+### Ordovician
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Ordovician refers to the Paleozoic period between the Cambrian and Silurian, marked by diverse marine life including early vertebrates.
+- 中文解释：奥陶纪/奥陶系的：寒武纪之后、志留纪之前的古生代时期，海洋生物多样，出现多类海生动物和早期脊椎动物。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or being the period between the Cambrian and the Silurian or the corresponding system of rocks see Geologic Time Table
+    https://www.merriam-webster.com/dictionary/Ordovician
+  - Cambridge: from or referring to the period of time between about 485 and 445 million years ago, in which there were many different types of animals in the sea , including vertebrates (= animals with backbones ) , but no life on land
+    https://dictionary.cambridge.org/dictionary/english/ordovician
+
+### Silurian
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Silurian refers to the Paleozoic period between the Ordovician and Devonian, associated with jawed fishes and early land plants/animals.
+- 中文解释：志留纪/志留系的：奥陶纪之后、泥盆纪之前的古生代时期，出现有颌鱼类以及早期陆生植物和小型陆生动物。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or being a period of the Paleozoic era between the Ordovician and Devonian or the corresponding system of rocks marked by numerous eurypterid crustaceans and the appearance of the first land plants see Geologic Time Table
+    https://www.merriam-webster.com/dictionary/Silurian
+  - Cambridge: from or referring to the period of time between about 445 and 420 million years ago, in which fish with jaws (= mouth bones ) and some plants and small animals on land first appeared
+    https://dictionary.cambridge.org/dictionary/english/silurian
+
+### Devonian
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Devonian refers to the Paleozoic period after the Silurian, notable for the expansion of fishes and the appearance of many land plants including early trees.
+- 中文解释：泥盆纪/泥盆系的：志留纪之后的古生代时期，常被称为“鱼类时代”，陆生植物也显著发展并出现早期树木。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or being the period of the Paleozoic era between the Silurian and the Mississippian or the corresponding system of rocks see Geologic Time Table
+    https://www.merriam-webster.com/dictionary/Devonian
+  - Cambridge: from or referring to the period of time between about 420 and 360 million years ago, in which many plants , including the first trees , appeared on land
+    https://dictionary.cambridge.org/dictionary/english/devonian
+
+### Carboniferous
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Carboniferous refers to the Paleozoic period between the Devonian and Permian, when extensive coal-forming forests developed and early reptiles appeared.
+- 中文解释：石炭纪/石炭系的：泥盆纪之后、二叠纪之前的古生代时期，大型森林形成煤层，早期爬行动物出现。
+- 词典/公开来源：
+  - Merriam-Webster: producing or containing carbon or coal
+    https://www.merriam-webster.com/dictionary/carboniferous
+  - Cambridge: from or referring to the period of time , between around 363 and 290 million years ago, when the first reptiles appeared and there were large forests covering the areas that later formed earth's coal layers
+    https://dictionary.cambridge.org/dictionary/english/carboniferous
+  - Oxford Learner’s: of the period in the earth’s history when layers of coal were formed underground
+    https://www.oxfordlearnersdictionaries.com/definition/english/carboniferous
+
+### Permian
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Permian refers to the last Paleozoic period, ending with the largest mass extinction in Earth history.
+- 中文解释：二叠纪/二叠系的：古生代最后一个时期，末期发生地球历史上规模最大的生物大灭绝。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or being the last period of the Paleozoic era or the corresponding system of rocks see Geologic Time Table
+    https://www.merriam-webster.com/dictionary/Permian
+  - Cambridge: from or referring to the period of time between about 290 and 250 million years ago, in which large reptiles and amphibians appeared , and that ended with most species on earth becoming extinct (= dying out completely )
+    https://dictionary.cambridge.org/dictionary/english/permian
+
+### Triassic
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Triassic refers to the earliest Mesozoic period, when dinosaurs first appeared.
+- 中文解释：三叠纪/三叠系的：中生代最早时期，恐龙首次出现。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or being the earliest period of the Mesozoic era or the corresponding system of rocks marked by the first appearance of the dinosaurs see Geologic Time Table
+    https://www.merriam-webster.com/dictionary/Triassic
+  - Cambridge: from or referring to the period of time between around 245 and 208 million years ago, in which dinosaurs (= large reptiles that no longer exist ) first appeared
+    https://dictionary.cambridge.org/dictionary/english/triassic
+
+### Jurassic
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Jurassic refers to the Mesozoic period between the Triassic and Cretaceous, marked by dinosaurs and the first birds.
+- 中文解释：侏罗纪/侏罗系的：三叠纪之后、白垩纪之前的中生代时期，恐龙繁盛并出现早期鸟类。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or being the period of the Mesozoic era between the Triassic and the Cretaceous or the corresponding system of rocks marked by the presence of dinosaurs and the first appearance of birds see Geologic Time Table
+    https://www.merriam-webster.com/dictionary/Jurassic
+  - Cambridge: from or referring to the period of time between around 208 and 146 million years ago, in which the first birds appeared and the single piece of land broke up into separate continents
+    https://dictionary.cambridge.org/dictionary/english/jurassic
+  - Oxford Learner’s: of the period between around 208 to 146 million years ago, when the largest known dinosaurs lived; of the rocks formed during this time
+    https://www.oxfordlearnersdictionaries.com/definition/english/jurassic
+
+### Cretaceous
+- 分类：生物学（古生物学/地质年代）
+- 词性：adjective/noun / 形容词/名词
+- English explanation: Cretaceous refers to the last Mesozoic period, with flowering plants expanding, mammals diversifying, and many organisms including non-avian dinosaurs becoming extinct at the end.
+- 中文解释：白垩纪/白垩系的：中生代最后时期，开花植物扩张、哺乳动物多样化，末期包括非鸟恐龙在内的许多生物灭绝。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or being the last period of the Mesozoic era characterized by continued dominance of reptiles, emergent dominance of angiosperms, diversification of mammals, and the extinction of many types of organisms at the close of the period
+    https://www.merriam-webster.com/dictionary/Cretaceous
+  - Cambridge: from or referring to the period of time between around 144 and 65 million years ago, in which plants with flowers first appeared
+    https://dictionary.cambridge.org/dictionary/english/cretaceous
+  - Oxford Learner’s: belonging to the period between around 146 and 65 million years ago, when dinosaurs lived (until they died out); relating to the rocks formed during this time
+    https://www.oxfordlearnersdictionaries.com/definition/english/cretaceous
+
+## 来源词表：`others.txt`
+
+### polio
+- 分类：生物学（医学/病毒性疾病）
+- 词性：noun / 名词
+- 音标：/ˈpəʊliəʊ/; /ˌpəʊliəʊˌmaɪəˈlaɪtɪs/
+- English explanation: Polio is an infectious disease caused by poliovirus that can affect the central nervous system and cause paralysis.
+- 中文解释：小儿麻痹症/脊髓灰质炎：由脊髓灰质炎病毒引起的传染病，可影响中枢神经系统并导致暂时或永久性瘫痪。
+- 词典/公开来源：
+  - Merriam-Webster: an infectious disease especially of young children that is caused by the poliovirus
+    https://www.merriam-webster.com/dictionary/polio
+  - Cambridge: a serious infectious disease that can cause permanent paralysis (= being unable to move the body )
+    https://dictionary.cambridge.org/dictionary/english/polio
+  - Oxford Learner’s: a disease that affects the central nervous system and can cause temporary or permanent paralysis (= loss of control or feeling in part or most of the body)
+    https://www.oxfordlearnersdictionaries.com/definition/english/polio
+
+### burdock
+- 分类：生物学（植物）
+- 词性：noun / 名词
+- 音标：/ˈbɜːdɒk/; /ˈbɜːrdɑːk/
+- English explanation: Burdock is a coarse plant of the genus Arctium whose prickly burrs stick to animals or clothing.
+- 中文解释：牛蒡：菊科牛蒡属植物，花头或果实带刺钩，容易粘在动物皮毛或衣物上。
+- 词典/公开来源：
+  - Merriam-Webster: any of a genus ( Arctium ) of coarse composite herbs bearing globular flower heads with prickly bracts
+    https://www.merriam-webster.com/dictionary/burdock
+  - Cambridge: a large plant of the daisy family . Its flowers develop into burrs (= seed containers that stick to clothes and to animals ' fur because they are covered in little hooks ) .
+    https://dictionary.cambridge.org/dictionary/english/burdock
+  - Oxford Learner’s: a plant with flowers that become prickly and stick to passing animals
+    https://www.oxfordlearnersdictionaries.com/definition/english/burdock
+
+### lineage
+- 分类：生物学（谱系/演化）
+- 词性：noun / 名词
+- 音标：/ˈlɪniɪdʒ/
+- English explanation: Lineage is descent from a common ancestor; in biology it can mean an evolutionary line of organisms.
+- 中文解释：谱系；世系；演化支系：从共同祖先延续下来的血统或演化线路。
+- 词典/公开来源：
+  - Merriam-Webster: descent in a line from a common progenitor
+    https://www.merriam-webster.com/dictionary/lineage
+  - Cambridge: the members of a person's family who are directly related to that person and who lived a long time before him or her
+    https://dictionary.cambridge.org/dictionary/english/lineage
+  - Oxford Learner’s: the series of families that somebody comes from originally
+    https://www.oxfordlearnersdictionaries.com/definition/english/lineage
+
+### niche
+- 分类：生物学（生态学/角色）
+- 词性：noun / 名词
+- 音标：/niːʃ/; /nɪtʃ/
+- English explanation: A niche is a suitable role or position; in ecology, it is the role and position of an organism in its environment.
+- 中文解释：生态位；合适位置：一般指适合的位置或角色；生态学中指生物在环境中的功能角色和位置。
+- 词典/公开来源：
+  - Merriam-Webster: a recess in a wall especially for a statue
+    https://www.merriam-webster.com/dictionary/niche
+  - Cambridge: a job or position that is very suitable for someone, especially one that they like
+    https://dictionary.cambridge.org/dictionary/english/niche
+  - Oxford Learner’s: a comfortable or suitable role, job, way of life, etc.
+    https://www.oxfordlearnersdictionaries.com/definition/english/niche_1
+
+### ape
+- 分类：生物学（动物分类）
+- 词性：noun / 名词
+- 音标：/eɪp/
+- English explanation: An ape is a large tailless primate such as a chimpanzee, gorilla, orangutan, or gibbon.
+- 中文解释：猿；类人猿：无尾的大型灵长类动物，如黑猩猩、大猩猩、猩猩、长臂猿。
+- 词典/公开来源：
+  - Merriam-Webster: any of various large tailless semi-erect primates of Africa and southeastern Asia (such as the chimpanzee, gorilla, orangutan, or gibbon)
+    https://www.merriam-webster.com/dictionary/ape
+  - Cambridge: an animal like a large monkey with no tail , that uses its arms to move through trees
+    https://dictionary.cambridge.org/dictionary/english/ape
+  - Oxford Learner’s: a large animal like a monkey, with no tail. There are different types of ape .
+    https://www.oxfordlearnersdictionaries.com/definition/english/ape_1
+
+### iguana
+- 分类：生物学（动物分类）
+- 词性：noun / 名词
+- 音标：/ɪˈɡwɑːnə/
+- English explanation: An iguana is a large chiefly herbivorous tropical American lizard, usually green or brownish.
+- 中文解释：鬣蜥：主要分布于热带美洲的大型蜥蜴，多为植食性，通常呈绿色或褐色。
+- 词典/公开来源：
+  - Merriam-Webster: any of various large chiefly herbivorous usually green or brownish tropical American lizards (family Iguanidae, the iguana family) that have a serrated dorsal crest and large dewlap
+    https://www.merriam-webster.com/dictionary/iguana
+  - Cambridge: a large greyish-green lizard of tropical America
+    https://dictionary.cambridge.org/dictionary/english/iguana
+  - Oxford Learner’s: a large tropical American lizard (= a type of reptile )
+    https://www.oxfordlearnersdictionaries.com/definition/english/iguana

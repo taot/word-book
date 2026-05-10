@@ -1,0 +1,96 @@
+# Word Book
+
+整理方式：按分类保存；每个分类一个 Markdown 文件，另有 `source_check_log.json` 保存结构化来源记录。
+
+说明：优先核对 Merriam-Webster、Cambridge Dictionary、Oxford Learner’s Dictionaries 的公开页面；Collins 页面本次抓取时返回 Cloudflare/403，未绕过访问限制。若能从词典页提取音标，已加入词条。
+
+## 分类索引
+- [神经科学](neuroscience.md): 12 条
+- [生物学](biology.md): 30 条
+- [通用](general.md): 42 条
+
+## 词条索引
+- [neocortex](neuroscience.md#neocortex) — 神经科学
+- [prefrontal](neuroscience.md#prefrontal) — 神经科学
+- [granular frontal neocortex](neuroscience.md#granular-frontal-neocortex) — 神经科学
+- [somatosensory](neuroscience.md#somatosensory) — 神经科学
+- [brainstem](neuroscience.md#brainstem) — 神经科学
+- [cerebellum](neuroscience.md#cerebellum) — 神经科学
+- [thalamus](neuroscience.md#thalamus) — 神经科学
+- [basal ganglia](neuroscience.md#basal-ganglia) — 神经科学
+- [hypothalamus](neuroscience.md#hypothalamus) — 神经科学
+- [hippocampus](neuroscience.md#hippocampus) — 神经科学
+- [amygdala](neuroscience.md#amygdala) — 神经科学
+- [limbic](neuroscience.md#limbic) — 神经科学
+- [bilaterian](biology.md#bilaterian) — 生物学
+- [vertebrate](biology.md#vertebrate) — 生物学
+- [primate](biology.md#primate) — 生物学
+- [anemone](biology.md#anemone) — 生物学
+- [nematode](biology.md#nematode) — 生物学
+- [crustacean](biology.md#crustacean) — 生物学
+- [octopus](biology.md#octopus) — 生物学
+- [squid](biology.md#squid) — 生物学
+- [slug](biology.md#slug) — 生物学
+- [amphibian](biology.md#amphibian) — 生物学
+- [reptile](biology.md#reptile) — 生物学
+- [homosapiens](biology.md#homosapiens) — 生物学
+- [chimpanzee](biology.md#chimpanzee) — 生物学
+- [rodent](biology.md#rodent) — 生物学
+- [Ediacaran](biology.md#ediacaran) — 生物学
+- [Cambrian](biology.md#cambrian) — 生物学
+- [Ordovician](biology.md#ordovician) — 生物学
+- [Silurian](biology.md#silurian) — 生物学
+- [Devonian](biology.md#devonian) — 生物学
+- [Carboniferous](biology.md#carboniferous) — 生物学
+- [Permian](biology.md#permian) — 生物学
+- [Triassic](biology.md#triassic) — 生物学
+- [Jurassic](biology.md#jurassic) — 生物学
+- [Cretaceous](biology.md#cretaceous) — 生物学
+- [polio](biology.md#polio) — 生物学
+- [burdock](biology.md#burdock) — 生物学
+- [lineage](biology.md#lineage) — 生物学
+- [niche](biology.md#niche) — 生物学
+- [ape](biology.md#ape) — 生物学
+- [iguana](biology.md#iguana) — 生物学
+- [tumult](general.md#tumult) — 通用
+- [guise](general.md#guise) — 通用
+- [sitcom](general.md#sitcom) — 通用
+- [feat](general.md#feat) — 通用
+- [tiff](general.md#tiff) — 通用
+- [cusp](general.md#cusp) — 通用
+- [chagrin](general.md#chagrin) — 通用
+- [intrepid](general.md#intrepid) — 通用
+- [proclaim](general.md#proclaim) — 通用
+- [verge](general.md#verge) — 通用
+- [nook](general.md#nook) — 通用
+- [cranny](general.md#cranny) — 通用
+- [mesmerize](general.md#mesmerize) — 通用
+- [beguile](general.md#beguile) — 通用
+- [garner](general.md#garner) — 通用
+- [wondrous](general.md#wondrous) — 通用
+- [locus](general.md#locus) — 通用
+- [unwieldy](general.md#unwieldy) — 通用
+- [millennia](general.md#millennia) — 通用
+- [minuscule](general.md#minuscule) — 通用
+- [sheer](general.md#sheer) — 通用
+- [ungodly](general.md#ungodly) — 通用
+- [tantalizing](general.md#tantalizing) — 通用
+- [infuriating](general.md#infuriating) — 通用
+- [awe-inspiring](general.md#awe-inspiring) — 通用
+- [tuck](general.md#tuck) — 通用
+- [grain](general.md#grain) — 通用
+- [endow](general.md#endow) — 通用
+- [tinker](general.md#tinker) — 通用
+- [acquirement](general.md#acquirement) — 通用
+- [triune](general.md#triune) — 通用
+- [subjectivity](general.md#subjectivity) — 通用
+- [delineate](general.md#delineate) — 通用
+- [litmus](general.md#litmus) — 通用
+- [culmination](general.md#culmination) — 通用
+- [outwit](general.md#outwit) — 通用
+- [calamity](general.md#calamity) — 通用
+- [unfathomable](general.md#unfathomable) — 通用
+- [chauvinism](general.md#chauvinism) — 通用
+- [loom](general.md#loom) — 通用
+- [rung](general.md#rung) — 通用
+- [devolve](general.md#devolve) — 通用
