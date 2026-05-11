@@ -3,6 +3,48 @@
 来源词表：`biology.txt`  
 本文件按“生物学”大类保存，括号内给出细分方向。
 
+### abiogenesis
+- 分类：生物学（生命起源/演化）
+- 词性：noun / 名词
+- 音标：/ˌeɪbaɪoʊˈdʒenəsɪs/
+- English explanation: The origin of life from nonliving matter, especially as a scientific hypothesis about early Earth.
+- 中文解释：自然发生；生命起源于非生命物质：指生命从非生命物质中产生，尤其用于早期地球生命起源研究。
+- 词典/公开来源：
+  - Merriam-Webster: the supposed spontaneous origination of living organisms directly from lifeless matter
+    https://www.merriam-webster.com/dictionary/abiogenesis
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/abiogenesis
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/abiogenesis
+
+### algae
+- 分类：生物学（植物/微生物/生态）
+- 词性：plural noun / 复数名词
+- 音标：/ˈældʒiː/; /ˈælɡiː/
+- English explanation: Simple aquatic or moist-environment organisms that photosynthesize but lack the true roots, stems, and leaves of land plants.
+- 中文解释：藻类：生活在水中或潮湿环境、能光合作用的简单生物，通常没有陆生植物的真根、茎、叶。
+- 词典/公开来源：
+  - Merriam-Webster: simple plants or plantlike organisms without true stems and roots and that contain chlorophyll
+    https://www.merriam-webster.com/dictionary/algae
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/algae
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/algae
+
+### amino
+- 分类：生物学（生物化学/化学基团）
+- 词性：adjective / 形容词
+- 音标：/əˈmiːnoʊ/
+- English explanation: Relating to or containing the amino group –NH₂; commonly seen in “amino acid.”
+- 中文解释：氨基的：与 –NH₂ 氨基有关或含有氨基；常见于 amino acid（氨基酸）。
+- 词典/公开来源：
+  - Merriam-Webster: relating to or containing the group NH2
+    https://www.merriam-webster.com/dictionary/amino
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/amino
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/amino
+
 ### amphibian
 - 分类：生物学（动物分类/生物演化）
 - 词性：noun/adjective / 名词/形容词
@@ -16,6 +58,20 @@
   - Oxford Learner’s: any animal that can live both on land and in water. Amphibians have cold blood and skin without scales . Frogs , toads and newts are all amphibians .
     https://www.oxfordlearnersdictionaries.com/definition/english/amphibian
 
+### anaerobic
+- 分类：生物学（代谢/微生物学）
+- 词性：adjective / 形容词
+- 音标：/ˌænəˈroʊbɪk/; /ˌæneəˈroʊbɪk/
+- English explanation: Living, occurring, or functioning without oxygen; in biology, often referring to organisms or metabolic processes that do not require oxygen.
+- 中文解释：厌氧的：在没有氧气的条件下生活、发生或运作的；常指厌氧生物或厌氧代谢过程。
+- 词典/公开来源：
+  - Merriam-Webster: living, active, or occurring in the absence of free oxygen
+    https://www.merriam-webster.com/dictionary/anaerobic
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/anaerobic
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/anaerobic
+
 ### anemone
 - 分类：生物学（动物分类/生物演化）
 - 词性：noun / 名词
@@ -28,6 +84,20 @@
     https://dictionary.cambridge.org/dictionary/english/anemone
   - Oxford Learner’s: a small plant with white, red, blue or purple flowers that are like cups in shape and have dark centres
     https://www.oxfordlearnersdictionaries.com/definition/english/anemone
+
+### antioxidant
+- 分类：生物学（生物化学/健康）
+- 词性：noun / 名词
+- 音标：/ˌæntiˈɑːksɪdənt/
+- English explanation: A substance that inhibits oxidation and can help protect cells from damage by free radicals or reactive oxygen species.
+- 中文解释：抗氧化剂：抑制氧化反应的物质，可帮助细胞免受自由基或活性氧造成的损伤。
+- 词典/公开来源：
+  - Merriam-Webster: a substance that inhibits oxidation or reactions promoted by oxygen or peroxides
+    https://www.merriam-webster.com/dictionary/antioxidant
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/antioxidant
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/antioxidant
 
 ### ape
 - 分类：生物学（动物分类）
@@ -51,6 +121,34 @@
 - 词典/公开来源：
   - Merriam-Webster: an animal having bilateral symmetry
     https://www.merriam-webster.com/dictionary/bilaterian
+
+### biomass
+- 分类：生物学（生态学/生物量）
+- 词性：noun / 名词
+- 音标：/ˈbaɪoʊmæs/
+- English explanation: The total mass of living organisms in a given area or ecosystem; also organic material used as fuel.
+- 中文解释：生物量；生物质：某一区域或生态系统中生物体的总质量；也指可作燃料的有机物质。
+- 词典/公开来源：
+  - Merriam-Webster: the amount of living matter in a given habitat; plant materials and animal waste used as fuel
+    https://www.merriam-webster.com/dictionary/biomass
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/biomass
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/biomass
+
+### blastula
+- 分类：生物学（胚胎发育）
+- 词性：noun / 名词
+- 音标：/ˈblæstjʊlə/
+- English explanation: An early embryonic stage consisting of a hollow ball of cells formed after cleavage of a fertilized egg.
+- 中文解释：囊胚：受精卵卵裂后形成的早期胚胎阶段，通常为中空细胞球。
+- 词典/公开来源：
+  - Merriam-Webster: an early metazoan embryo typically having the form of a hollow ball of cells
+    https://www.merriam-webster.com/dictionary/blastula
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/blastula
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/blastula
 
 ### burdock
 - 分类：生物学（植物）
@@ -91,6 +189,20 @@
     https://dictionary.cambridge.org/dictionary/english/carboniferous
   - Oxford Learner’s: of the period in the earth’s history when layers of coal were formed underground
     https://www.oxfordlearnersdictionaries.com/definition/english/carboniferous
+
+### cavity
+- 分类：生物学（解剖/空间）
+- 词性：noun / 名词
+- 音标：/ˈkævəti/
+- English explanation: A hollow space within a body, organ, object, or tooth.
+- 中文解释：腔；空洞；龋洞：身体、器官、物体或牙齿内部的中空空间。
+- 词典/公开来源：
+  - Merriam-Webster: an unfilled space within a mass; a hollow place
+    https://www.merriam-webster.com/dictionary/cavity
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/cavity
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/cavity
 
 ### chimpanzee
 - 分类：生物学（动物分类/生物演化）
@@ -133,6 +245,20 @@
   - Oxford Learner’s: any creature with a soft body that is divided into sections, and a hard outer shell. Most crustaceans live in water. Crabs , lobsters and shrimps are all crustaceans .
     https://www.oxfordlearnersdictionaries.com/definition/english/crustacean
 
+### cyanobacteria
+- 分类：生物学（微生物学/光合作用）
+- 词性：plural noun / 复数名词
+- 音标：/ˌsaɪənoʊbækˈtɪriə/
+- English explanation: Photosynthetic bacteria, often called blue-green algae, that can produce oxygen and include many nitrogen-fixing forms.
+- 中文解释：蓝细菌；蓝藻：能进行光合作用、常被称为 blue-green algae 的细菌类群，许多能固氮并释放氧气。
+- 词典/公开来源：
+  - Merriam-Webster: photosynthetic bacteria of a phylum formerly considered algae
+    https://www.merriam-webster.com/dictionary/cyanobacteria
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/cyanobacteria
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/cyanobacteria
+
 ### Devonian
 - 分类：生物学（古生物学/地质年代）
 - 词性：adjective/noun / 形容词/名词
@@ -144,6 +270,20 @@
   - Cambridge: from or referring to the period of time between about 420 and 360 million years ago, in which many plants , including the first trees , appeared on land
     https://dictionary.cambridge.org/dictionary/english/devonian
 
+### dormant
+- 分类：生物学（休眠/状态）
+- 词性：adjective / 形容词
+- 音标：/ˈdɔːrmənt/
+- English explanation: Temporarily inactive or not growing, but capable of becoming active later.
+- 中文解释：休眠的；潜伏的：暂时不活动或不生长，但之后可能恢复活动。
+- 词典/公开来源：
+  - Merriam-Webster: represented on a coat of arms in a lying position; temporarily inactive
+    https://www.merriam-webster.com/dictionary/dormant
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/dormant
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/dormant
+
 ### Ediacaran
 - 分类：生物学（古生物学/地质年代）
 - 词性：adjective/noun / 形容词/名词
@@ -152,6 +292,76 @@
 - 词典/公开来源：
   - Merriam-Webster: being or belonging to an assemblage of extinct multicellular marine organisms of the Late Precambrian era
     https://www.merriam-webster.com/dictionary/Ediacaran
+
+### effector
+- 分类：生物学（生理学/细胞信号）
+- 词性：noun / 名词
+- 音标：/ɪˈfektər/
+- English explanation: A body part, cell, molecule, or organ that produces a response to a signal, such as a muscle, gland, or signaling protein.
+- 中文解释：效应器；效应分子：对信号作出反应的器官、细胞、分子或组织，如肌肉、腺体或信号蛋白。
+- 词典/公开来源：
+  - Merriam-Webster: a bodily organ, cell, or molecule that responds to stimulation
+    https://www.merriam-webster.com/dictionary/effector
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/effector
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/effector
+
+### embryo
+- 分类：生物学（胚胎发育）
+- 词性：noun / 名词
+- 音标：/ˈembriˌoʊ/
+- English explanation: An organism in an early stage of development before birth, hatching, or germination.
+- 中文解释：胚胎：生物在出生、孵化或萌发前的早期发育阶段。
+- 词典/公开来源：
+  - Merriam-Webster: an animal in the early stages of growth and differentiation; a rudimentary plant
+    https://www.merriam-webster.com/dictionary/embryo
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/embryo
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/embryo
+
+### eukaryote
+- 分类：生物学（细胞生物学/分类）
+- 词性：noun / 名词
+- 音标：/juːˈkæriˌoʊt/
+- English explanation: An organism whose cells contain a nucleus and other membrane-bound organelles, such as animals, plants, fungi, and protists.
+- 中文解释：真核生物：细胞具有细胞核和膜包被细胞器的生物，包括动物、植物、真菌和原生生物等。
+- 词典/公开来源：
+  - Merriam-Webster: an organism composed of one or more cells containing visibly evident nuclei and organelles
+    https://www.merriam-webster.com/dictionary/eukaryote
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/eukaryote
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/eukaryote
+
+### filament
+- 分类：生物学（结构/丝状体）
+- 词性：noun / 名词
+- 音标：/ˈfɪləmənt/
+- English explanation: A thin threadlike structure or fiber; in biology, a slender cell, chain of cells, or protein fiber.
+- 中文解释：丝状物；纤丝：细长如线的结构或纤维；生物学中可指丝状细胞、细胞链或蛋白纤维。
+- 词典/公开来源：
+  - Merriam-Webster: a single thread or a thin flexible threadlike object, process, or appendage
+    https://www.merriam-webster.com/dictionary/filament
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/filament
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/filament
+
+### geological
+- 分类：生物学（地质学/地球历史）
+- 词性：adjective / 形容词
+- 音标：/ˌdʒiːəˈlɑːdʒɪkl/
+- English explanation: Relating to geology: the structure, materials, history, and processes of Earth or other planetary bodies.
+- 中文解释：地质的；地质学的：与地球或其他行星的结构、物质、历史和过程有关。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or based on geology
+    https://www.merriam-webster.com/dictionary/geological
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/geological
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/geological
 
 ### homosapiens
 - 分类：生物学（动物分类/生物演化）
@@ -166,6 +376,18 @@
   - Oxford Learner’s: the kind or species of human that exists now
     https://www.oxfordlearnersdictionaries.com/definition/english/homo-sapiens
 
+### hydrothermal
+- 分类：生物学（地质/生态环境）
+- 词性：adjective / 形容词
+- 音标：/ˌhaɪ.drəʊˈθɜː.məl/; /ˌhaɪ.droʊˈθɝː.məl/
+- English explanation: Hydrothermal means relating to or produced by hot water, especially naturally heated underground water such as that associated with hydrothermal vents.
+- 中文解释：热液的/水热的：与热水有关或由热水形成，尤指地下自然加热水及其形成的热液环境（如热液喷口）。
+- 词典/公开来源：
+  - Merriam-Webster: of or relating to hot water
+    https://www.merriam-webster.com/dictionary/hydrothermal
+  - Cambridge: relating to or produced by hot water, especially water that has been naturally heated under the ground
+    https://dictionary.cambridge.org/dictionary/english/hydrothermal
+
 ### iguana
 - 分类：生物学（动物分类）
 - 词性：noun / 名词
@@ -179,6 +401,20 @@
     https://dictionary.cambridge.org/dictionary/english/iguana
   - Oxford Learner’s: a large tropical American lizard (= a type of reptile )
     https://www.oxfordlearnersdictionaries.com/definition/english/iguana
+
+### innard
+- 分类：生物学（解剖/器官）
+- 词性：noun / 名词
+- 音标：/ˈɪnərd/
+- English explanation: An internal organ or internal part of a body, usually used in the plural “innards.”
+- 中文解释：内脏；内部器官：身体内部的器官或部分，通常用复数 innards。
+- 词典/公开来源：
+  - Merriam-Webster: the internal organs of a person or animal
+    https://www.merriam-webster.com/dictionary/innard
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/innard
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/innard
 
 ### Jurassic
 - 分类：生物学（古生物学/地质年代）
@@ -207,6 +443,48 @@
   - Oxford Learner’s: the series of families that somebody comes from originally
     https://www.oxfordlearnersdictionaries.com/definition/english/lineage
 
+### lipid
+- 分类：生物学（生物化学/分子）
+- 词性：noun / 名词
+- 音标：/ˈlɪpɪd/; /ˈlaɪpɪd/
+- English explanation: A fatty or waxy organic compound, such as a fat, oil, phospholipid, or steroid, that is largely insoluble in water.
+- 中文解释：脂质：脂肪、油、磷脂、类固醇等一类不易溶于水的脂肪性或蜡质有机化合物。
+- 词典/公开来源：
+  - Merriam-Webster: any of various substances that are soluble in nonpolar organic solvents and include fats, oils, waxes, sterols
+    https://www.merriam-webster.com/dictionary/lipid
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/lipid
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/lipid
+
+### microbe
+- 分类：生物学（微生物学）
+- 词性：noun / 名词
+- 音标：/ˈmaɪkroʊb/
+- English explanation: A microscopic living organism, especially a bacterium, virus, fungus, protozoan, or similar microorganism.
+- 中文解释：微生物：需要显微镜才能看见的微小生物，常指细菌、病毒、真菌、原生生物等。
+- 词典/公开来源：
+  - Merriam-Webster: a microorganism, especially a bacterium causing disease or fermentation
+    https://www.merriam-webster.com/dictionary/microbe
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/microbe
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/microbe
+
+### mold
+- 分类：生物学（真菌/微生物）
+- 词性：noun / 名词; verb / 动词
+- 音标：/moʊld/
+- English explanation: As a noun, a fungus that grows as a fuzzy coating on organic matter; also a shape or form. As a verb, to shape something.
+- 中文解释：霉菌；模具；塑造：作名词可指在有机物上生长的绒毛状真菌，也可指模具；作动词指塑形。
+- 词典/公开来源：
+  - Merriam-Webster: a superficial often woolly growth produced especially on damp or decaying organic matter; to give shape
+    https://www.merriam-webster.com/dictionary/mold
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/mold
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/mold
+
 ### nematode
 - 分类：生物学（动物分类/生物演化）
 - 词性：noun / 名词
@@ -233,6 +511,20 @@
     https://dictionary.cambridge.org/dictionary/english/niche
   - Oxford Learner’s: a comfortable or suitable role, job, way of life, etc.
     https://www.oxfordlearnersdictionaries.com/definition/english/niche_1
+
+### nucleotide
+- 分类：生物学（分子生物学/遗传学）
+- 词性：noun / 名词
+- 音标：/ˈnjuːkliətaɪd/; /ˈnuːkliətaɪd/
+- English explanation: A nucleotide is a molecule made of a sugar, a phosphate group, and a nitrogen-containing base; nucleotides are the basic building blocks of DNA and RNA.
+- 中文解释：核苷酸：由糖、磷酸基团和含氮碱基组成的分子，是 DNA 和 RNA 等核酸的基本结构单位。
+- 词典/公开来源：
+  - Merriam-Webster: compounds that consist of a ribose or deoxyribose sugar joined to a purine or pyrimidine base and to a phosphate group, and are the basic structural units of nucleic acids such as RNA and DNA
+    https://www.merriam-webster.com/dictionary/nucleotide
+  - Cambridge: one of a group of chemical compounds found in living cells in nucleic acids such as DNA and RNA
+    https://dictionary.cambridge.org/dictionary/english/nucleotide
+  - Oxford Learner’s: one of the many small molecules that combine to form DNA and RNA
+    https://www.oxfordlearnersdictionaries.com/definition/english/nucleotide
 
 ### octopus
 - 分类：生物学（动物分类/生物演化）
@@ -269,6 +561,20 @@
   - Cambridge: from or referring to the period of time between about 290 and 250 million years ago, in which large reptiles and amphibians appeared , and that ended with most species on earth becoming extinct (= dying out completely )
     https://dictionary.cambridge.org/dictionary/english/permian
 
+### phagotrophy
+- 分类：生物学（营养方式/细胞摄食）
+- 词性：noun / 名词
+- 音标：/ˌfæɡəˈtrɑːfi/
+- English explanation: A mode of nutrition in which an organism engulfs solid food particles, as in phagocytosis.
+- 中文解释：吞噬营养：生物吞入固体食物颗粒来获取营养的方式，类似吞噬作用。
+- 词典/公开来源：
+  - Merriam-Webster: nutrition by engulfing solid particles
+    https://www.merriam-webster.com/dictionary/phagotrophy
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/phagotrophy
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/phagotrophy
+
 ### polio
 - 分类：生物学（医学/病毒性疾病）
 - 词性：noun / 名词
@@ -282,6 +588,20 @@
     https://dictionary.cambridge.org/dictionary/english/polio
   - Oxford Learner’s: a disease that affects the central nervous system and can cause temporary or permanent paralysis (= loss of control or feeling in part or most of the body)
     https://www.oxfordlearnersdictionaries.com/definition/english/polio
+
+### polyp
+- 分类：生物学（动物形态/刺胞动物）
+- 词性：noun / 名词
+- 音标：/ˈpɑːlɪp/
+- English explanation: A cylindrical, often attached animal form found in cnidarians such as hydras and corals; medically, also an abnormal tissue growth from a mucous membrane.
+- 中文解释：水螅型；息肉：在水螅、珊瑚等刺胞动物中常见的圆筒状附着形态；医学上也指黏膜突出的异常组织增生。
+- 词典/公开来源：
+  - Merriam-Webster: a coelenterate with a hollow cylindrical body; a projecting growth from a mucous membrane
+    https://www.merriam-webster.com/dictionary/polyp
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/polyp
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/polyp
 
 ### primate
 - 分类：生物学（动物分类/生物演化）
@@ -309,6 +629,34 @@
   - Oxford Learner’s: any animal that has cold blood and skin covered in scales , and that lays eggs. Snakes, crocodiles and tortoises are all reptiles .
     https://www.oxfordlearnersdictionaries.com/definition/english/reptile
 
+### respiration
+- 分类：生物学（生理学/代谢）
+- 词性：noun / 名词
+- 音标：/ˌrespəˈreɪʃn/
+- English explanation: The process of breathing, or in cells, the biochemical process that releases energy from food molecules.
+- 中文解释：呼吸；细胞呼吸：指吸入和呼出空气的过程；在细胞中指从食物分子释放能量的生化过程。
+- 词典/公开来源：
+  - Merriam-Webster: the movement of air or dissolved gases into and out of the lungs or cells; energy-releasing oxidation
+    https://www.merriam-webster.com/dictionary/respiration
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/respiration
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/respiration
+
+### ribosome
+- 分类：生物学（细胞生物学/蛋白质合成）
+- 词性：noun / 名词
+- 音标：/ˈraɪbəsoʊm/
+- English explanation: A tiny cellular particle made of RNA and protein that translates mRNA and assembles amino acids into proteins.
+- 中文解释：核糖体：由 RNA 和蛋白质构成的细胞颗粒，负责翻译 mRNA 并把氨基酸组装成蛋白质。
+- 词典/公开来源：
+  - Merriam-Webster: a particle composed of RNA and protein that is the site of protein synthesis
+    https://www.merriam-webster.com/dictionary/ribosome
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/ribosome
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/ribosome
+
 ### rodent
 - 分类：生物学（动物分类/生物演化）
 - 词性：noun / 名词
@@ -321,6 +669,20 @@
     https://dictionary.cambridge.org/dictionary/english/rodent
   - Oxford Learner’s: any small animal that belongs to a group of animals with strong sharp front teeth. Mice, rats and squirrels are all rodents .
     https://www.oxfordlearnersdictionaries.com/definition/english/rodent
+
+### secrete
+- 分类：生物学（生理学/分泌）
+- 词性：verb / 动词
+- 音标：/sɪˈkriːt/
+- English explanation: To produce and release a substance from a cell, gland, or organ.
+- 中文解释：分泌：细胞、腺体或器官产生并释放某种物质。
+- 词典/公开来源：
+  - Merriam-Webster: to form and give off a secretion
+    https://www.merriam-webster.com/dictionary/secrete
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/secrete
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/secrete
 
 ### Silurian
 - 分类：生物学（古生物学/地质年代）
@@ -344,6 +706,20 @@
   - Oxford Learner’s: a small, soft creature, like a snail without a shell, that moves very slowly and often eats garden plants
     https://www.oxfordlearnersdictionaries.com/definition/english/slug_1
 
+### spore
+- 分类：生物学（繁殖/微生物）
+- 词性：noun / 名词
+- 音标：/spɔːr/
+- English explanation: A reproductive cell or resistant resting structure produced by fungi, plants, algae, or some microbes.
+- 中文解释：孢子：真菌、植物、藻类或某些微生物产生的繁殖细胞或耐受休眠结构。
+- 词典/公开来源：
+  - Merriam-Webster: a primitive usually unicellular reproductive body resistant to environmental conditions
+    https://www.merriam-webster.com/dictionary/spore
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/spore
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/spore
+
 ### squid
 - 分类：生物学（动物分类/生物演化）
 - 词性：noun / 名词
@@ -356,6 +732,20 @@
     https://dictionary.cambridge.org/dictionary/english/squid
   - Oxford Learner’s: a sea creature that has a long soft body, eight arms and two tentacles (= long thin parts like arms) around its mouth, and that is sometimes used for food
     https://www.oxfordlearnersdictionaries.com/definition/english/squid
+
+### symbiosis
+- 分类：生物学（生态学/物种关系）
+- 词性：noun / 名词
+- 音标：/ˌsɪmbaɪˈoʊsɪs/
+- English explanation: A close, long-term association between different species, which may benefit one or both organisms.
+- 中文解释：共生：不同物种之间密切而长期的相互关系，可能使一方或双方受益。
+- 词典/公开来源：
+  - Merriam-Webster: the living together in close association of two dissimilar organisms
+    https://www.merriam-webster.com/dictionary/symbiosis
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/symbiosis
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/symbiosis
 
 ### Triassic
 - 分类：生物学（古生物学/地质年代）
@@ -380,3 +770,31 @@
     https://dictionary.cambridge.org/dictionary/english/vertebrate
   - Oxford Learner’s: having a backbone
     https://www.oxfordlearnersdictionaries.com/definition/english/vertebrate_1
+
+### wombat
+- 分类：生物学（动物/哺乳动物）
+- 词性：noun / 名词
+- 音标：/ˈwɑːmbæt/
+- English explanation: A burrowing Australian marsupial with a stout body, short legs, and a short tail.
+- 中文解释：袋熊：澳大利亚穴居有袋类动物，身体粗壮、腿短、尾短。
+- 词典/公开来源：
+  - Merriam-Webster: a burrowing herbivorous Australian marsupial
+    https://www.merriam-webster.com/dictionary/wombat
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/wombat
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/wombat
+
+### zygote
+- 分类：生物学（生殖/胚胎发育）
+- 词性：noun / 名词
+- 音标：/ˈzaɪɡoʊt/
+- English explanation: The cell formed when two gametes fuse, such as a fertilized egg, from which a new organism can develop.
+- 中文解释：合子；受精卵：两个配子融合形成的细胞，可发育成新的个体。
+- 词典/公开来源：
+  - Merriam-Webster: a cell formed by the union of two gametes
+    https://www.merriam-webster.com/dictionary/zygote
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/zygote
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/zygote

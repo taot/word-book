@@ -133,6 +133,34 @@
   - Cambridge: in a position near the front of the brain or the head
     https://dictionary.cambridge.org/dictionary/english/prefrontal
 
+### psychophysicist
+- 分类：神经科学（感觉/心理物理学）
+- 词性：noun / 名词
+- 音标：/ˌsaɪkoʊˈfɪzɪsɪst/
+- English explanation: A scientist who studies psychophysics: the relationship between physical stimuli and the sensations or perceptions they produce.
+- 中文解释：心理物理学家：研究物理刺激与由其产生的感觉、知觉之间关系的科学家。
+- 词典/公开来源：
+  - Merriam-Webster: a specialist in psychophysics
+    https://www.merriam-webster.com/dictionary/psychophysicist
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/psychophysicist
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/psychophysicist
+
+### reflex
+- 分类：神经科学（神经反应/生理）
+- 词性：noun / 名词; adjective / 形容词
+- 音标：/ˈriːfleks/
+- English explanation: An automatic, involuntary response to a stimulus, typically mediated by the nervous system.
+- 中文解释：反射：对刺激产生的自动、非自主反应，通常由神经系统介导。
+- 词典/公开来源：
+  - Merriam-Webster: an automatic and often inborn response to a stimulus
+    https://www.merriam-webster.com/dictionary/reflex
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/reflex
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/reflex
+
 ### somatosensory
 - 分类：神经科学
 - 词性：adjective / 形容词

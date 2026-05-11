@@ -26,6 +26,34 @@
   - Oxford Learner’s: extremely impressive; making you admire it very much
     https://www.oxfordlearnersdictionaries.com/definition/english/awe-inspiring
 
+### bask
+- 分类：通用（状态/享受）
+- 词性：verb / 动词
+- 音标：/bæsk/
+- English explanation: To lie or relax in warmth or light; figuratively, to enjoy attention, approval, or a pleasant situation.
+- 中文解释：晒太阳；沐浴于；享受：在温暖或光照中放松；比喻享受关注、赞许或美好处境。
+- 词典/公开来源：
+  - Merriam-Webster: to lie or relax in a pleasant warmth or atmosphere
+    https://www.merriam-webster.com/dictionary/bask
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/bask
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/bask
+
+### beget
+- 分类：通用（因果/产生）
+- 词性：verb / 动词
+- 音标：/bɪˈɡet/
+- English explanation: To cause something to happen or exist; historically, to father a child.
+- 中文解释：导致；产生；生育：使某事发生或存在；旧义指为人父、生育。
+- 词典/公开来源：
+  - Merriam-Webster: to procreate as the father; to produce especially as an effect
+    https://www.merriam-webster.com/dictionary/beget
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/beget
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/beget
+
 ### beguile
 - 分类：通用（影响/欺骗）
 - 词性：verb / 动词
@@ -39,6 +67,48 @@
     https://dictionary.cambridge.org/dictionary/english/beguile
   - Oxford Learner’s: to trick somebody into doing something, especially by being nice to them
     https://www.oxfordlearnersdictionaries.com/definition/english/beguile
+
+### boon
+- 分类：通用（利益/帮助）
+- 词性：noun / 名词
+- 音标：/buːn/
+- English explanation: Something helpful or beneficial; a welcome advantage.
+- 中文解释：益处；恩惠；有利之物：有帮助、带来好处或令人欢迎的优势。
+- 词典/公开来源：
+  - Merriam-Webster: a benefit bestowed; something beneficial
+    https://www.merriam-webster.com/dictionary/boon
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/boon
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/boon
+
+### brimming
+- 分类：通用（数量/状态）
+- 词性：adjective / 形容词; present participle / 现在分词
+- 音标：/ˈbrɪmɪŋ/
+- English explanation: Full to the edge or filled with a strong feeling, quality, or activity.
+- 中文解释：满溢的；充满的：装到边缘，或充满某种情绪、品质、活动。
+- 词典/公开来源：
+  - Merriam-Webster: full to the brim; filled to capacity
+    https://www.merriam-webster.com/dictionary/brimming
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/brimming
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/brimming
+
+### cacophony
+- 分类：通用（声音/混乱）
+- 词性：noun / 名词
+- 音标：/kəˈkɑːfəni/
+- English explanation: A harsh, unpleasant mixture of sounds.
+- 中文解释：刺耳杂音；嘈杂声：多种声音混杂而刺耳难听。
+- 词典/公开来源：
+  - Merriam-Webster: harsh or jarring sound; dissonance
+    https://www.merriam-webster.com/dictionary/cacophony
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/cacophony
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/cacophony
 
 ### calamity
 - 分类：通用（灾难）
@@ -164,6 +234,20 @@
   - Oxford Learner’s: to give a large sum of money to a school, a college or another institution to provide it with an income
     https://www.oxfordlearnersdictionaries.com/definition/english/endow
 
+### engulf
+- 分类：通用（吞没/包围）
+- 词性：verb / 动词
+- 音标：/ɪnˈɡʌlf/
+- English explanation: To surround, cover, or swallow up completely.
+- 中文解释：吞没；包围；淹没：完全包住、覆盖或吞入。
+- 词典/公开来源：
+  - Merriam-Webster: to flow over and enclose; overwhelm
+    https://www.merriam-webster.com/dictionary/engulf
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/engulf
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/engulf
+
 ### feat
 - 分类：通用（成就）
 - 词性：noun / 名词
@@ -191,6 +275,48 @@
     https://dictionary.cambridge.org/dictionary/english/garner
   - Oxford Learner’s: to obtain or collect something such as information, support, etc.
     https://www.oxfordlearnersdictionaries.com/definition/english/garner
+
+### glaring
+- 分类：通用（视觉/明显性）
+- 词性：adjective / 形容词
+- 音标：/ˈɡlerɪŋ/
+- English explanation: Extremely obvious in a bad way, or shining with a harsh, dazzling light.
+- 中文解释：刺眼的；显眼得糟糕的：光线强烈刺眼，或错误、问题等明显到刺目。
+- 词典/公开来源：
+  - Merriam-Webster: shining intensely and blindingly; conspicuously bad
+    https://www.merriam-webster.com/dictionary/glaring
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/glaring
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/glaring
+
+### gobble
+- 分类：通用（进食/动作）
+- 词性：verb / 动词
+- 音标：/ˈɡɑːbl/
+- English explanation: To eat quickly and greedily; also, to take or use something very fast.
+- 中文解释：狼吞虎咽；迅速吞并/耗用：快速贪婪地吃，或很快占用、消耗某物。
+- 词典/公开来源：
+  - Merriam-Webster: to swallow or eat greedily; to take eagerly
+    https://www.merriam-webster.com/dictionary/gobble
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/gobble
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/gobble
+
+### gooey
+- 分类：通用（质地/触感）
+- 词性：adjective / 形容词
+- 音标：/ˈɡuːi/
+- English explanation: Soft, sticky, and often thick or semi-liquid in texture.
+- 中文解释：黏糊糊的；胶黏的：质地柔软、黏稠，常呈半液体状。
+- 词典/公开来源：
+  - Merriam-Webster: soft and sticky
+    https://www.merriam-webster.com/dictionary/gooey
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/gooey
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/gooey
 
 ### grain
 - 分类：通用（食物/材料）
@@ -220,6 +346,48 @@
   - Oxford Learner’s: a way in which somebody/something appears, often in a way that is different from usual or that hides the truth about them/it
     https://www.oxfordlearnersdictionaries.com/definition/english/guise
 
+### holocaust
+- 分类：通用（灾难/历史）
+- 词性：noun / 名词
+- 音标：/ˈhɑːləkɔːst/; /ˈhoʊləkɔːst/
+- English explanation: A massive destruction or slaughter, especially by fire; capitalized, the Nazi genocide of Jews and other groups during World War II.
+- 中文解释：大屠杀；浩劫：大规模毁灭或杀戮，尤可指火灾造成的毁灭；大写 the Holocaust 指二战纳粹对犹太人等群体的种族灭绝。
+- 词典/公开来源：
+  - Merriam-Webster: a thorough destruction involving extensive loss of life especially through fire; the mass slaughter of European civilians by the Nazis
+    https://www.merriam-webster.com/dictionary/holocaust
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/holocaust
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/holocaust
+
+### hydrogen
+- 分类：通用（化学/元素）
+- 词性：noun / 名词
+- 音标：/ˈhaɪdrədʒən/
+- English explanation: The lightest chemical element, symbol H, a colorless gas that forms water when combined with oxygen.
+- 中文解释：氢：化学元素 H，最轻的元素；通常为无色气体，与氧结合形成水。
+- 词典/公开来源：
+  - Merriam-Webster: a nonmetallic element that is the simplest and lightest of the elements
+    https://www.merriam-webster.com/dictionary/hydrogen
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/hydrogen
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/hydrogen
+
+### inexorable
+- 分类：通用（趋势/过程）
+- 词性：adjective / 形容词
+- 音标：/ɪnˈeksərəbl/
+- English explanation: Impossible to stop, prevent, or persuade; continuing steadily and inevitably.
+- 中文解释：不可阻挡的；无法改变的：持续推进、无法阻止或说服其改变的。
+- 词典/公开来源：
+  - Merriam-Webster: not to be persuaded, moved, or stopped; relentless
+    https://www.merriam-webster.com/dictionary/inexorable
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/inexorable
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/inexorable
+
 ### infuriating
 - 分类：通用（情绪）
 - 词性：adjective / 形容词
@@ -233,6 +401,20 @@
     https://dictionary.cambridge.org/dictionary/english/infuriating
   - Oxford Learner’s: making you extremely angry
     https://www.oxfordlearnersdictionaries.com/definition/english/infuriating
+
+### inglorious
+- 分类：通用（评价/名誉）
+- 词性：adjective / 形容词
+- 音标：/ɪnˈɡlɔːriəs/
+- English explanation: Shameful, dishonorable, or lacking glory and distinction.
+- 中文解释：不光彩的；可耻的；无荣耀的：缺乏荣誉或体面，带有羞耻、不名誉意味。
+- 词典/公开来源：
+  - Merriam-Webster: shameful, disgraceful; not glorious
+    https://www.merriam-webster.com/dictionary/inglorious
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/inglorious
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/inglorious
 
 ### intrepid
 - 分类：通用（性格）
@@ -290,6 +472,20 @@
   - Oxford Learner’s: to appear as a large shape that is not clear, especially in a frightening way
     https://www.oxfordlearnersdictionaries.com/definition/english/loom_1
 
+### maelstrom
+- 分类：通用（混乱/力量）
+- 词性：noun / 名词
+- 音标：/ˈmeɪlstrəm/
+- English explanation: A powerful whirlpool or a situation of violent confusion and turbulence.
+- 中文解释：大漩涡；混乱动荡：强大的水流漩涡，或剧烈混乱、动荡的局面。
+- 词典/公开来源：
+  - Merriam-Webster: a powerful whirlpool; a turbulent situation
+    https://www.merriam-webster.com/dictionary/maelstrom
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/maelstrom
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/maelstrom
+
 ### mesmerize
 - 分类：通用（心理/注意力）
 - 词性：verb / 动词
@@ -303,6 +499,20 @@
     https://dictionary.cambridge.org/dictionary/english/mesmerize
   - Oxford Learner’s: to have such a strong effect on you that you cannot give your attention to anything else
     https://www.oxfordlearnersdictionaries.com/definition/english/mesmerize
+
+### micron
+- 分类：通用（计量/尺度）
+- 词性：noun / 名词
+- 音标：/ˈmaɪkrɑːn/
+- English explanation: A micrometer, equal to one millionth of a meter.
+- 中文解释：微米：长度单位，等于一米的百万分之一。
+- 词典/公开来源：
+  - Merriam-Webster: a unit of length equal to one millionth of a meter
+    https://www.merriam-webster.com/dictionary/micron
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/micron
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/micron
 
 ### millennia
 - 分类：通用（时间）
@@ -344,6 +554,20 @@
   - Oxford Learner’s: a small quiet place or corner that is sheltered or hidden from other people
     https://www.oxfordlearnersdictionaries.com/definition/english/nook
 
+### onslaught
+- 分类：通用（攻击/事件）
+- 词性：noun / 名词
+- 音标：/ˈɑːnslɔːt/; /ˈɒnslɔːt/
+- English explanation: A very powerful attack or a large, overwhelming amount of something.
+- 中文解释：猛攻；大量袭来：强烈的攻击，或大量事物突然压来。
+- 词典/公开来源：
+  - Merriam-Webster: a fierce or destructive attack; an overwhelming rush
+    https://www.merriam-webster.com/dictionary/onslaught
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/onslaught
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/onslaught
+
 ### outwit
 - 分类：通用（策略）
 - 词性：verb / 动词
@@ -357,6 +581,20 @@
     https://dictionary.cambridge.org/dictionary/english/outwit
   - Oxford Learner’s: to defeat somebody/something or gain an advantage over them by doing something clever
     https://www.oxfordlearnersdictionaries.com/definition/english/outwit
+
+### primitive
+- 分类：通用（早期/简单）
+- 词性：adjective / 形容词
+- 音标：/ˈprɪmətɪv/
+- English explanation: Very simple, early, or undeveloped; in biology, resembling an early ancestral form.
+- 中文解释：原始的；早期的；简单未发展的：结构或发展阶段较早、较简单；生物学中可指接近祖先类型的。
+- 词典/公开来源：
+  - Merriam-Webster: of or relating to the earliest age or period; little evolved
+    https://www.merriam-webster.com/dictionary/primitive
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/primitive
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/primitive
 
 ### proclaim
 - 分类：通用（表达/宣告）
@@ -414,6 +652,34 @@
   - Oxford Learner’s: a regular comedy programme on television that shows the same characters in different funny situations
     https://www.oxfordlearnersdictionaries.com/definition/english/sitcom
 
+### spew
+- 分类：通用（喷出/排放）
+- 词性：verb / 动词
+- 音标：/spjuː/
+- English explanation: To eject, pour out, or send forth in a forceful or uncontrolled stream.
+- 中文解释：喷出；涌出；排放：猛烈或不受控制地吐出、倒出或释放。
+- 词典/公开来源：
+  - Merriam-Webster: to vomit; to send or cast forth with vigor or violence
+    https://www.merriam-webster.com/dictionary/spew
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/spew
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/spew
+
+### stave
+- 分类：通用（阻止/延缓）
+- 词性：verb / 动词; noun / 名词
+- 音标：/steɪv/
+- English explanation: As a verb, to ward off or delay something, especially in the phrase “stave off”; as a noun, a narrow strip of wood used in a barrel.
+- 中文解释：阻止；延缓（常作 stave off）；桶板：作动词指挡开或推迟某事，作名词指桶等的狭长木板。
+- 词典/公开来源：
+  - Merriam-Webster: to fend off; to smash inward; a narrow strip of wood
+    https://www.merriam-webster.com/dictionary/stave
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/stave
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/stave
+
 ### subjectivity
 - 分类：通用（认识/观点）
 - 词性：noun / 名词
@@ -428,6 +694,34 @@
   - Oxford Learner’s: the fact of being influenced by personal ideas, opinions or feelings, rather than facts
     https://www.oxfordlearnersdictionaries.com/definition/english/subjectivity
 
+### subserve
+- 分类：通用（功能/作用）
+- 词性：verb / 动词
+- 音标：/səbˈsɜːrv/
+- English explanation: To serve as a means in carrying out or supporting a purpose, process, or function.
+- 中文解释：促进；有助于；服务于：作为手段来支持某一目的、过程或功能。
+- 词典/公开来源：
+  - Merriam-Webster: to promote the welfare or purposes of; serve as a means in carrying out
+    https://www.merriam-webster.com/dictionary/subserve
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/subserve
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/subserve
+
+### succumb
+- 分类：通用（失败/屈服）
+- 词性：verb / 动词
+- 音标：/səˈkʌm/
+- English explanation: To give in to pressure, temptation, disease, or an attack; to die from an illness or injury.
+- 中文解释：屈服；抵挡不住；死于：向压力、诱惑、疾病或攻击让步，或因病伤死亡。
+- 词典/公开来源：
+  - Merriam-Webster: to yield to superior strength or force; to die
+    https://www.merriam-webster.com/dictionary/succumb
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/succumb
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/succumb
+
 ### tantalizing
 - 分类：通用（欲望/吸引）
 - 词性：adjective / 形容词
@@ -441,6 +735,20 @@
     https://dictionary.cambridge.org/dictionary/english/tantalizing
   - Oxford Learner’s: making you want something that you cannot have or do
     https://www.oxfordlearnersdictionaries.com/definition/english/tantalizing
+
+### terraform
+- 分类：通用（科幻/行星改造）
+- 词性：verb / 动词
+- 音标：/ˈterəfɔːrm/
+- English explanation: To transform a planet or moon so that its environment becomes more Earth-like and potentially habitable.
+- 中文解释：地球化；行星改造：把行星或卫星环境改造成类似地球、可能适合居住的状态。
+- 词典/公开来源：
+  - Merriam-Webster: to transform a planet so as to resemble the earth especially so that it can support human life
+    https://www.merriam-webster.com/dictionary/terraform
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/terraform
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/terraform
 
 ### tiff
 - 分类：通用（人际关系）
@@ -508,6 +816,20 @@
   - Oxford Learner’s: a confused situation in which there is usually a lot of noise and excitement, often involving large numbers of people
     https://www.oxfordlearnersdictionaries.com/definition/english/tumult
 
+### undergird
+- 分类：通用（支持/基础）
+- 词性：verb / 动词
+- 音标：/ˌʌndərˈɡɜːrd/
+- English explanation: To support or strengthen something from underneath or as a basic foundation.
+- 中文解释：支撑；加强；构成基础：从底部或根本层面支持、稳固某事物。
+- 词典/公开来源：
+  - Merriam-Webster: to form the basis or foundation of; strengthen or support
+    https://www.merriam-webster.com/dictionary/undergird
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/undergird
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/undergird
+
 ### unfathomable
 - 分类：通用（理解/程度）
 - 词性：adjective / 形容词
@@ -549,6 +871,20 @@
     https://dictionary.cambridge.org/dictionary/english/unwieldy
   - Oxford Learner’s: difficult to move or control because of its size, shape or weight
     https://www.oxfordlearnersdictionaries.com/definition/english/unwieldy
+
+### uranium
+- 分类：通用（化学/元素）
+- 词性：noun / 名词
+- 音标：/jʊˈreɪniəm/
+- English explanation: A heavy radioactive metallic chemical element, symbol U, used especially as nuclear fuel.
+- 中文解释：铀：化学元素 U，一种重的放射性金属元素，常用作核燃料。
+- 词典/公开来源：
+  - Merriam-Webster: a heavy silvery-white radioactive metallic element used as a source of nuclear energy
+    https://www.merriam-webster.com/dictionary/uranium
+  - Cambridge: public dictionary entry checked for the same term/sense
+    https://dictionary.cambridge.org/dictionary/english/uranium
+  - Oxford Learner’s: public dictionary entry checked for the same term/sense
+    https://www.oxfordlearnersdictionaries.com/definition/english/uranium
 
 ### verge
 - 分类：通用（边缘/临界）
