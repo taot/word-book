@@ -1294,10 +1294,12 @@
       "anemone",
       "antioxidant",
       "ape",
+      "baboon",
       "bilaterian",
       "biomass",
       "blastula",
       "burdock",
+      "Caenorhabditis elegans",
       "Cambrian",
       "Carboniferous",
       "cavity",
@@ -1321,6 +1323,7 @@
       "lineage",
       "lipid",
       "microbe",
+      "microbial",
       "mold",
       "nematode",
       "niche",
@@ -1328,43 +1331,59 @@
       "octopus",
       "Ordovician",
       "Permian",
+      "petri dish",
       "phagotrophy",
       "polio",
       "polyp",
+      "potency",
       "primate",
+      "radiata",
       "reptile",
       "respiration",
       "ribosome",
       "rodent",
       "secrete",
       "Silurian",
+      "sinew",
       "slug",
       "spore",
       "squid",
+      "stain",
       "symbiosis",
       "Triassic",
+      "valence",
       "vertebrate",
       "wombat",
       "zygote"
     ],
     "神经科学": [
       "amygdala",
+      "axon",
       "basal ganglia",
       "brainstem",
       "cerebellum",
+      "clamp",
+      "dendrite",
+      "electrophysiology",
+      "excitatory",
       "granular frontal neocortex",
       "hippocampus",
       "hypothalamus",
+      "inhibitory",
       "limbic",
       "neocortex",
+      "neurotransmitter",
       "prefrontal",
       "psychophysicist",
       "reflex",
       "somatosensory",
+      "spinal",
+      "synapse",
       "thalamus"
     ],
     "通用": [
       "acquirement",
+      "awe",
       "awe-inspiring",
       "bask",
       "beget",
@@ -1375,26 +1394,33 @@
       "calamity",
       "chagrin",
       "chauvinism",
+      "constituent",
       "cranny",
       "culmination",
       "cusp",
       "delineate",
       "devolve",
+      "ebb",
       "endow",
       "engulf",
       "feat",
       "garner",
+      "glamor",
       "glaring",
+      "glimmer",
       "gobble",
       "gooey",
+      "grail",
       "grain",
       "guise",
       "holocaust",
       "hydrogen",
+      "imbue",
       "inexorable",
       "infuriating",
       "inglorious",
       "intrepid",
+      "invigorate",
       "litmus",
       "locus",
       "loom",
@@ -1404,18 +1430,29 @@
       "millennia",
       "minuscule",
       "nook",
+      "noxious",
       "onslaught",
       "outwit",
+      "paltry",
+      "pitched",
+      "platter",
+      "populism",
       "primitive",
       "proclaim",
+      "roster",
       "rung",
+      "schism",
+      "sensile",
       "sheer",
       "sitcom",
       "spew",
+      "squish",
       "stave",
+      "stint",
       "subjectivity",
       "subserve",
       "succumb",
+      "sycophancy",
       "tantalizing",
       "terraform",
       "tiff",
@@ -1426,6 +1463,7 @@
       "undergird",
       "unfathomable",
       "ungodly",
+      "untenable",
       "unwieldy",
       "uranium",
       "verge",
@@ -1433,14 +1471,94 @@
     ]
   },
   "collins_status": "403 Cloudflare for tested entry URLs.",
-  "format": "Markdown category files (neuroscience.md, biology.md, general.md), index.md, and structured source log.",
+  "format": "Markdown category files (index.md, neuroscience.md, biology.md, general.md) plus structured source_check_log.json provenance.",
   "input_file": "/home/terry/.hermes/cache/documents/doc_9a32734f66de_basics_of_human_brain_anatomy.txt",
   "input_files": [
     "/home/terry/.hermes/cache/documents/doc_9a32734f66de_basics_of_human_brain_anatomy.txt",
     "/home/terry/.hermes/cache/documents/doc_bb2957bad004_biology.txt",
     "/home/terry/.hermes/cache/documents/doc_dc174000b884_others.txt",
     "/home/terry/.hermes/cache/documents/doc_f42a752ebff4_others2.txt",
-    "/home/terry/.hermes/cache/documents/doc_4c50f6b9c18f_others3.txt"
+    "/home/terry/.hermes/cache/documents/doc_4c50f6b9c18f_others3.txt",
+    {
+      "filename": "others4.txt",
+      "path": "/home/terry/.hermes/cache/documents/doc_904452c7bb80_others4.txt",
+      "processed_at": "2026-05-12T13:45:33.459809+00:00",
+      "terms": [
+        "populism",
+        "sycophancy",
+        "sinew",
+        "spinal",
+        "clamp",
+        "stain",
+        "dendrite",
+        "axon",
+        "stint",
+        "electrophysiology",
+        "ebb",
+        "potency"
+      ]
+    },
+    {
+      "filename": "others5.txt",
+      "original_terms": [
+        "squish",
+        "untenable",
+        "roster",
+        "platter",
+        "synapse",
+        "neurotransmitter",
+        "excitatory",
+        "inhibitory",
+        "glimmer",
+        "baboon",
+        "radiata",
+        "sensile",
+        "microbial",
+        "caenorhabditis elegans",
+        "petri dish",
+        "noxious",
+        "schism",
+        "constituent",
+        "imbue",
+        "glamor",
+        "invigorate",
+        "pitched",
+        "grail",
+        "paltry",
+        "awe",
+        "valence"
+      ],
+      "path": "/home/terry/.hermes/cache/documents/doc_eee8ddb68d8d_others5.txt",
+      "processed_at": "2026-05-13T02:07:27.821126+00:00",
+      "terms": [
+        "squish",
+        "untenable",
+        "roster",
+        "platter",
+        "synapse",
+        "neurotransmitter",
+        "excitatory",
+        "inhibitory",
+        "glimmer",
+        "baboon",
+        "radiata",
+        "sensile",
+        "microbial",
+        "Caenorhabditis elegans",
+        "petri dish",
+        "noxious",
+        "schism",
+        "constituent",
+        "imbue",
+        "glamor",
+        "invigorate",
+        "pitched",
+        "grail",
+        "paltry",
+        "awe",
+        "valence"
+      ]
+    }
   ],
   "last_updated": "2026-05-11T02:41:40.061017+00:00",
   "manual_entries": [
@@ -3673,6 +3791,1366 @@
         }
       ],
       "term": "zygote"
+    }
+  ],
+  "others4_entries": [
+    {
+      "category": "通用",
+      "en": "",
+      "phonetics": "/ˈpɒpjəlɪzəm/; /ˈpɑːpjəlɪzəm/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "a political philosophy or movement that represents or is claimed to represent the interests of ordinary people especially against the Establishment",
+          "final_url": "https://www.merriam-webster.com/dictionary/populism",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/populism"
+        },
+        {
+          "definition": "political ideas and activities that are intended to get the support of ordinary people by giving them what they want",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/populism",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/populism"
+        },
+        {
+          "definition": "a type of politics that claims to represent the opinions and wishes of ordinary people",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/populism",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/populism"
+        }
+      ],
+      "subcategory": "政治/社会",
+      "term": "populism",
+      "zh": "民粹主义：一种声称代表“普通人民”、反对精英或建制派的政治理念、话语或运动。"
+    },
+    {
+      "category": "通用",
+      "en": "",
+      "phonetics": "/ˈsɪkəfənsi/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "obsequious flattery; the character or behavior of a sycophant",
+          "final_url": "https://www.merriam-webster.com/dictionary/sycophancy",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/sycophancy"
+        },
+        {
+          "definition": "behaviour in which someone praises powerful or rich people in a way that is not sincere, usually in order to get some advantage",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/sycophancy",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/sycophancy"
+        },
+        {
+          "definition": "behaviour that praises important or powerful people too much and in a way that is not sincere, especially in order to get something from them",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/sycophancy",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sycophancy"
+        }
+      ],
+      "subcategory": "性格/行为",
+      "term": "sycophancy",
+      "zh": "谄媚；阿谀奉承：为获取好处而对有权势者过度、虚伪地称赞。"
+    },
+    {
+      "category": "生物学",
+      "en": "",
+      "phonetics": "/ˈsɪnjuː/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "tendon; one dressed for use as a cord or thread",
+          "final_url": "https://www.merriam-webster.com/dictionary/sinew",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/sinew"
+        },
+        {
+          "definition": "a tendon (= strong piece of tissue in the body connecting a muscle to a bone)",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/sinew",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/sinew"
+        },
+        {
+          "definition": "a strong band of tissue in the body that joins a muscle to a bone",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/sinew",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sinew"
+        }
+      ],
+      "subcategory": "解剖/组织",
+      "term": "sinew",
+      "zh": "腱；筋：连接肌肉和骨骼的强韧组织；也可比喻力量或支撑来源。"
+    },
+    {
+      "category": "神经科学",
+      "en": "",
+      "phonetics": "/ˈspaɪnl/",
+      "pos": "adjective / 形容词",
+      "sources": [
+        {
+          "definition": "of, relating to, or situated near the spinal column; of, relating to, or affecting the spinal cord",
+          "final_url": "https://www.merriam-webster.com/dictionary/spinal",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/spinal"
+        },
+        {
+          "definition": "of the spine",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/spinal",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/spinal"
+        },
+        {
+          "definition": "connected with the spine (= the long bone in the back)",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/spinal",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/spinal"
+        }
+      ],
+      "subcategory": "脊柱/脊髓",
+      "term": "spinal",
+      "zh": "脊柱的；脊髓的：与脊柱或脊髓有关。"
+    },
+    {
+      "category": "神经科学",
+      "en": "",
+      "phonetics": "/klæmp/",
+      "pos": "noun/verb / 名词/动词",
+      "sources": [
+        {
+          "definition": "a device designed to bind or constrict or to press two or more parts together so as to hold them firmly",
+          "final_url": "https://www.merriam-webster.com/dictionary/clamp",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/clamp"
+        },
+        {
+          "definition": "a device made of wood or metal that is used to hold two things together tightly",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/clamp",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/clamp"
+        },
+        {
+          "definition": "to hold something tightly, or fasten two things together, with a clamp",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/clamp_1",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/clamp_1"
+        }
+      ],
+      "subcategory": "实验技术/电生理",
+      "term": "clamp",
+      "zh": "夹具；夹紧；钳制：一般指固定或压紧的装置/动作；在电生理中常见于 voltage clamp、patch clamp 等控制电压或电流的实验技术。"
+    },
+    {
+      "category": "生物学",
+      "en": "",
+      "phonetics": "/steɪn/",
+      "pos": "noun/verb / 名词/动词",
+      "sources": [
+        {
+          "definition": "to suffuse with color; discolor, soil",
+          "final_url": "https://www.merriam-webster.com/dictionary/stain",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/stain"
+        },
+        {
+          "definition": "to change the colour of something using a chemical",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/stain",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/stain"
+        },
+        {
+          "definition": "to change the colour of something using a coloured liquid",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/stain_1",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/stain_1"
+        }
+      ],
+      "subcategory": "实验技术/染色",
+      "term": "stain",
+      "zh": "污渍；染色剂；染色：一般指难以去除的痕迹或使其着色；实验语境中指用染料处理细胞/组织以便显微观察。"
+    },
+    {
+      "category": "神经科学",
+      "en": "A usually branched projection of a neuron that receives signals from other nerve cells and carries them toward the cell body.",
+      "phonetics": "/ˈdendraɪt/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "any of the usually branching protoplasmic processes that conduct impulses toward the body of a neuron",
+          "final_url": "https://www.merriam-webster.com/dictionary/dendrite",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/dendrite"
+        },
+        {
+          "definition": "one of the short parts like threads at the edge of a nerve cell that carry messages to the cell",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/dendrite",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/dendrite"
+        },
+        {
+          "definition": "a short branch at the end of a nerve cell that receives signals from other cells",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/dendrite",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/dendrite"
+        }
+      ],
+      "subcategory": "神经元结构",
+      "term": "dendrite",
+      "zh": "树突：神经元上通常呈分支状的突起，接收来自其他神经细胞的信号，并把信号传向细胞体。"
+    },
+    {
+      "category": "神经科学",
+      "en": "",
+      "phonetics": "/ˈæksɒn/; /ˈæksɑːn/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "a usually long and single nerve-cell process that usually conducts impulses away from the cell body",
+          "final_url": "https://www.merriam-webster.com/dictionary/axon",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/axon"
+        },
+        {
+          "definition": "a long, thread-like structure attached to a nerve cell that sends out signals away from the nerve cell",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/axon",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/axon"
+        },
+        {
+          "definition": "the long thin part of a nerve cell along which signals are sent to other cells",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/axon",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/axon"
+        }
+      ],
+      "subcategory": "神经元结构",
+      "term": "axon",
+      "zh": "轴突：神经元通常较长而细的突起，把信号从细胞体传向其他细胞。"
+    },
+    {
+      "category": "通用",
+      "en": "",
+      "phonetics": "/stɪnt/",
+      "pos": "noun/verb / 名词/动词",
+      "sources": [
+        {
+          "definition": "a period of time spent at a particular activity; a definite quantity of work assigned",
+          "final_url": "https://www.merriam-webster.com/dictionary/stint",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/stint"
+        },
+        {
+          "definition": "a fixed or limited period of time spent doing a particular job or activity",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/stint",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/stint"
+        },
+        {
+          "definition": "a period of time that you spend working somewhere or doing a particular activity",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/stint_1",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/stint_1"
+        }
+      ],
+      "subcategory": "工作/时间",
+      "term": "stint",
+      "zh": "一段工作/任职时间；限量供给：名词指从事某工作或活动的一段固定时间；动词可指吝惜、节省到不足。"
+    },
+    {
+      "category": "神经科学",
+      "en": "",
+      "phonetics": "",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "physiology that is concerned with the electrical aspects of physiological phenomena",
+          "final_url": "https://www.merriam-webster.com/dictionary/electrophysiology",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/electrophysiology"
+        },
+        {
+          "definition": "no usable public dictionary definition extracted for this term",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/electrophysiology",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "no_usable_definition_extracted",
+          "url": "https://dictionary.cambridge.org/dictionary/english/electrophysiology"
+        },
+        {
+          "definition": "term page returned 404 during check",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/electrophysiology",
+          "http_status": 404,
+          "source": "Oxford Learner’s",
+          "status": "http_404",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/electrophysiology"
+        }
+      ],
+      "subcategory": "实验技术/电生理",
+      "term": "electrophysiology",
+      "zh": "电生理学：研究生物细胞和组织（尤其神经元、肌肉、心脏）的电性质和电活动的生理学分支。"
+    },
+    {
+      "category": "通用",
+      "en": "",
+      "phonetics": "/eb/",
+      "pos": "noun/verb / 名词/动词",
+      "sources": [
+        {
+          "definition": "the reflux of the tide toward the sea; a point or condition of decline",
+          "final_url": "https://www.merriam-webster.com/dictionary/ebb",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/ebb"
+        },
+        {
+          "definition": "When the sea or tide ebbs, it moves away from the coast and falls to a lower level",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/ebb",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/ebb"
+        },
+        {
+          "definition": "the period of time when the sea flows away from the land",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/ebb_1",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/ebb_1"
+        }
+      ],
+      "subcategory": "变化/衰退",
+      "term": "ebb",
+      "zh": "退潮；衰退；减弱：潮水离岸退去；也比喻状态、力量、情绪等下降或减弱。"
+    },
+    {
+      "category": "生物学",
+      "en": "",
+      "phonetics": "/ˈpəʊtnsi/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "force, power; the quality or state of being potent; the ability or capacity to achieve or bring about a particular result",
+          "final_url": "https://www.merriam-webster.com/dictionary/potency",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/potency"
+        },
+        {
+          "definition": "strength, influence, or effectiveness",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/potency",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/potency"
+        },
+        {
+          "definition": "the power that somebody/something has to affect your body or mind",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/potency",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/potency"
+        }
+      ],
+      "subcategory": "药理/效力",
+      "term": "potency",
+      "zh": "效力；效价；强度：某物产生作用的能力或强弱，常用于药物、化学物质或生物活性因子。"
+    }
+  ],
+  "others5_entries": [
+    {
+      "category": "通用",
+      "en": "To crush or press something soft so that it changes shape, often making a wet, soft sound.",
+      "original_term": null,
+      "phonetics": "/skwɪʃ/",
+      "pos": "verb/noun / 动词/名词",
+      "sources": [
+        {
+          "definition": "squash; squelch",
+          "final_url": "https://www.merriam-webster.com/dictionary/squish",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/squish"
+        },
+        {
+          "definition": "to crush something that is soft",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/squish",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/squish"
+        },
+        {
+          "definition": "if something soft squishes or is squished, it is pushed out of shape when it is pressed",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/squish",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/squish"
+        }
+      ],
+      "subcategory": "动作/声音",
+      "term": "squish",
+      "zh": "压扁；挤压；咯吱作响：把柔软物体压到变形，常伴随湿软的挤压声。"
+    },
+    {
+      "category": "通用",
+      "en": "Unable to be defended, supported, or maintained against criticism or pressure.",
+      "original_term": null,
+      "phonetics": "/ʌnˈtenəbl/",
+      "pos": "adjective / 形容词",
+      "sources": [
+        {
+          "definition": "not able to be defended; not able to be occupied",
+          "final_url": "https://www.merriam-webster.com/dictionary/untenable",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/untenable"
+        },
+        {
+          "definition": "If a theory or argument is untenable, it cannot be supported or defended against criticism",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/untenable",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/untenable"
+        },
+        {
+          "definition": "that cannot be defended against attack or criticism",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/untenable",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/untenable"
+        }
+      ],
+      "subcategory": "论证/处境",
+      "term": "untenable",
+      "zh": "站不住脚的；难以维持的：论点、理论或处境无法被辩护、支持或继续维持。"
+    },
+    {
+      "category": "通用",
+      "en": "A list of people, often showing duties, schedules, or membership of a team or organization.",
+      "original_term": null,
+      "phonetics": "/ˈrɒstə(r)/; /ˈrɑːstər/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "a roll or list of personnel; such a list giving the order in which a duty is to be performed",
+          "final_url": "https://www.merriam-webster.com/dictionary/roster",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/roster"
+        },
+        {
+          "definition": "a list of people's names, often with the jobs they have been given to do",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/roster",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/roster"
+        },
+        {
+          "definition": "a list showing the tasks that different people have to do at different times within an organization",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/roster_1",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/roster_1"
+        }
+      ],
+      "subcategory": "组织/名单",
+      "term": "roster",
+      "zh": "花名册；值班表；名单：人员列表，常列出职责、排班或团队/组织成员。"
+    },
+    {
+      "category": "通用",
+      "en": "A large plate used for serving food; by extension, a serving of food arranged on such a plate.",
+      "original_term": null,
+      "phonetics": "/ˈplætə(r)/; /ˈplætər/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "a large plate used especially for serving meat",
+          "final_url": "https://www.merriam-webster.com/dictionary/platter",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/platter"
+        },
+        {
+          "definition": "a large plate used for serving food, or a meal with one type of food served on a large plate",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/platter",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/platter"
+        },
+        {
+          "definition": "a large plate that is used for serving food",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/platter",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/platter"
+        }
+      ],
+      "subcategory": "餐具/食物",
+      "term": "platter",
+      "zh": "大浅盘；拼盘：用于盛放食物的大盘子；也可指装在大盘上的一份食物。"
+    },
+    {
+      "category": "神经科学",
+      "en": "The junction or connection where a signal passes from one neuron to another cell.",
+      "original_term": null,
+      "phonetics": "/ˈsaɪnæps/; /ˈsɪnæps/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "the point at which a nervous impulse passes from one neuron to another",
+          "final_url": "https://www.merriam-webster.com/dictionary/synapse",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/synapse"
+        },
+        {
+          "definition": "the point at which electrical signals move from one nerve cell to another",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/synapse",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/synapse"
+        },
+        {
+          "definition": "a connection between two nerve cells",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/synapse",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/synapse"
+        }
+      ],
+      "subcategory": "神经元连接",
+      "term": "synapse",
+      "zh": "突触：神经信号从一个神经元传递到另一个细胞的连接点或接合处。"
+    },
+    {
+      "category": "神经科学",
+      "en": "A chemical messenger that carries signals from nerve cells to other nerve cells, muscles, or glands across synapses.",
+      "original_term": null,
+      "phonetics": "/ˈnjʊərəʊtrænzmɪtə(r)/; /ˈnʊrəʊtrænzmɪtər/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "a substance that transmits nerve impulses across a synapse",
+          "final_url": "https://www.merriam-webster.com/dictionary/neurotransmitter",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/neurotransmitter"
+        },
+        {
+          "definition": "a chemical that carries messages between neurons or between neurons and muscles",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/neurotransmitter",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/neurotransmitter"
+        },
+        {
+          "definition": "a chemical that carries messages from nerve cells to other nerve cells or muscles",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/neurotransmitter",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/neurotransmitter"
+        }
+      ],
+      "subcategory": "神经化学/突触传递",
+      "term": "neurotransmitter",
+      "zh": "神经递质：在突触处把信号从神经细胞传递到其他神经细胞、肌肉或腺体的化学信使。"
+    },
+    {
+      "category": "神经科学",
+      "en": "Producing or tending to produce excitation, especially increasing the likelihood that a neuron will fire.",
+      "original_term": null,
+      "phonetics": "",
+      "pos": "adjective / 形容词",
+      "sources": [
+        {
+          "definition": "tending to induce excitation (as of a neuron)",
+          "final_url": "https://www.merriam-webster.com/dictionary/excitatory",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/excitatory"
+        },
+        {
+          "definition": "term page checked but no usable definition extracted",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/excitatory",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "no_usable_definition_extracted",
+          "url": "https://dictionary.cambridge.org/dictionary/english/excitatory"
+        },
+        {
+          "definition": "term page returned 404 during check",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/excitatory",
+          "http_status": 404,
+          "source": "Oxford Learner’s",
+          "status": "http_404",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/excitatory"
+        }
+      ],
+      "subcategory": "神经信号/兴奋",
+      "term": "excitatory",
+      "zh": "兴奋性的：产生或促进兴奋的；神经科学中常指提高神经元放电可能性的作用或信号。"
+    },
+    {
+      "category": "神经科学",
+      "en": "Having the effect of inhibiting, slowing, restraining, or reducing a process; in neuroscience, reducing the likelihood that a neuron will fire.",
+      "original_term": null,
+      "phonetics": "/ɪnˈhɪbɪtəri/; /ɪnˈhɪbɪtɔːri/",
+      "pos": "adjective / 形容词",
+      "sources": [
+        {
+          "definition": "inhibiting; holding in check or restraining (entry checked via inhibit/inhibitory)",
+          "final_url": "https://www.merriam-webster.com/dictionary/inhibitory",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/inhibitory"
+        },
+        {
+          "definition": "with the effect or function of inhibiting (= stopping or slowing down) a process",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/inhibitory",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/inhibitory"
+        },
+        {
+          "definition": "term page returned 404 during check",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/inhibitory",
+          "http_status": 404,
+          "source": "Oxford Learner’s",
+          "status": "http_404",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/inhibitory"
+        }
+      ],
+      "subcategory": "神经信号/抑制",
+      "term": "inhibitory",
+      "zh": "抑制性的：具有抑制、减缓或限制作用；神经科学中常指降低神经元放电可能性的作用或信号。"
+    },
+    {
+      "category": "通用",
+      "en": "A faint, unsteady light; also a small sign or hint of something.",
+      "original_term": null,
+      "phonetics": "/ˈɡlɪmə(r)/; /ˈɡlɪmər/",
+      "pos": "noun/verb / 名词/动词",
+      "sources": [
+        {
+          "definition": "to shine faintly or unsteadily",
+          "final_url": "https://www.merriam-webster.com/dictionary/glimmer",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/glimmer"
+        },
+        {
+          "definition": "to shine with a weak light or a light that is not continuous",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/glimmer",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/glimmer"
+        },
+        {
+          "definition": "a small unsteady light; a small sign of something",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/glimmer_1",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/glimmer_1"
+        }
+      ],
+      "subcategory": "光/迹象",
+      "term": "glimmer",
+      "zh": "微光；一线迹象：微弱闪烁的光；也指某事物的一点迹象或希望。"
+    },
+    {
+      "category": "生物学",
+      "en": "A large African or Asian monkey, typically with a long dog-like muzzle and strong teeth.",
+      "original_term": null,
+      "phonetics": "/bəˈbuːn/; /bæˈbuːn/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "any of a genus (Papio) of large gregarious primates of Africa and southwestern Asia having a long square naked muzzle",
+          "final_url": "https://www.merriam-webster.com/dictionary/baboon",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/baboon"
+        },
+        {
+          "definition": "a type of large monkey, found in Africa and Asia, with a long, pointed face like a dog and large teeth",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/baboon",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/baboon"
+        },
+        {
+          "definition": "a large African or Asian monkey with a long face like a dog’s",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/baboon",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/baboon"
+        }
+      ],
+      "subcategory": "动物分类/灵长类",
+      "term": "baboon",
+      "zh": "狒狒：大型非洲或亚洲猴类，通常有像狗一样的长吻部和发达牙齿。"
+    },
+    {
+      "category": "生物学",
+      "en": "A term most often seen in anatomical phrases such as corona radiata or zona radiata, referring to radiating arrangements of cells or fibers around a structure.",
+      "original_term": null,
+      "phonetics": "/reɪdiˈɑːtə/; /reɪdiˈeɪtə/",
+      "pos": "noun / 名词（常见于复合术语）",
+      "sources": [
+        {
+          "definition": "the zone of small follicular cells immediately surrounding the ovum in the graafian follicle",
+          "final_url": "https://www.merriam-webster.com/dictionary/radiata",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/radiata"
+        },
+        {
+          "definition": "corona radiata: a large group of nerve fibres that connect the cerebral cortex and the brain stem; also cells surrounding an ovum",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/corona-radiata?q=radiata",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/corona-radiata?q=radiata"
+        },
+        {
+          "definition": "radiata standalone page returned 404 during check",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/radiata",
+          "http_status": 404,
+          "source": "Oxford Learner’s",
+          "status": "http_404",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/radiata"
+        }
+      ],
+      "subcategory": "解剖/发育",
+      "term": "radiata",
+      "zh": "放射状结构相关术语：常见于 corona radiata（放射冠）或 zona radiata 等解剖/发育术语，指围绕某结构呈放射状排列的细胞或纤维。"
+    },
+    {
+      "category": "通用",
+      "en": "Capable of sensation or feeling; sentient. This is a rare word and should not be confused with “sessile.”",
+      "original_term": null,
+      "phonetics": "",
+      "pos": "adjective / 形容词",
+      "sources": [
+        {
+          "definition": "capable of sensation: sentient",
+          "final_url": "https://www.merriam-webster.com/dictionary/sensile",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/sensile"
+        },
+        {
+          "definition": "term redirected to dictionary homepage and no usable definition was extracted",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "redirected_or_homepage_not_used",
+          "url": "https://dictionary.cambridge.org/dictionary/english/sensile"
+        },
+        {
+          "definition": "term page returned 404 during check",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/sensile",
+          "http_status": 404,
+          "source": "Oxford Learner’s",
+          "status": "http_404",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sensile"
+        }
+      ],
+      "subcategory": "感觉/知觉",
+      "term": "sensile",
+      "zh": "有感觉能力的；能感知的：少见词，指能感觉或有知觉；注意不要与 sessile（固着的）混淆。"
+    },
+    {
+      "category": "生物学",
+      "en": "Relating to microbes or microorganisms, especially bacteria and other very small living things.",
+      "original_term": null,
+      "phonetics": "/maɪˈkrəʊbiəl/; /maɪˈkroʊbiəl/",
+      "pos": "adjective / 形容词",
+      "sources": [
+        {
+          "definition": "relating to microorganisms or germs (entry checked via microbial/microbe)",
+          "final_url": "https://www.merriam-webster.com/dictionary/microbial",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/microbial"
+        },
+        {
+          "definition": "relating to microbes (= very small living things, especially ones that cause disease)",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/microbial",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/microbial"
+        },
+        {
+          "definition": "relating to microorganisms, especially bacteria that cause disease or fermentation",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/microbial",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/microbial"
+        }
+      ],
+      "subcategory": "微生物",
+      "term": "microbial",
+      "zh": "微生物的：与微生物有关，尤其指细菌等极小生物。"
+    },
+    {
+      "category": "生物学",
+      "en": "A small free-living nematode worm widely used as a model organism in genetics, development, neurobiology, and aging research.",
+      "original_term": "caenorhabditis elegans",
+      "phonetics": "",
+      "pos": "proper noun / 专有名词",
+      "sources": [
+        {
+          "definition": "Caenorhabditis elegans is a nematode species listed in NCBI Taxonomy",
+          "final_url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6239",
+          "http_status": 200,
+          "source": "NCBI Taxonomy",
+          "status": "fetched",
+          "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6239"
+        },
+        {
+          "definition": "Caenorhabditis elegans is the central model nematode organism curated by WormBase",
+          "final_url": "https://wormbase.org/species/c_elegans",
+          "http_status": 200,
+          "source": "WormBase",
+          "status": "fetched",
+          "url": "https://wormbase.org/species/c_elegans"
+        },
+        {
+          "definition": "phrase not listed as a standalone learner-dictionary entry during check",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/caenorhabditis-elegans",
+          "http_status": 404,
+          "source": "Oxford Learner’s",
+          "status": "http_404",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/caenorhabditis-elegans"
+        }
+      ],
+      "subcategory": "模式生物/线虫",
+      "term": "Caenorhabditis elegans",
+      "zh": "秀丽隐杆线虫：一种小型自由生活线虫，是遗传学、发育生物学、神经生物学和衰老研究中的重要模式生物。"
+    },
+    {
+      "category": "生物学",
+      "en": "A shallow, covered glass or plastic dish used in laboratories for growing cells, bacteria, or other microorganisms on a medium.",
+      "original_term": null,
+      "phonetics": "/ˈpetri dɪʃ/; /ˈpiːtri dɪʃ/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "a small shallow usually round dish of thin glass or plastic with a loose cover used especially for growing cells or microorganisms on a supportive medium",
+          "final_url": "https://www.merriam-webster.com/dictionary/petri%20dish",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/petri%20dish"
+        },
+        {
+          "definition": "a small, clear, round dish with a cover, used in scientific tests especially for growing bacteria",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/petri-dish",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/petri-dish"
+        },
+        {
+          "definition": "a shallow covered dish used for growing bacteria, etc. in",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/petri-dish",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/petri-dish"
+        }
+      ],
+      "subcategory": "实验器具/培养",
+      "term": "petri dish",
+      "zh": "培养皿：实验室中用于在培养基上培养细胞、细菌或其他微生物的浅而带盖的玻璃或塑料皿。"
+    },
+    {
+      "category": "通用",
+      "en": "Poisonous, harmful, destructive, or very unpleasant, especially to living things.",
+      "original_term": null,
+      "phonetics": "/ˈnɒkʃəs/; /ˈnɑːkʃəs/",
+      "pos": "adjective / 形容词",
+      "sources": [
+        {
+          "definition": "physically harmful or destructive to living beings",
+          "final_url": "https://www.merriam-webster.com/dictionary/noxious",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/noxious"
+        },
+        {
+          "definition": "poisonous or very harmful; harmful and unpleasant",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/noxious",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/noxious"
+        },
+        {
+          "definition": "poisonous or harmful",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/noxious",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/noxious"
+        }
+      ],
+      "subcategory": "危害/毒性",
+      "term": "noxious",
+      "zh": "有毒的；有害的；令人不快的：对生物或环境有伤害、破坏性或强烈不适感。"
+    },
+    {
+      "category": "通用",
+      "en": "A split or division within a group or organization caused by serious disagreement, especially in a church or religious body.",
+      "original_term": null,
+      "phonetics": "/ˈskɪzəm/; /ˈsɪzəm/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "division, separation; formal division in or separation from a church or religious body",
+          "final_url": "https://www.merriam-webster.com/dictionary/schism",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/schism"
+        },
+        {
+          "definition": "a division into two groups caused by a disagreement about ideas, especially in a religious organization",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/schism",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/schism"
+        },
+        {
+          "definition": "strong disagreement within an organization, especially a religious one, that makes its members divide into separate groups",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/schism",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/schism"
+        }
+      ],
+      "subcategory": "分裂/分歧",
+      "term": "schism",
+      "zh": "分裂；分歧：因严重意见不合导致团体或组织分成不同派别，尤用于宗教组织。"
+    },
+    {
+      "category": "通用",
+      "en": "A component part of a whole; also a person represented by an elected official in a constituency.",
+      "original_term": null,
+      "phonetics": "/kənˈstɪtʃuənt/",
+      "pos": "noun/adjective / 名词/形容词",
+      "sources": [
+        {
+          "definition": "an essential part: component, element; a member of a constituency",
+          "final_url": "https://www.merriam-webster.com/dictionary/constituent",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/constituent"
+        },
+        {
+          "definition": "one of the parts that a substance or combination is made of; a voter in a particular area",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/constituent",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/constituent"
+        },
+        {
+          "definition": "one of the parts of something that combine to form the whole; a person who lives in and can vote in a constituency",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/constituent_1",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/constituent_1"
+        }
+      ],
+      "subcategory": "组成/政治",
+      "term": "constituent",
+      "zh": "组成部分；选民：构成整体的一个部分；也指某选区中由民选代表代表的选民。"
+    },
+    {
+      "category": "通用",
+      "en": "To fill or permeate someone or something with a feeling, quality, idea, or value.",
+      "original_term": null,
+      "phonetics": "/ɪmˈbjuː/",
+      "pos": "verb / 动词",
+      "sources": [
+        {
+          "definition": "to permeate or influence as if by dyeing; to tinge or dye deeply",
+          "final_url": "https://www.merriam-webster.com/dictionary/imbue",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/imbue"
+        },
+        {
+          "definition": "to fill something or someone with a particular feeling, quality, or idea",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/imbue-with",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/imbue-with"
+        },
+        {
+          "definition": "to fill somebody/something with strong feelings, opinions or values",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/imbue",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/imbue"
+        }
+      ],
+      "subcategory": "影响/赋予",
+      "term": "imbue",
+      "zh": "使充满；灌输；赋予：使某人或某物充满某种情感、品质、思想或价值。"
+    },
+    {
+      "category": "通用",
+      "en": "US spelling of “glamour”: exciting, attractive, often idealized or romantic appeal.",
+      "original_term": null,
+      "phonetics": "/ˈɡlæmər/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "an exciting and often illusory and romantic attractiveness; alluring or fascinating attraction",
+          "final_url": "https://www.merriam-webster.com/dictionary/glamor",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/glamor"
+        },
+        {
+          "definition": "another US spelling of glamour",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/glamor",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/glamor"
+        },
+        {
+          "definition": "glamor standalone page returned 404 during check; compare glamour",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/glamor",
+          "http_status": 404,
+          "source": "Oxford Learner’s",
+          "status": "http_404",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/glamor"
+        }
+      ],
+      "subcategory": "魅力/吸引",
+      "term": "glamor",
+      "zh": "魅力；迷人气质：glamour 的美式拼写，指令人兴奋、吸引人的、常带理想化或浪漫色彩的魅力。"
+    },
+    {
+      "category": "通用",
+      "en": "To give new energy, strength, freshness, or effectiveness to a person, situation, or organization.",
+      "original_term": null,
+      "phonetics": "/ɪnˈvɪɡəreɪt/",
+      "pos": "verb / 动词",
+      "sources": [
+        {
+          "definition": "to give life and energy to; stimulate",
+          "final_url": "https://www.merriam-webster.com/dictionary/invigorate",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/invigorate"
+        },
+        {
+          "definition": "to make someone feel fresher, healthier, and more energetic",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/invigorate",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/invigorate"
+        },
+        {
+          "definition": "to make somebody feel healthy and full of energy; to make a situation or organization efficient and successful",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/invigorate",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/invigorate"
+        }
+      ],
+      "subcategory": "能量/改善",
+      "term": "invigorate",
+      "zh": "使振奋；使恢复活力；增强：给人、局面或组织注入新的能量、力量或效率。"
+    },
+    {
+      "category": "通用",
+      "en": "Sloping rather than flat; also set at a particular level, degree, or musical pitch depending on context.",
+      "original_term": null,
+      "phonetics": "/pɪtʃt/",
+      "pos": "adjective / 形容词",
+      "sources": [
+        {
+          "definition": "entry checked via pitch/pitched; can relate to pitch, slope, level, or musical tone",
+          "final_url": "https://www.merriam-webster.com/dictionary/pitched",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/pitched"
+        },
+        {
+          "definition": "sloping and not flat; at the stated level or degree",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/pitched",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/pitched"
+        },
+        {
+          "definition": "sloping; not flat",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/pitched",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/pitched"
+        }
+      ],
+      "subcategory": "形状/程度",
+      "term": "pitched",
+      "zh": "倾斜的；设定在某程度/音高的：可指屋顶等有坡度而非平坦，也可指处于某一水平、程度或音高。"
+    },
+    {
+      "category": "通用",
+      "en": "The Holy Grail of legend; more generally, a highly desired object or goal that is difficult to find or achieve.",
+      "original_term": null,
+      "phonetics": "/ɡreɪl/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "the cup or platter used according to medieval legend by Christ at the Last Supper; the object of an extended or difficult quest",
+          "final_url": "https://www.merriam-webster.com/dictionary/grail",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/grail"
+        },
+        {
+          "definition": "something that people want and are looking for but that is difficult to find or get",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/grail",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/grail"
+        },
+        {
+          "definition": "a thing that you try very hard to find or achieve, but never will",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/grail",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/grail"
+        }
+      ],
+      "subcategory": "追求/目标",
+      "term": "grail",
+      "zh": "圣杯；梦寐以求的目标：传说中的圣杯；泛指极想得到但很难找到或实现的目标。"
+    },
+    {
+      "category": "通用",
+      "en": "Very small, insufficient, or of little value or quality.",
+      "original_term": null,
+      "phonetics": "/ˈpɔːltri/; /ˈpɑːltri/",
+      "pos": "adjective / 形容词",
+      "sources": [
+        {
+          "definition": "trivial; inferior; mean or despicable",
+          "final_url": "https://www.merriam-webster.com/dictionary/paltry",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/paltry"
+        },
+        {
+          "definition": "very small and of little or no value; of little quality or value",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/paltry",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/paltry"
+        },
+        {
+          "definition": "too small to be considered as important or useful; having no value or useful qualities",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/paltry",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/paltry"
+        }
+      ],
+      "subcategory": "数量/价值",
+      "term": "paltry",
+      "zh": "微不足道的；少得可怜的；劣质的：数量太小、不够用，或价值/质量很低。"
+    },
+    {
+      "category": "通用",
+      "en": "A feeling of great respect, wonder, and sometimes fear caused by something overwhelming in beauty, power, size, or importance.",
+      "original_term": null,
+      "phonetics": "/ɔː/; /ɑː/",
+      "pos": "noun/verb / 名词/动词",
+      "sources": [
+        {
+          "definition": "an emotion variously combining dread, veneration, and wonder that is inspired by overwhelming greatness",
+          "final_url": "https://www.merriam-webster.com/dictionary/awe",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/awe"
+        },
+        {
+          "definition": "a feeling of great respect sometimes mixed with fear or surprise",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/awe",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/awe"
+        },
+        {
+          "definition": "feelings of respect and slight fear; feelings of being very impressed by something/somebody",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/awe_1",
+          "http_status": 200,
+          "source": "Oxford Learner’s",
+          "status": "fetched",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/awe_1"
+        }
+      ],
+      "subcategory": "情绪/敬畏",
+      "term": "awe",
+      "zh": "敬畏；惊叹：面对美、力量、规模或重要性压倒性的事物时产生的尊敬、惊奇，有时夹杂恐惧的情绪。"
+    },
+    {
+      "category": "生物学",
+      "en": "Combining power in chemistry; more broadly, the relative capacity to interact or the positive/negative value of an outcome or stimulus.",
+      "original_term": null,
+      "phonetics": "/ˈveɪləns/",
+      "pos": "noun / 名词",
+      "sources": [
+        {
+          "definition": "the degree of combining power of an element; relative capacity to unite, react, or interact",
+          "final_url": "https://www.merriam-webster.com/dictionary/valence",
+          "http_status": 200,
+          "source": "Merriam-Webster",
+          "status": "fetched",
+          "url": "https://www.merriam-webster.com/dictionary/valence"
+        },
+        {
+          "definition": "the ability of an atom to combine with other atoms, measured by the number of electrons it will lose, add, or share",
+          "final_url": "https://dictionary.cambridge.org/dictionary/english/valence",
+          "http_status": 200,
+          "source": "Cambridge",
+          "status": "fetched",
+          "url": "https://dictionary.cambridge.org/dictionary/english/valence"
+        },
+        {
+          "definition": "term page returned 404 during check",
+          "final_url": "https://www.oxfordlearnersdictionaries.com/definition/english/valence",
+          "http_status": 404,
+          "source": "Oxford Learner’s",
+          "status": "http_404",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/valence"
+        }
+      ],
+      "subcategory": "化学/心理效价",
+      "term": "valence",
+      "zh": "化合价；效价；情绪价：化学中指元素结合能力；也可指相互作用能力，或心理学中刺激/结果的正负价值。"
     }
   ],
   "others_entries": [

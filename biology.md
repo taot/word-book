@@ -113,6 +113,20 @@
   - Oxford Learner’s: a large animal like a monkey, with no tail. There are different types of ape .
     https://www.oxfordlearnersdictionaries.com/definition/english/ape_1
 
+### baboon
+- 分类：生物学（动物分类/灵长类）
+- 词性：noun / 名词
+- 音标：/bəˈbuːn/; /bæˈbuːn/
+- English explanation: A large African or Asian monkey, typically with a long dog-like muzzle and strong teeth.
+- 中文解释：狒狒：大型非洲或亚洲猴类，通常有像狗一样的长吻部和发达牙齿。
+- 词典/公开来源：
+  - Merriam-Webster: any of a genus (Papio) of large gregarious primates of Africa and southwestern Asia having a long square naked muzzle
+    https://www.merriam-webster.com/dictionary/baboon
+  - Cambridge: a type of large monkey, found in Africa and Asia, with a long, pointed face like a dog and large teeth
+    https://dictionary.cambridge.org/dictionary/english/baboon
+  - Oxford Learner’s: a large African or Asian monkey with a long face like a dog’s
+    https://www.oxfordlearnersdictionaries.com/definition/english/baboon
+
 ### bilaterian
 - 分类：生物学（动物分类/生物演化）
 - 词性：noun / 名词
@@ -163,6 +177,20 @@
     https://dictionary.cambridge.org/dictionary/english/burdock
   - Oxford Learner’s: a plant with flowers that become prickly and stick to passing animals
     https://www.oxfordlearnersdictionaries.com/definition/english/burdock
+
+### Caenorhabditis elegans
+- 分类：生物学（模式生物/线虫）
+- 词性：proper noun / 专有名词
+- 备注：原词表写作 `caenorhabditis elegans`；此处按生物学二名法规范化为 `Caenorhabditis elegans`。
+- English explanation: A small free-living nematode worm widely used as a model organism in genetics, development, neurobiology, and aging research.
+- 中文解释：秀丽隐杆线虫：一种小型自由生活线虫，是遗传学、发育生物学、神经生物学和衰老研究中的重要模式生物。
+- 词典/公开来源：
+  - NCBI Taxonomy: Caenorhabditis elegans is a nematode species listed in NCBI Taxonomy
+    https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6239
+  - WormBase: Caenorhabditis elegans is the central model nematode organism curated by WormBase
+    https://wormbase.org/species/c_elegans
+  - Oxford Learner’s: phrase not listed as a standalone learner-dictionary entry during check
+    https://www.oxfordlearnersdictionaries.com/definition/english/caenorhabditis-elegans
 
 ### Cambrian
 - 分类：生物学（古生物学/地质年代）
@@ -471,6 +499,20 @@
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/microbe
 
+### microbial
+- 分类：生物学（微生物）
+- 词性：adjective / 形容词
+- 音标：/maɪˈkrəʊbiəl/; /maɪˈkroʊbiəl/
+- English explanation: Relating to microbes or microorganisms, especially bacteria and other very small living things.
+- 中文解释：微生物的：与微生物有关，尤其指细菌等极小生物。
+- 词典/公开来源：
+  - Merriam-Webster: relating to microorganisms or germs (entry checked via microbial/microbe)
+    https://www.merriam-webster.com/dictionary/microbial
+  - Cambridge: relating to microbes (= very small living things, especially ones that cause disease)
+    https://dictionary.cambridge.org/dictionary/english/microbial
+  - Oxford Learner’s: relating to microorganisms, especially bacteria that cause disease or fermentation
+    https://www.oxfordlearnersdictionaries.com/definition/english/microbial
+
 ### mold
 - 分类：生物学（真菌/微生物）
 - 词性：noun / 名词; verb / 动词
@@ -561,6 +603,20 @@
   - Cambridge: from or referring to the period of time between about 290 and 250 million years ago, in which large reptiles and amphibians appeared , and that ended with most species on earth becoming extinct (= dying out completely )
     https://dictionary.cambridge.org/dictionary/english/permian
 
+### petri dish
+- 分类：生物学（实验器具/培养）
+- 词性：noun / 名词
+- 音标：/ˈpetri dɪʃ/; /ˈpiːtri dɪʃ/
+- English explanation: A shallow, covered glass or plastic dish used in laboratories for growing cells, bacteria, or other microorganisms on a medium.
+- 中文解释：培养皿：实验室中用于在培养基上培养细胞、细菌或其他微生物的浅而带盖的玻璃或塑料皿。
+- 词典/公开来源：
+  - Merriam-Webster: a small shallow usually round dish of thin glass or plastic with a loose cover used especially for growing cells or microorganisms on a supportive medium
+    https://www.merriam-webster.com/dictionary/petri%20dish
+  - Cambridge: a small, clear, round dish with a cover, used in scientific tests especially for growing bacteria
+    https://dictionary.cambridge.org/dictionary/english/petri-dish
+  - Oxford Learner’s: a shallow covered dish used for growing bacteria, etc. in
+    https://www.oxfordlearnersdictionaries.com/definition/english/petri-dish
+
 ### phagotrophy
 - 分类：生物学（营养方式/细胞摄食）
 - 词性：noun / 名词
@@ -603,6 +659,20 @@
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/polyp
 
+### potency
+- 分类：生物学（药理/效力）
+- 词性：noun / 名词
+- 音标：/ˈpəʊtnsi/
+- English explanation: The strength, power, or effectiveness of something, especially a drug, chemical, or biological agent.
+- 中文解释：效力；效价；强度：某物产生作用的能力或强弱，常用于药物、化学物质或生物活性因子。
+- 词典/公开来源：
+  - Merriam-Webster: force, power; the quality or state of being potent; the ability or capacity to achieve or bring about a particular result
+    https://www.merriam-webster.com/dictionary/potency
+  - Cambridge: strength, influence, or effectiveness
+    https://dictionary.cambridge.org/dictionary/english/potency
+  - Oxford Learner’s: the power that somebody/something has to affect your body or mind
+    https://www.oxfordlearnersdictionaries.com/definition/english/potency
+
 ### primate
 - 分类：生物学（动物分类/生物演化）
 - 词性：noun / 名词
@@ -615,6 +685,20 @@
     https://dictionary.cambridge.org/dictionary/english/primate
   - Oxford Learner’s: any animal that belongs to the group of mammals that includes humans, apes and monkeys
     https://www.oxfordlearnersdictionaries.com/definition/english/primate
+
+### radiata
+- 分类：生物学（解剖/发育）
+- 词性：noun / 名词（常见于复合术语）
+- 音标：/reɪdiˈɑːtə/; /reɪdiˈeɪtə/
+- English explanation: A term most often seen in anatomical phrases such as corona radiata or zona radiata, referring to radiating arrangements of cells or fibers around a structure.
+- 中文解释：放射状结构相关术语：常见于 corona radiata（放射冠）或 zona radiata 等解剖/发育术语，指围绕某结构呈放射状排列的细胞或纤维。
+- 词典/公开来源：
+  - Merriam-Webster: the zone of small follicular cells immediately surrounding the ovum in the graafian follicle
+    https://www.merriam-webster.com/dictionary/radiata
+  - Cambridge: corona radiata: a large group of nerve fibres that connect the cerebral cortex and the brain stem; also cells surrounding an ovum
+    https://dictionary.cambridge.org/dictionary/english/corona-radiata?q=radiata
+  - Oxford Learner’s: radiata standalone page returned 404 during check
+    https://www.oxfordlearnersdictionaries.com/definition/english/radiata
 
 ### reptile
 - 分类：生物学（动物分类/生物演化）
@@ -695,6 +779,20 @@
   - Cambridge: from or referring to the period of time between about 445 and 420 million years ago, in which fish with jaws (= mouth bones ) and some plants and small animals on land first appeared
     https://dictionary.cambridge.org/dictionary/english/silurian
 
+### sinew
+- 分类：生物学（解剖/组织）
+- 词性：noun / 名词
+- 音标：/ˈsɪnjuː/
+- English explanation: A strong band of tissue such as a tendon that connects muscle to bone; figuratively, a source of strength.
+- 中文解释：腱；筋：连接肌肉和骨骼的强韧组织；也可比喻力量或支撑来源。
+- 词典/公开来源：
+  - Merriam-Webster: tendon; one dressed for use as a cord or thread
+    https://www.merriam-webster.com/dictionary/sinew
+  - Cambridge: a tendon (= strong piece of tissue in the body connecting a muscle to a bone)
+    https://dictionary.cambridge.org/dictionary/english/sinew
+  - Oxford Learner’s: a strong band of tissue in the body that joins a muscle to a bone
+    https://www.oxfordlearnersdictionaries.com/definition/english/sinew
+
 ### slug
 - 分类：生物学（动物分类/生物演化）
 - 词性：noun / 名词
@@ -733,6 +831,20 @@
   - Oxford Learner’s: a sea creature that has a long soft body, eight arms and two tentacles (= long thin parts like arms) around its mouth, and that is sometimes used for food
     https://www.oxfordlearnersdictionaries.com/definition/english/squid
 
+### stain
+- 分类：生物学（实验技术/染色）
+- 词性：noun/verb / 名词/动词
+- 音标：/steɪn/
+- English explanation: A mark or discoloration; as a lab verb, to treat cells or tissue with a dye so structures can be seen more clearly.
+- 中文解释：污渍；染色剂；染色：一般指难以去除的痕迹或使其着色；实验语境中指用染料处理细胞/组织以便显微观察。
+- 词典/公开来源：
+  - Merriam-Webster: to suffuse with color; discolor, soil
+    https://www.merriam-webster.com/dictionary/stain
+  - Cambridge: to change the colour of something using a chemical
+    https://dictionary.cambridge.org/dictionary/english/stain
+  - Oxford Learner’s: to change the colour of something using a coloured liquid
+    https://www.oxfordlearnersdictionaries.com/definition/english/stain_1
+
 ### symbiosis
 - 分类：生物学（生态学/物种关系）
 - 词性：noun / 名词
@@ -757,6 +869,20 @@
     https://www.merriam-webster.com/dictionary/Triassic
   - Cambridge: from or referring to the period of time between around 245 and 208 million years ago, in which dinosaurs (= large reptiles that no longer exist ) first appeared
     https://dictionary.cambridge.org/dictionary/english/triassic
+
+### valence
+- 分类：生物学（化学/心理效价）
+- 词性：noun / 名词
+- 音标：/ˈveɪləns/
+- English explanation: Combining power in chemistry; more broadly, the relative capacity to interact or the positive/negative value of an outcome or stimulus.
+- 中文解释：化合价；效价；情绪价：化学中指元素结合能力；也可指相互作用能力，或心理学中刺激/结果的正负价值。
+- 词典/公开来源：
+  - Merriam-Webster: the degree of combining power of an element; relative capacity to unite, react, or interact
+    https://www.merriam-webster.com/dictionary/valence
+  - Cambridge: the ability of an atom to combine with other atoms, measured by the number of electrons it will lose, add, or share
+    https://dictionary.cambridge.org/dictionary/english/valence
+  - Oxford Learner’s: term page returned 404 during check
+    https://www.oxfordlearnersdictionaries.com/definition/english/valence
 
 ### vertebrate
 - 分类：生物学（动物分类/生物演化）

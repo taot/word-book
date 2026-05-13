@@ -12,6 +12,20 @@
   - Merriam-Webster: a skill of mind or body usually resulting from continued endeavor
     https://www.merriam-webster.com/dictionary/acquirement
 
+### awe
+- 分类：通用（情绪/敬畏）
+- 词性：noun/verb / 名词/动词
+- 音标：/ɔː/; /ɑː/
+- English explanation: A feeling of great respect, wonder, and sometimes fear caused by something overwhelming in beauty, power, size, or importance.
+- 中文解释：敬畏；惊叹：面对美、力量、规模或重要性压倒性的事物时产生的尊敬、惊奇，有时夹杂恐惧的情绪。
+- 词典/公开来源：
+  - Merriam-Webster: an emotion variously combining dread, veneration, and wonder that is inspired by overwhelming greatness
+    https://www.merriam-webster.com/dictionary/awe
+  - Cambridge: a feeling of great respect sometimes mixed with fear or surprise
+    https://dictionary.cambridge.org/dictionary/english/awe
+  - Oxford Learner’s: feelings of respect and slight fear; feelings of being very impressed by something/somebody
+    https://www.oxfordlearnersdictionaries.com/definition/english/awe_1
+
 ### awe-inspiring
 - 分类：通用（评价/感受）
 - 词性：adjective / 形容词
@@ -152,6 +166,20 @@
   - Oxford Learner’s: an aggressive and unreasonable belief that your own country is better than all others
     https://www.oxfordlearnersdictionaries.com/definition/english/chauvinism
 
+### constituent
+- 分类：通用（组成/政治）
+- 词性：noun/adjective / 名词/形容词
+- 音标：/kənˈstɪtʃuənt/
+- English explanation: A component part of a whole; also a person represented by an elected official in a constituency.
+- 中文解释：组成部分；选民：构成整体的一个部分；也指某选区中由民选代表代表的选民。
+- 词典/公开来源：
+  - Merriam-Webster: an essential part: component, element; a member of a constituency
+    https://www.merriam-webster.com/dictionary/constituent
+  - Cambridge: one of the parts that a substance or combination is made of; a voter in a particular area
+    https://dictionary.cambridge.org/dictionary/english/constituent
+  - Oxford Learner’s: one of the parts of something that combine to form the whole; a person who lives in and can vote in a constituency
+    https://www.oxfordlearnersdictionaries.com/definition/english/constituent_1
+
 ### cranny
 - 分类：通用（空间）
 - 词性：noun / 名词
@@ -220,6 +248,20 @@
   - Cambridge: to ( cause power or responsibility to) be given to other people
     https://dictionary.cambridge.org/dictionary/english/devolve
 
+### ebb
+- 分类：通用（变化/衰退）
+- 词性：noun/verb / 名词/动词
+- 音标：/eb/
+- English explanation: The movement of the tide away from land; more generally, a decline or weakening.
+- 中文解释：退潮；衰退；减弱：潮水离岸退去；也比喻状态、力量、情绪等下降或减弱。
+- 词典/公开来源：
+  - Merriam-Webster: the reflux of the tide toward the sea; a point or condition of decline
+    https://www.merriam-webster.com/dictionary/ebb
+  - Cambridge: When the sea or tide ebbs, it moves away from the coast and falls to a lower level
+    https://dictionary.cambridge.org/dictionary/english/ebb
+  - Oxford Learner’s: the period of time when the sea flows away from the land
+    https://www.oxfordlearnersdictionaries.com/definition/english/ebb_1
+
 ### endow
 - 分类：通用（给予/资助）
 - 词性：verb / 动词
@@ -276,6 +318,20 @@
   - Oxford Learner’s: to obtain or collect something such as information, support, etc.
     https://www.oxfordlearnersdictionaries.com/definition/english/garner
 
+### glamor
+- 分类：通用（魅力/吸引）
+- 词性：noun / 名词
+- 音标：/ˈɡlæmər/
+- English explanation: US spelling of “glamour”: exciting, attractive, often idealized or romantic appeal.
+- 中文解释：魅力；迷人气质：glamour 的美式拼写，指令人兴奋、吸引人的、常带理想化或浪漫色彩的魅力。
+- 词典/公开来源：
+  - Merriam-Webster: an exciting and often illusory and romantic attractiveness; alluring or fascinating attraction
+    https://www.merriam-webster.com/dictionary/glamor
+  - Cambridge: another US spelling of glamour
+    https://dictionary.cambridge.org/dictionary/english/glamor
+  - Oxford Learner’s: glamor standalone page returned 404 during check; compare glamour
+    https://www.oxfordlearnersdictionaries.com/definition/english/glamor
+
 ### glaring
 - 分类：通用（视觉/明显性）
 - 词性：adjective / 形容词
@@ -289,6 +345,20 @@
     https://dictionary.cambridge.org/dictionary/english/glaring
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/glaring
+
+### glimmer
+- 分类：通用（光/迹象）
+- 词性：noun/verb / 名词/动词
+- 音标：/ˈɡlɪmə(r)/; /ˈɡlɪmər/
+- English explanation: A faint, unsteady light; also a small sign or hint of something.
+- 中文解释：微光；一线迹象：微弱闪烁的光；也指某事物的一点迹象或希望。
+- 词典/公开来源：
+  - Merriam-Webster: to shine faintly or unsteadily
+    https://www.merriam-webster.com/dictionary/glimmer
+  - Cambridge: to shine with a weak light or a light that is not continuous
+    https://dictionary.cambridge.org/dictionary/english/glimmer
+  - Oxford Learner’s: a small unsteady light; a small sign of something
+    https://www.oxfordlearnersdictionaries.com/definition/english/glimmer_1
 
 ### gobble
 - 分类：通用（进食/动作）
@@ -317,6 +387,20 @@
     https://dictionary.cambridge.org/dictionary/english/gooey
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/gooey
+
+### grail
+- 分类：通用（追求/目标）
+- 词性：noun / 名词
+- 音标：/ɡreɪl/
+- English explanation: The Holy Grail of legend; more generally, a highly desired object or goal that is difficult to find or achieve.
+- 中文解释：圣杯；梦寐以求的目标：传说中的圣杯；泛指极想得到但很难找到或实现的目标。
+- 词典/公开来源：
+  - Merriam-Webster: the cup or platter used according to medieval legend by Christ at the Last Supper; the object of an extended or difficult quest
+    https://www.merriam-webster.com/dictionary/grail
+  - Cambridge: something that people want and are looking for but that is difficult to find or get
+    https://dictionary.cambridge.org/dictionary/english/grail
+  - Oxford Learner’s: a thing that you try very hard to find or achieve, but never will
+    https://www.oxfordlearnersdictionaries.com/definition/english/grail
 
 ### grain
 - 分类：通用（食物/材料）
@@ -374,6 +458,20 @@
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/hydrogen
 
+### imbue
+- 分类：通用（影响/赋予）
+- 词性：verb / 动词
+- 音标：/ɪmˈbjuː/
+- English explanation: To fill or permeate someone or something with a feeling, quality, idea, or value.
+- 中文解释：使充满；灌输；赋予：使某人或某物充满某种情感、品质、思想或价值。
+- 词典/公开来源：
+  - Merriam-Webster: to permeate or influence as if by dyeing; to tinge or dye deeply
+    https://www.merriam-webster.com/dictionary/imbue
+  - Cambridge: to fill something or someone with a particular feeling, quality, or idea
+    https://dictionary.cambridge.org/dictionary/english/imbue-with
+  - Oxford Learner’s: to fill somebody/something with strong feelings, opinions or values
+    https://www.oxfordlearnersdictionaries.com/definition/english/imbue
+
 ### inexorable
 - 分类：通用（趋势/过程）
 - 词性：adjective / 形容词
@@ -429,6 +527,20 @@
     https://dictionary.cambridge.org/dictionary/english/intrepid
   - Oxford Learner’s: very brave; not afraid of danger or difficulties
     https://www.oxfordlearnersdictionaries.com/definition/english/intrepid
+
+### invigorate
+- 分类：通用（能量/改善）
+- 词性：verb / 动词
+- 音标：/ɪnˈvɪɡəreɪt/
+- English explanation: To give new energy, strength, freshness, or effectiveness to a person, situation, or organization.
+- 中文解释：使振奋；使恢复活力；增强：给人、局面或组织注入新的能量、力量或效率。
+- 词典/公开来源：
+  - Merriam-Webster: to give life and energy to; stimulate
+    https://www.merriam-webster.com/dictionary/invigorate
+  - Cambridge: to make someone feel fresher, healthier, and more energetic
+    https://dictionary.cambridge.org/dictionary/english/invigorate
+  - Oxford Learner’s: to make somebody feel healthy and full of energy; to make a situation or organization efficient and successful
+    https://www.oxfordlearnersdictionaries.com/definition/english/invigorate
 
 ### litmus
 - 分类：通用（化学/测试）
@@ -554,6 +666,20 @@
   - Oxford Learner’s: a small quiet place or corner that is sheltered or hidden from other people
     https://www.oxfordlearnersdictionaries.com/definition/english/nook
 
+### noxious
+- 分类：通用（危害/毒性）
+- 词性：adjective / 形容词
+- 音标：/ˈnɒkʃəs/; /ˈnɑːkʃəs/
+- English explanation: Poisonous, harmful, destructive, or very unpleasant, especially to living things.
+- 中文解释：有毒的；有害的；令人不快的：对生物或环境有伤害、破坏性或强烈不适感。
+- 词典/公开来源：
+  - Merriam-Webster: physically harmful or destructive to living beings
+    https://www.merriam-webster.com/dictionary/noxious
+  - Cambridge: poisonous or very harmful; harmful and unpleasant
+    https://dictionary.cambridge.org/dictionary/english/noxious
+  - Oxford Learner’s: poisonous or harmful
+    https://www.oxfordlearnersdictionaries.com/definition/english/noxious
+
 ### onslaught
 - 分类：通用（攻击/事件）
 - 词性：noun / 名词
@@ -581,6 +707,62 @@
     https://dictionary.cambridge.org/dictionary/english/outwit
   - Oxford Learner’s: to defeat somebody/something or gain an advantage over them by doing something clever
     https://www.oxfordlearnersdictionaries.com/definition/english/outwit
+
+### paltry
+- 分类：通用（数量/价值）
+- 词性：adjective / 形容词
+- 音标：/ˈpɔːltri/; /ˈpɑːltri/
+- English explanation: Very small, insufficient, or of little value or quality.
+- 中文解释：微不足道的；少得可怜的；劣质的：数量太小、不够用，或价值/质量很低。
+- 词典/公开来源：
+  - Merriam-Webster: trivial; inferior; mean or despicable
+    https://www.merriam-webster.com/dictionary/paltry
+  - Cambridge: very small and of little or no value; of little quality or value
+    https://dictionary.cambridge.org/dictionary/english/paltry
+  - Oxford Learner’s: too small to be considered as important or useful; having no value or useful qualities
+    https://www.oxfordlearnersdictionaries.com/definition/english/paltry
+
+### pitched
+- 分类：通用（形状/程度）
+- 词性：adjective / 形容词
+- 音标：/pɪtʃt/
+- English explanation: Sloping rather than flat; also set at a particular level, degree, or musical pitch depending on context.
+- 中文解释：倾斜的；设定在某程度/音高的：可指屋顶等有坡度而非平坦，也可指处于某一水平、程度或音高。
+- 词典/公开来源：
+  - Merriam-Webster: entry checked via pitch/pitched; can relate to pitch, slope, level, or musical tone
+    https://www.merriam-webster.com/dictionary/pitched
+  - Cambridge: sloping and not flat; at the stated level or degree
+    https://dictionary.cambridge.org/dictionary/english/pitched
+  - Oxford Learner’s: sloping; not flat
+    https://www.oxfordlearnersdictionaries.com/definition/english/pitched
+
+### platter
+- 分类：通用（餐具/食物）
+- 词性：noun / 名词
+- 音标：/ˈplætə(r)/; /ˈplætər/
+- English explanation: A large plate used for serving food; by extension, a serving of food arranged on such a plate.
+- 中文解释：大浅盘；拼盘：用于盛放食物的大盘子；也可指装在大盘上的一份食物。
+- 词典/公开来源：
+  - Merriam-Webster: a large plate used especially for serving meat
+    https://www.merriam-webster.com/dictionary/platter
+  - Cambridge: a large plate used for serving food, or a meal with one type of food served on a large plate
+    https://dictionary.cambridge.org/dictionary/english/platter
+  - Oxford Learner’s: a large plate that is used for serving food
+    https://www.oxfordlearnersdictionaries.com/definition/english/platter
+
+### populism
+- 分类：通用（政治/社会）
+- 词性：noun / 名词
+- 音标：/ˈpɒpjəlɪzəm/; /ˈpɑːpjəlɪzəm/
+- English explanation: A political style or movement that claims to speak for ordinary people against an elite or establishment.
+- 中文解释：民粹主义：一种声称代表“普通人民”、反对精英或建制派的政治理念、话语或运动。
+- 词典/公开来源：
+  - Merriam-Webster: a political philosophy or movement that represents or is claimed to represent the interests of ordinary people especially against the Establishment
+    https://www.merriam-webster.com/dictionary/populism
+  - Cambridge: political ideas and activities that are intended to get the support of ordinary people by giving them what they want
+    https://dictionary.cambridge.org/dictionary/english/populism
+  - Oxford Learner’s: a type of politics that claims to represent the opinions and wishes of ordinary people
+    https://www.oxfordlearnersdictionaries.com/definition/english/populism
 
 ### primitive
 - 分类：通用（早期/简单）
@@ -610,6 +792,20 @@
   - Oxford Learner’s: to publicly and officially tell people about something important
     https://www.oxfordlearnersdictionaries.com/definition/english/proclaim
 
+### roster
+- 分类：通用（组织/名单）
+- 词性：noun / 名词
+- 音标：/ˈrɒstə(r)/; /ˈrɑːstər/
+- English explanation: A list of people, often showing duties, schedules, or membership of a team or organization.
+- 中文解释：花名册；值班表；名单：人员列表，常列出职责、排班或团队/组织成员。
+- 词典/公开来源：
+  - Merriam-Webster: a roll or list of personnel; such a list giving the order in which a duty is to be performed
+    https://www.merriam-webster.com/dictionary/roster
+  - Cambridge: a list of people's names, often with the jobs they have been given to do
+    https://dictionary.cambridge.org/dictionary/english/roster
+  - Oxford Learner’s: a list showing the tasks that different people have to do at different times within an organization
+    https://www.oxfordlearnersdictionaries.com/definition/english/roster_1
+
 ### rung
 - 分类：通用（物体/阶梯）
 - 词性：noun / 名词
@@ -623,6 +819,33 @@
     https://dictionary.cambridge.org/dictionary/english/rung
   - Oxford Learner’s: one of the bars that forms a step in a ladder
     https://www.oxfordlearnersdictionaries.com/definition/english/rung_1
+
+### schism
+- 分类：通用（分裂/分歧）
+- 词性：noun / 名词
+- 音标：/ˈskɪzəm/; /ˈsɪzəm/
+- English explanation: A split or division within a group or organization caused by serious disagreement, especially in a church or religious body.
+- 中文解释：分裂；分歧：因严重意见不合导致团体或组织分成不同派别，尤用于宗教组织。
+- 词典/公开来源：
+  - Merriam-Webster: division, separation; formal division in or separation from a church or religious body
+    https://www.merriam-webster.com/dictionary/schism
+  - Cambridge: a division into two groups caused by a disagreement about ideas, especially in a religious organization
+    https://dictionary.cambridge.org/dictionary/english/schism
+  - Oxford Learner’s: strong disagreement within an organization, especially a religious one, that makes its members divide into separate groups
+    https://www.oxfordlearnersdictionaries.com/definition/english/schism
+
+### sensile
+- 分类：通用（感觉/知觉）
+- 词性：adjective / 形容词
+- English explanation: Capable of sensation or feeling; sentient. This is a rare word and should not be confused with “sessile.”
+- 中文解释：有感觉能力的；能感知的：少见词，指能感觉或有知觉；注意不要与 sessile（固着的）混淆。
+- 词典/公开来源：
+  - Merriam-Webster: capable of sensation: sentient
+    https://www.merriam-webster.com/dictionary/sensile
+  - Cambridge: term redirected to dictionary homepage and no usable definition was extracted
+    https://dictionary.cambridge.org/dictionary/english/sensile
+  - Oxford Learner’s: term page returned 404 during check
+    https://www.oxfordlearnersdictionaries.com/definition/english/sensile
 
 ### sheer
 - 分类：通用（程度/性质）
@@ -666,6 +889,20 @@
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/spew
 
+### squish
+- 分类：通用（动作/声音）
+- 词性：verb/noun / 动词/名词
+- 音标：/skwɪʃ/
+- English explanation: To crush or press something soft so that it changes shape, often making a wet, soft sound.
+- 中文解释：压扁；挤压；咯吱作响：把柔软物体压到变形，常伴随湿软的挤压声。
+- 词典/公开来源：
+  - Merriam-Webster: squash; squelch
+    https://www.merriam-webster.com/dictionary/squish
+  - Cambridge: to crush something that is soft
+    https://dictionary.cambridge.org/dictionary/english/squish
+  - Oxford Learner’s: if something soft squishes or is squished, it is pushed out of shape when it is pressed
+    https://www.oxfordlearnersdictionaries.com/definition/english/squish
+
 ### stave
 - 分类：通用（阻止/延缓）
 - 词性：verb / 动词; noun / 名词
@@ -679,6 +916,20 @@
     https://dictionary.cambridge.org/dictionary/english/stave
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/stave
+
+### stint
+- 分类：通用（工作/时间）
+- 词性：noun/verb / 名词/动词
+- 音标：/stɪnt/
+- English explanation: A fixed period of time spent doing a job or activity; as a verb, to supply or use too little of something.
+- 中文解释：一段工作/任职时间；限量供给：名词指从事某工作或活动的一段固定时间；动词可指吝惜、节省到不足。
+- 词典/公开来源：
+  - Merriam-Webster: a period of time spent at a particular activity; a definite quantity of work assigned
+    https://www.merriam-webster.com/dictionary/stint
+  - Cambridge: a fixed or limited period of time spent doing a particular job or activity
+    https://dictionary.cambridge.org/dictionary/english/stint
+  - Oxford Learner’s: a period of time that you spend working somewhere or doing a particular activity
+    https://www.oxfordlearnersdictionaries.com/definition/english/stint_1
 
 ### subjectivity
 - 分类：通用（认识/观点）
@@ -721,6 +972,20 @@
     https://dictionary.cambridge.org/dictionary/english/succumb
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/succumb
+
+### sycophancy
+- 分类：通用（性格/行为）
+- 词性：noun / 名词
+- 音标：/ˈsɪkəfənsi/
+- English explanation: Insincere, excessive praise of someone powerful or important, usually to gain advantage.
+- 中文解释：谄媚；阿谀奉承：为获取好处而对有权势者过度、虚伪地称赞。
+- 词典/公开来源：
+  - Merriam-Webster: obsequious flattery; the character or behavior of a sycophant
+    https://www.merriam-webster.com/dictionary/sycophancy
+  - Cambridge: behaviour in which someone praises powerful or rich people in a way that is not sincere, usually in order to get some advantage
+    https://dictionary.cambridge.org/dictionary/english/sycophancy
+  - Oxford Learner’s: behaviour that praises important or powerful people too much and in a way that is not sincere, especially in order to get something from them
+    https://www.oxfordlearnersdictionaries.com/definition/english/sycophancy
 
 ### tantalizing
 - 分类：通用（欲望/吸引）
@@ -857,6 +1122,20 @@
     https://dictionary.cambridge.org/dictionary/english/ungodly
   - Oxford Learner’s: not showing respect for God; evil
     https://www.oxfordlearnersdictionaries.com/definition/english/ungodly
+
+### untenable
+- 分类：通用（论证/处境）
+- 词性：adjective / 形容词
+- 音标：/ʌnˈtenəbl/
+- English explanation: Unable to be defended, supported, or maintained against criticism or pressure.
+- 中文解释：站不住脚的；难以维持的：论点、理论或处境无法被辩护、支持或继续维持。
+- 词典/公开来源：
+  - Merriam-Webster: not able to be defended; not able to be occupied
+    https://www.merriam-webster.com/dictionary/untenable
+  - Cambridge: If a theory or argument is untenable, it cannot be supported or defended against criticism
+    https://dictionary.cambridge.org/dictionary/english/untenable
+  - Oxford Learner’s: that cannot be defended against attack or criticism
+    https://www.oxfordlearnersdictionaries.com/definition/english/untenable
 
 ### unwieldy
 - 分类：通用（形状/管理）

@@ -15,6 +15,20 @@
 
 ## 来源词表：`others.txt`
 
+### axon
+- 分类：神经科学（神经元结构）
+- 词性：noun / 名词
+- 音标：/ˈæksɒn/; /ˈæksɑːn/
+- English explanation: The usually long, thin projection of a neuron that carries signals away from the cell body to other cells.
+- 中文解释：轴突：神经元通常较长而细的突起，把信号从细胞体传向其他细胞。
+- 词典/公开来源：
+  - Merriam-Webster: a usually long and single nerve-cell process that usually conducts impulses away from the cell body
+    https://www.merriam-webster.com/dictionary/axon
+  - Cambridge: a long, thread-like structure attached to a nerve cell that sends out signals away from the nerve cell
+    https://dictionary.cambridge.org/dictionary/english/axon
+  - Oxford Learner’s: the long thin part of a nerve cell along which signals are sent to other cells
+    https://www.oxfordlearnersdictionaries.com/definition/english/axon
+
 ### basal ganglia
 - 分类：神经科学
 - 词性：plural noun / 复数名词
@@ -51,6 +65,60 @@
     https://dictionary.cambridge.org/dictionary/english/cerebellum
   - Oxford Learner’s: the part of the brain at the back of the head that controls the activity of the muscles
     https://www.oxfordlearnersdictionaries.com/definition/english/cerebellum
+
+### clamp
+- 分类：神经科学（实验技术/电生理）
+- 词性：noun/verb / 名词/动词
+- 音标：/klæmp/
+- English explanation: A device or action for holding something tightly; in electrophysiology, clamp methods hold voltage or current at controlled levels for measurement.
+- 中文解释：夹具；夹紧；钳制：一般指固定或压紧的装置/动作；在电生理中常见于 voltage clamp、patch clamp 等控制电压或电流的实验技术。
+- 词典/公开来源：
+  - Merriam-Webster: a device designed to bind or constrict or to press two or more parts together so as to hold them firmly
+    https://www.merriam-webster.com/dictionary/clamp
+  - Cambridge: a device made of wood or metal that is used to hold two things together tightly
+    https://dictionary.cambridge.org/dictionary/english/clamp
+  - Oxford Learner’s: to hold something tightly, or fasten two things together, with a clamp
+    https://www.oxfordlearnersdictionaries.com/definition/english/clamp_1
+
+### dendrite
+- 分类：神经科学（神经元结构）
+- 词性：noun / 名词
+- 音标：/ˈdendraɪt/
+- English explanation: A usually branched projection of a neuron that receives signals from other nerve cells and carries them toward the cell body.
+- 中文解释：树突：神经元上通常呈分支状的突起，接收来自其他神经细胞的信号，并把信号传向细胞体。
+- 词典/公开来源：
+  - Merriam-Webster: any of the usually branching protoplasmic processes that conduct impulses toward the body of a neuron
+    https://www.merriam-webster.com/dictionary/dendrite
+  - Cambridge: one of the short parts like threads at the edge of a nerve cell that carry messages to the cell
+    https://dictionary.cambridge.org/dictionary/english/dendrite
+  - Oxford Learner’s: a short branch at the end of a nerve cell that receives signals from other cells
+    https://www.oxfordlearnersdictionaries.com/definition/english/dendrite
+
+### electrophysiology
+- 分类：神经科学（实验技术/电生理）
+- 词性：noun / 名词
+- English explanation: The branch of physiology that studies electrical properties and electrical activity in biological cells and tissues, especially neurons, muscles, and the heart.
+- 中文解释：电生理学：研究生物细胞和组织（尤其神经元、肌肉、心脏）的电性质和电活动的生理学分支。
+- 词典/公开来源：
+  - Merriam-Webster: physiology that is concerned with the electrical aspects of physiological phenomena
+    https://www.merriam-webster.com/dictionary/electrophysiology
+  - Cambridge: no usable public dictionary definition extracted for this term
+    https://dictionary.cambridge.org/dictionary/english/electrophysiology
+  - Oxford Learner’s: term page returned 404 during check
+    https://www.oxfordlearnersdictionaries.com/definition/english/electrophysiology
+
+### excitatory
+- 分类：神经科学（神经信号/兴奋）
+- 词性：adjective / 形容词
+- English explanation: Producing or tending to produce excitation, especially increasing the likelihood that a neuron will fire.
+- 中文解释：兴奋性的：产生或促进兴奋的；神经科学中常指提高神经元放电可能性的作用或信号。
+- 词典/公开来源：
+  - Merriam-Webster: tending to induce excitation (as of a neuron)
+    https://www.merriam-webster.com/dictionary/excitatory
+  - Cambridge: term page checked but no usable definition extracted
+    https://dictionary.cambridge.org/dictionary/english/excitatory
+  - Oxford Learner’s: term page returned 404 during check
+    https://www.oxfordlearnersdictionaries.com/definition/english/excitatory
 
 ### granular frontal neocortex
 - 分类：神经科学
@@ -97,6 +165,20 @@
   - Oxford Learner’s: an area in the central lower part of the brain that controls body temperature, hunger and the release of hormones
     https://www.oxfordlearnersdictionaries.com/definition/english/hypothalamus
 
+### inhibitory
+- 分类：神经科学（神经信号/抑制）
+- 词性：adjective / 形容词
+- 音标：/ɪnˈhɪbɪtəri/; /ɪnˈhɪbɪtɔːri/
+- English explanation: Having the effect of inhibiting, slowing, restraining, or reducing a process; in neuroscience, reducing the likelihood that a neuron will fire.
+- 中文解释：抑制性的：具有抑制、减缓或限制作用；神经科学中常指降低神经元放电可能性的作用或信号。
+- 词典/公开来源：
+  - Merriam-Webster: inhibiting; holding in check or restraining (entry checked via inhibit/inhibitory)
+    https://www.merriam-webster.com/dictionary/inhibitory
+  - Cambridge: with the effect or function of inhibiting (= stopping or slowing down) a process
+    https://dictionary.cambridge.org/dictionary/english/inhibitory
+  - Oxford Learner’s: term page returned 404 during check
+    https://www.oxfordlearnersdictionaries.com/definition/english/inhibitory
+
 ### limbic
 - 分类：神经科学（脑结构/系统）
 - 词性：adjective / 形容词
@@ -121,6 +203,20 @@
     https://dictionary.cambridge.org/dictionary/english/neocortex
   - Oxford Learner’s: the part of the brain that controls sight and hearing
     https://www.oxfordlearnersdictionaries.com/definition/english/neocortex
+
+### neurotransmitter
+- 分类：神经科学（神经化学/突触传递）
+- 词性：noun / 名词
+- 音标：/ˈnjʊərəʊtrænzmɪtə(r)/; /ˈnʊrəʊtrænzmɪtər/
+- English explanation: A chemical messenger that carries signals from nerve cells to other nerve cells, muscles, or glands across synapses.
+- 中文解释：神经递质：在突触处把信号从神经细胞传递到其他神经细胞、肌肉或腺体的化学信使。
+- 词典/公开来源：
+  - Merriam-Webster: a substance that transmits nerve impulses across a synapse
+    https://www.merriam-webster.com/dictionary/neurotransmitter
+  - Cambridge: a chemical that carries messages between neurons or between neurons and muscles
+    https://dictionary.cambridge.org/dictionary/english/neurotransmitter
+  - Oxford Learner’s: a chemical that carries messages from nerve cells to other nerve cells or muscles
+    https://www.oxfordlearnersdictionaries.com/definition/english/neurotransmitter
 
 ### prefrontal
 - 分类：神经科学
@@ -173,6 +269,34 @@
     https://www.merriam-webster.com/dictionary/somatosensory
   - Cambridge: examples of use were available; no concise definition surfaced in fetched page
     https://dictionary.cambridge.org/dictionary/english/somatosensory
+
+### spinal
+- 分类：神经科学（脊柱/脊髓）
+- 词性：adjective / 形容词
+- 音标：/ˈspaɪnl/
+- English explanation: Relating to the spine or spinal cord.
+- 中文解释：脊柱的；脊髓的：与脊柱或脊髓有关。
+- 词典/公开来源：
+  - Merriam-Webster: of, relating to, or situated near the spinal column; of, relating to, or affecting the spinal cord
+    https://www.merriam-webster.com/dictionary/spinal
+  - Cambridge: of the spine
+    https://dictionary.cambridge.org/dictionary/english/spinal
+  - Oxford Learner’s: connected with the spine (= the long bone in the back)
+    https://www.oxfordlearnersdictionaries.com/definition/english/spinal
+
+### synapse
+- 分类：神经科学（神经元连接）
+- 词性：noun / 名词
+- 音标：/ˈsaɪnæps/; /ˈsɪnæps/
+- English explanation: The junction or connection where a signal passes from one neuron to another cell.
+- 中文解释：突触：神经信号从一个神经元传递到另一个细胞的连接点或接合处。
+- 词典/公开来源：
+  - Merriam-Webster: the point at which a nervous impulse passes from one neuron to another
+    https://www.merriam-webster.com/dictionary/synapse
+  - Cambridge: the point at which electrical signals move from one nerve cell to another
+    https://dictionary.cambridge.org/dictionary/english/synapse
+  - Oxford Learner’s: a connection between two nerve cells
+    https://www.oxfordlearnersdictionaries.com/definition/english/synapse
 
 ### thalamus
 - 分类：神经科学
