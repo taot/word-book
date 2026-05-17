@@ -1285,6 +1285,40 @@
     }
   },
   "categories": {
+    "神经科学": [
+      "adrenaline",
+      "amygdala",
+      "axon",
+      "basal ganglia",
+      "brainstem",
+      "cerebellum",
+      "clamp",
+      "compulsion",
+      "dendrite",
+      "electrophysiology",
+      "euphoria",
+      "excitatory",
+      "granular frontal neocortex",
+      "hippocampus",
+      "hypothalamus",
+      "inhibitory",
+      "limbic",
+      "neocortex",
+      "neurotransmitter",
+      "prefrontal",
+      "psychedelic",
+      "psychiatrist",
+      "psychophysicist",
+      "reflex",
+      "satiation",
+      "schizophrenia",
+      "serotonin",
+      "somatosensory",
+      "spinal",
+      "stress hormone",
+      "synapse",
+      "thalamus"
+    ],
     "生物学": [
       "abiogenesis",
       "algae",
@@ -1356,31 +1390,6 @@
       "wombat",
       "zygote"
     ],
-    "神经科学": [
-      "amygdala",
-      "axon",
-      "basal ganglia",
-      "brainstem",
-      "cerebellum",
-      "clamp",
-      "dendrite",
-      "electrophysiology",
-      "excitatory",
-      "granular frontal neocortex",
-      "hippocampus",
-      "hypothalamus",
-      "inhibitory",
-      "limbic",
-      "neocortex",
-      "neurotransmitter",
-      "prefrontal",
-      "psychophysicist",
-      "reflex",
-      "somatosensory",
-      "spinal",
-      "synapse",
-      "thalamus"
-    ],
     "通用": [
       "acquirement",
       "awe",
@@ -1394,6 +1403,7 @@
       "calamity",
       "chagrin",
       "chauvinism",
+      "chronic",
       "constituent",
       "cranny",
       "culmination",
@@ -1401,9 +1411,12 @@
       "delineate",
       "devolve",
       "ebb",
+      "elated",
       "endow",
       "engulf",
       "feat",
+      "flicker",
+      "gape",
       "garner",
       "glamor",
       "glaring",
@@ -1412,6 +1425,7 @@
       "gooey",
       "grail",
       "grain",
+      "gross",
       "guise",
       "holocaust",
       "hydrogen",
@@ -1434,17 +1448,24 @@
       "onslaught",
       "outwit",
       "paltry",
+      "perilous",
       "pitched",
       "platter",
       "populism",
       "primitive",
       "proclaim",
+      "psychic",
+      "quagmire",
+      "repertoire",
       "roster",
       "rung",
       "schism",
       "sensile",
       "sheer",
       "sitcom",
+      "smack",
+      "sniff",
+      "sour",
       "spew",
       "squish",
       "stave",
@@ -1558,9 +1579,10 @@
         "awe",
         "valence"
       ]
-    }
+    },
+    "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt"
   ],
-  "last_updated": "2026-05-11T02:41:40.061017+00:00",
+  "last_updated": "2026-05-17T13:38:06.767693+00:00",
   "manual_entries": [
     {
       "category": "生物学",
@@ -5153,6 +5175,787 @@
       "zh": "化合价；效价；情绪价：化学中指元素结合能力；也可指相互作用能力，或心理学中刺激/结果的正负价值。"
     }
   ],
+  "others6_entries": [
+    {
+      "category": "神经科学",
+      "en": "Adrenaline is a hormone and neurotransmitter released during fear, anger, excitement, or stress, increasing heart rate and preparing the body for rapid action.",
+      "pos": "noun / 名词",
+      "sources": [
+        [
+          "Cambridge",
+          "a hormone (= chemical substance) produced by the body when a person is frightened, angry, or excited, which makes the heart beat faster and prepares the body to react to danger",
+          "https://dictionary.cambridge.org/dictionary/english/adrenaline"
+        ],
+        [
+          "Oxford Learner’s",
+          "a substance produced in the body when you are excited, afraid or angry. It makes the heart beat faster and increases your energy and ability to move quickly.",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/adrenaline"
+        ]
+      ],
+      "subcategory": "神经递质/激素",
+      "term": "adrenaline",
+      "zh": "肾上腺素：人在恐惧、愤怒、兴奋或压力下分泌的激素/神经递质，会加快心跳、提高能量动员，使身体准备快速反应。"
+    },
+    {
+      "category": "通用",
+      "en": "Chronic means lasting for a long time, recurring often, or difficult to stop; in medicine, it describes a disease or condition that persists over time.",
+      "pos": "adjective / 形容词",
+      "sources": [
+        [
+          "Cambridge",
+          "continuing for a long time; a chronic disease is one that continues for a long time and cannot be cured completely",
+          "https://dictionary.cambridge.org/dictionary/english/chronic"
+        ],
+        [
+          "Oxford Learner’s",
+          "lasting for a long time; difficult to cure or get rid of",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/chronic"
+        ]
+      ],
+      "subcategory": "疾病/长期状态",
+      "term": "chronic",
+      "zh": "慢性的；长期的；反复发生的：尤指疾病或问题持续很久、经常复发，或难以停止。"
+    },
+    {
+      "category": "神经科学",
+      "en": "A compulsion is a strong, hard-to-control urge to do something repeatedly, sometimes against one’s own wishes or better judgment.",
+      "pos": "noun / 名词",
+      "sources": [
+        [
+          "Cambridge",
+          "a very strong feeling of wanting to do something repeatedly that is difficult to control",
+          "https://dictionary.cambridge.org/dictionary/english/compulsion"
+        ],
+        [
+          "Oxford Learner’s",
+          "a strong desire to do something, especially something that is wrong, silly or dangerous",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/compulsion"
+        ]
+      ],
+      "subcategory": "精神医学/行为",
+      "term": "compulsion",
+      "zh": "强迫冲动；强制：难以控制、反复想做某事的强烈欲望；也可指迫使人做事的压力。"
+    },
+    {
+      "category": "通用",
+      "en": "Elated means extremely happy and excited because something good has happened or is expected to happen.",
+      "pos": "adjective / 形容词",
+      "sources": [
+        [
+          "Cambridge",
+          "extremely happy and excited, often because something has happened or been achieved",
+          "https://dictionary.cambridge.org/dictionary/english/elated"
+        ],
+        [
+          "Oxford Learner’s",
+          "very happy and excited because of something good that has happened, or will happen",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/elated"
+        ]
+      ],
+      "subcategory": "情绪",
+      "term": "elated",
+      "zh": "兴高采烈的；非常高兴和激动的：因好事发生或即将发生而感到强烈开心。"
+    },
+    {
+      "category": "神经科学",
+      "en": "Euphoria is an unusually intense feeling of happiness, excitement, or confidence, often short-lived and sometimes disproportionate to the situation.",
+      "pos": "noun / 名词",
+      "sources": [
+        [
+          "Cambridge",
+          "extreme happiness, sometimes more than is reasonable in a particular situation",
+          "https://dictionary.cambridge.org/dictionary/english/euphoria"
+        ],
+        [
+          "Oxford Learner’s",
+          "an extremely strong feeling of happiness and excitement that usually lasts only a short time",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/euphoria"
+        ]
+      ],
+      "subcategory": "情绪/精神状态",
+      "term": "euphoria",
+      "zh": "欣快；狂喜：极强的幸福、兴奋或自信感，常持续较短，有时与实际情境不成比例。"
+    },
+    {
+      "category": "通用",
+      "en": "To flicker is to shine unsteadily, appear briefly, or move with small quick movements; as a noun, it is a brief or wavering light or appearance.",
+      "pos": "verb/noun / 动词/名词",
+      "sources": [
+        [
+          "Cambridge",
+          "to shine with a light that is sometimes bright and sometimes weak",
+          "https://dictionary.cambridge.org/dictionary/english/flicker"
+        ],
+        [
+          "Oxford Learner’s",
+          "to keep going on and off as it shines or burns",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/flicker_1"
+        ]
+      ],
+      "subcategory": "光/短暂出现",
+      "term": "flicker",
+      "zh": "闪烁；一闪而过；轻微快速移动：光忽明忽暗，或某种表情/念头短暂出现；名词指闪烁或短暂迹象。"
+    },
+    {
+      "category": "通用",
+      "en": "To gape is to stare with the mouth open in surprise, or to be wide open; as a noun, it can mean an open-mouthed stare or a wide opening.",
+      "pos": "verb/noun / 动词/名词",
+      "sources": [
+        [
+          "Cambridge",
+          "to look in great surprise at someone or something, especially with an open mouth",
+          "https://dictionary.cambridge.org/dictionary/english/gape"
+        ],
+        [
+          "Oxford Learner’s",
+          "an act of staring at somebody/something with your mouth open because you are shocked or surprised",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/gape_1"
+        ]
+      ],
+      "subcategory": "表情/开口",
+      "term": "gape",
+      "zh": "目瞪口呆地看；张大口；裂开：因震惊或惊讶张着嘴看；也可指大张开的口或缝。"
+    },
+    {
+      "category": "通用",
+      "en": "Gross can mean total before deductions, very obvious and unacceptable, or extremely unpleasant; as a verb it can mean to earn a total amount.",
+      "pos": "adjective/verb/noun / 形容词/动词/名词",
+      "sources": [
+        [
+          "Cambridge",
+          "(in) total; extremely unpleasant",
+          "https://dictionary.cambridge.org/dictionary/english/gross"
+        ],
+        [
+          "Oxford Learner’s",
+          "being the total amount of something before anything is taken away; very unpleasant",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/gross_1"
+        ]
+      ],
+      "subcategory": "评价/数量",
+      "term": "gross",
+      "zh": "总的；严重的；令人恶心的：可指扣除前总额、明显且不可接受，或非常令人不快；动词可指总共赚得。"
+    },
+    {
+      "category": "通用",
+      "en": "Perilous means very dangerous or full of risk.",
+      "pos": "adjective / 形容词",
+      "sources": [
+        [
+          "Cambridge",
+          "extremely dangerous",
+          "https://dictionary.cambridge.org/dictionary/english/perilous"
+        ],
+        [
+          "Oxford Learner’s",
+          "very dangerous",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/perilous"
+        ]
+      ],
+      "subcategory": "危险",
+      "term": "perilous",
+      "zh": "危险的；凶险的：非常危险，充满风险。"
+    },
+    {
+      "category": "神经科学",
+      "en": "Psychedelic describes drugs, experiences, art, or music that alter perception and may cause hallucinations or unusually vivid sensory experiences.",
+      "pos": "adjective/noun / 形容词/名词",
+      "sources": [
+        [
+          "Cambridge",
+          "(of a drug) causing effects on the mind, such as feelings of deep understanding or unusually strong experiences of colour, sound, taste, and touch",
+          "https://dictionary.cambridge.org/dictionary/english/psychedelic"
+        ],
+        [
+          "Oxford Learner’s",
+          "causing the user to see and hear things that are not there or that do not exist (= to hallucinate)",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/psychedelic"
+        ]
+      ],
+      "subcategory": "精神药理/感知",
+      "term": "psychedelic",
+      "zh": "迷幻的；致幻的：指能改变感知、引起幻觉或强烈感官体验的药物/体验；也指色彩、图案、音乐等具有迷幻风格。"
+    },
+    {
+      "category": "神经科学",
+      "en": "A psychiatrist is a medical doctor trained to diagnose, study, and treat mental illnesses.",
+      "pos": "noun / 名词",
+      "sources": [
+        [
+          "Cambridge",
+          "a doctor with special training in treating mental illness",
+          "https://dictionary.cambridge.org/dictionary/english/psychiatrist"
+        ],
+        [
+          "Oxford Learner’s",
+          "a doctor who studies and treats mental illnesses",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/psychiatrist"
+        ]
+      ],
+      "subcategory": "精神医学/职业",
+      "term": "psychiatrist",
+      "zh": "精神科医生：受过医学训练、专门研究、诊断和治疗精神疾病的医生。"
+    },
+    {
+      "category": "通用",
+      "en": "Psychic can mean relating to supposed supernatural mental powers, a person said to have such powers, or relating to the mind rather than the body.",
+      "pos": "adjective/noun / 形容词/名词",
+      "sources": [
+        [
+          "Cambridge",
+          "having a special mental ability, for example so that you are able to know what will happen in the future or know what people are thinking",
+          "https://dictionary.cambridge.org/dictionary/english/psychic"
+        ],
+        [
+          "Oxford Learner’s",
+          "connected with strange powers of the mind and not able to be explained by natural laws; connected with the mind rather than the body",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/psychic_1"
+        ]
+      ],
+      "subcategory": "心理/超自然",
+      "term": "psychic",
+      "zh": "通灵的；有特异感知能力的；精神的：可指所谓超自然心智能力，也可指具有这种能力的人，或与心理而非身体有关。"
+    },
+    {
+      "category": "通用",
+      "en": "A quagmire is soft wet ground that is hard to cross, or figuratively a difficult, dangerous, or trapping situation.",
+      "pos": "noun / 名词",
+      "sources": [
+        [
+          "Cambridge",
+          "an area of soft, wet ground that you sink into if you try to walk on it; a difficult and dangerous situation",
+          "https://dictionary.cambridge.org/dictionary/english/quagmire"
+        ],
+        [
+          "Oxford Learner’s",
+          "an area of soft wet ground; a difficult or dangerous situation",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/quagmire"
+        ]
+      ],
+      "subcategory": "困境/地形",
+      "term": "quagmire",
+      "zh": "沼泽地；泥潭；困境：柔软湿地会使人陷进去；比喻难以摆脱、危险复杂的局面。"
+    },
+    {
+      "category": "通用",
+      "en": "A repertoire is the full set of songs, pieces, roles, skills, methods, or behaviors that a person or group can perform or use.",
+      "pos": "noun / 名词",
+      "sources": [
+        [
+          "Cambridge",
+          "all the music or plays, etc. that you can do or perform or that you know; all the things that someone can do, all the methods that someone can use",
+          "https://dictionary.cambridge.org/dictionary/english/repertoire"
+        ],
+        [
+          "Oxford Learner’s",
+          "all the plays, songs, pieces of music, etc. that a performer knows and can perform; all the things that a person is able to do",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/repertoire"
+        ]
+      ],
+      "subcategory": "能力/艺术",
+      "term": "repertoire",
+      "zh": "曲目；剧目；全部技能/方法：表演者会演的作品集合；也泛指一个人或群体可使用的技能、方法或行为库。"
+    },
+    {
+      "category": "神经科学",
+      "en": "Satiation is the state or process of being fully satisfied, especially after food or pleasure, so that no more is wanted.",
+      "pos": "noun / 名词",
+      "sources": [
+        [
+          "Cambridge",
+          "the act of completely satisfying yourself or a need, especially with food or pleasure",
+          "https://dictionary.cambridge.org/dictionary/english/satiation"
+        ],
+        [
+          "Oxford Learner’s",
+          "the feeling or fact of having had so much of something that you do not want any more",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/satiation"
+        ]
+      ],
+      "subcategory": "摄食/奖赏",
+      "term": "satiation",
+      "zh": "饱足；满足：尤其指食物或愉悦需求被充分满足后，不再想要更多的状态或过程。"
+    },
+    {
+      "category": "神经科学",
+      "en": "Schizophrenia is a serious mental illness involving disturbed links among thought, emotion, behavior, and reality perception.",
+      "pos": "noun / 名词",
+      "sources": [
+        [
+          "Cambridge",
+          "a serious mental illness in which someone cannot understand what is real and what is imaginary",
+          "https://dictionary.cambridge.org/dictionary/english/schizophrenia"
+        ],
+        [
+          "Oxford Learner’s",
+          "a mental illness in which a person becomes unable to link thought, emotion and behaviour, leading to withdrawal from reality and personal relationships",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/schizophrenia"
+        ]
+      ],
+      "subcategory": "精神医学/疾病",
+      "term": "schizophrenia",
+      "zh": "精神分裂症：严重精神疾病，可影响思维、情绪、行为以及对现实的判断，并可能导致与现实或人际关系脱离。"
+    },
+    {
+      "category": "神经科学",
+      "en": "Serotonin is a neurotransmitter involved in signaling in the brain and body and associated with mood and feelings of relaxation or happiness.",
+      "pos": "noun / 名词",
+      "sources": [
+        [
+          "Cambridge",
+          "a neurotransmitter (= a chemical in the body that carries messages from the brain) that helps you feel relaxed and happy",
+          "https://dictionary.cambridge.org/dictionary/english/serotonin"
+        ],
+        [
+          "Oxford Learner’s",
+          "a chemical in the brain that affects how messages are sent from the brain to the body, and also affects how a person feels",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/serotonin"
+        ]
+      ],
+      "subcategory": "神经递质",
+      "term": "serotonin",
+      "zh": "血清素；5-羟色胺：参与大脑和身体信号传递的神经递质，与情绪、放松感和幸福感等有关。"
+    },
+    {
+      "category": "通用",
+      "en": "To smack is to hit with an open hand or with force, often making a sharp sound; as a noun it can mean such a hit or sound, and as an adverb it means directly or exactly.",
+      "pos": "verb/noun/adverb / 动词/名词/副词",
+      "sources": [
+        [
+          "Cambridge",
+          "to hit someone or something forcefully with the flat inside part of your hand, producing a short, loud noise",
+          "https://dictionary.cambridge.org/dictionary/english/smack"
+        ],
+        [
+          "Oxford Learner’s",
+          "to hit somebody with your open hand or an object, especially as a punishment",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/smack_1"
+        ]
+      ],
+      "subcategory": "动作/声音",
+      "term": "smack",
+      "zh": "拍打；掌掴；砰的一声；正好：用手掌或力量击打并发出短促响声；名词指拍打/响声；副词可指“正好、直接”。"
+    },
+    {
+      "category": "通用",
+      "en": "To sniff is to draw air in through the nose to smell something or because of crying/cold; it can also mean speaking with disapproval.",
+      "pos": "verb/noun / 动词/名词",
+      "sources": [
+        [
+          "Cambridge",
+          "to smell something by taking air in through your nose; to take air in quickly through your nose",
+          "https://dictionary.cambridge.org/dictionary/english/sniff"
+        ],
+        [
+          "Oxford Learner’s",
+          "to breathe air in through your nose in a way that makes a sound; to breathe air in through the nose in order to discover or enjoy the smell of something",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/sniff_1"
+        ]
+      ],
+      "subcategory": "嗅觉/动作",
+      "term": "sniff",
+      "zh": "嗅；抽鼻子；轻蔑地说：通过鼻子吸气闻气味，或因感冒/哭泣吸鼻；也可指以不满或轻蔑语气说话。"
+    },
+    {
+      "category": "通用",
+      "en": "Sour means having a sharp acidic taste or smell, spoiled, unfriendly, or bitter in mood; as a verb, to sour means to become or make something unpleasant or spoiled.",
+      "pos": "adjective/verb / 形容词/动词",
+      "sources": [
+        [
+          "Cambridge",
+          "having a sharp, sometimes unpleasant, taste or smell, like a lemon, and not sweet; unfriendly or easily annoyed",
+          "https://dictionary.cambridge.org/dictionary/english/sour"
+        ],
+        [
+          "Oxford Learner’s",
+          "having a taste like that of a lemon; not cheerful; unfriendly and unpleasant",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/sour_1"
+        ]
+      ],
+      "subcategory": "味觉/态度",
+      "term": "sour",
+      "zh": "酸的；变质的；不友好的；变坏：味道像柠檬般尖酸，或食物变坏；也可形容态度冷淡、不悦，动词指使变糟。"
+    },
+    {
+      "category": "神经科学",
+      "en": "A stress hormone is a hormone connected with the body’s response to stress, helping prepare the body for challenge or danger.",
+      "pos": "noun phrase / 名词短语",
+      "sources": [
+        [
+          "Cambridge",
+          "a type of hormone produced by the body, for example when you are frightened, angry, or excited, that makes the heart beat faster and prepares the body to react to danger",
+          "https://dictionary.cambridge.org/dictionary/english/stress-hormone"
+        ],
+        [
+          "Oxford Learner’s",
+          "a hormone that is connected with how the body responds to stress",
+          "https://www.oxfordlearnersdictionaries.com/definition/english/stress-hormone"
+        ]
+      ],
+      "subcategory": "神经内分泌/压力",
+      "term": "stress hormone",
+      "zh": "压力激素：与身体应激反应有关的激素，帮助身体面对挑战或危险；常见例子包括皮质醇、肾上腺素等。"
+    }
+  ],
+  "others6_fetch_raw": {
+    "adrenaline": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "a hormone (= chemical substance) produced by the body when a person is frightened, angry, or excited, which makes the heart beat faster and prepares the body to react to danger",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/adrenaline"
+        },
+        {
+          "definition": "a substance produced in the body when you are excited, afraid or angry. It makes the heart beat faster and increases your energy and ability to move quickly.",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/adrenaline"
+        }
+      ]
+    },
+    "chronic": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "name": "Cambridge",
+          "definition": "continuing for a long time; a chronic disease is one that continues for a long time and cannot be cured completely",
+          "url": "https://dictionary.cambridge.org/dictionary/english/chronic",
+          "status": "checked"
+        },
+        {
+          "name": "Oxford Learner’s",
+          "definition": "lasting for a long time; difficult to cure or get rid of",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/chronic",
+          "status": "checked"
+        }
+      ]
+    },
+    "compulsion": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "a very strong feeling of wanting to do something repeatedly that is difficult to control",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/compulsion"
+        },
+        {
+          "definition": "a strong desire to do something, especially something that is wrong, silly or dangerous",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/compulsion"
+        }
+      ]
+    },
+    "elated": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "extremely happy and excited, often because something has happened or been achieved",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/elated"
+        },
+        {
+          "definition": "very happy and excited because of something good that has happened, or will happen",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/elated"
+        }
+      ]
+    },
+    "euphoria": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "extreme happiness, sometimes more than is reasonable in a particular situation",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/euphoria"
+        },
+        {
+          "definition": "an extremely strong feeling of happiness and excitement that usually lasts only a short time",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/euphoria"
+        }
+      ]
+    },
+    "flicker": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "to shine with a light that is sometimes bright and sometimes weak",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/flicker"
+        },
+        {
+          "definition": "to keep going on and off as it shines or burns",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/flicker_1"
+        }
+      ]
+    },
+    "gape": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "to look in great surprise at someone or something, especially with an open mouth",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/gape"
+        },
+        {
+          "definition": "an act of staring at somebody/something with your mouth open because you are shocked or surprised",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/gape_1"
+        }
+      ]
+    },
+    "gross": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "(in) total; extremely unpleasant",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/gross"
+        },
+        {
+          "definition": "being the total amount of something before anything is taken away; very unpleasant",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/gross_1"
+        }
+      ]
+    },
+    "perilous": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "extremely dangerous",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/perilous"
+        },
+        {
+          "definition": "very dangerous",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/perilous"
+        }
+      ]
+    },
+    "psychedelic": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "(of a drug) causing effects on the mind, such as feelings of deep understanding or unusually strong experiences of colour, sound, taste, and touch",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/psychedelic"
+        },
+        {
+          "definition": "causing the user to see and hear things that are not there or that do not exist (= to hallucinate)",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/psychedelic"
+        }
+      ]
+    },
+    "psychiatrist": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "a doctor with special training in treating mental illness",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/psychiatrist"
+        },
+        {
+          "definition": "a doctor who studies and treats mental illnesses",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/psychiatrist"
+        }
+      ]
+    },
+    "psychic": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "having a special mental ability, for example so that you are able to know what will happen in the future or know what people are thinking",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/psychic"
+        },
+        {
+          "definition": "connected with strange powers of the mind and not able to be explained by natural laws; connected with the mind rather than the body",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/psychic_1"
+        }
+      ]
+    },
+    "quagmire": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "an area of soft, wet ground that you sink into if you try to walk on it; a difficult and dangerous situation",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/quagmire"
+        },
+        {
+          "definition": "an area of soft wet ground; a difficult or dangerous situation",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/quagmire"
+        }
+      ]
+    },
+    "repertoire": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "all the music or plays, etc. that you can do or perform or that you know; all the things that someone can do, all the methods that someone can use",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/repertoire"
+        },
+        {
+          "definition": "all the plays, songs, pieces of music, etc. that a performer knows and can perform; all the things that a person is able to do",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/repertoire"
+        }
+      ]
+    },
+    "satiation": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "the act of completely satisfying yourself or a need, especially with food or pleasure",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/satiation"
+        },
+        {
+          "definition": "the feeling or fact of having had so much of something that you do not want any more",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/satiation"
+        }
+      ]
+    },
+    "schizophrenia": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "a serious mental illness in which someone cannot understand what is real and what is imaginary",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/schizophrenia"
+        },
+        {
+          "definition": "a mental illness in which a person becomes unable to link thought, emotion and behaviour, leading to withdrawal from reality and personal relationships",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/schizophrenia"
+        }
+      ]
+    },
+    "serotonin": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "a neurotransmitter (= a chemical in the body that carries messages from the brain) that helps you feel relaxed and happy",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/serotonin"
+        },
+        {
+          "definition": "a chemical in the brain that affects how messages are sent from the brain to the body, and also affects how a person feels",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/serotonin"
+        }
+      ]
+    },
+    "smack": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "to hit someone or something forcefully with the flat inside part of your hand, producing a short, loud noise",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/smack"
+        },
+        {
+          "definition": "to hit somebody with your open hand or an object, especially as a punishment",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/smack_1"
+        }
+      ]
+    },
+    "sniff": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "to smell something by taking air in through your nose; to take air in quickly through your nose",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/sniff"
+        },
+        {
+          "definition": "to breathe air in through your nose in a way that makes a sound; to breathe air in through the nose in order to discover or enjoy the smell of something",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sniff_1"
+        }
+      ]
+    },
+    "sour": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "having a sharp, sometimes unpleasant, taste or smell, like a lemon, and not sweet; unfriendly or easily annoyed",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/sour"
+        },
+        {
+          "definition": "having a taste like that of a lemon; not cheerful; unfriendly and unpleasant",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sour_1"
+        }
+      ]
+    },
+    "stress hormone": {
+      "input_file": "/home/terry/.hermes/cache/documents/doc_1e15b3908bc0_others6.txt",
+      "sources": [
+        {
+          "definition": "a type of hormone produced by the body, for example when you are frightened, angry, or excited, that makes the heart beat faster and prepares the body to react to danger",
+          "name": "Cambridge",
+          "status": "checked",
+          "url": "https://dictionary.cambridge.org/dictionary/english/stress-hormone"
+        },
+        {
+          "definition": "a hormone that is connected with how the body responds to stress",
+          "name": "Oxford Learner’s",
+          "status": "checked",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/stress-hormone"
+        }
+      ]
+    }
+  },
   "others_entries": [
     {
       "category": "通用",

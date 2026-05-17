@@ -11,7 +11,6 @@
 - 词典/公开来源：
   - Merriam-Webster: a skill of mind or body usually resulting from continued endeavor
     https://www.merriam-webster.com/dictionary/acquirement
-
 ### awe
 - 分类：通用（情绪/敬畏）
 - 词性：noun/verb / 名词/动词
@@ -25,7 +24,6 @@
     https://dictionary.cambridge.org/dictionary/english/awe
   - Oxford Learner’s: feelings of respect and slight fear; feelings of being very impressed by something/somebody
     https://www.oxfordlearnersdictionaries.com/definition/english/awe_1
-
 ### awe-inspiring
 - 分类：通用（评价/感受）
 - 词性：adjective / 形容词
@@ -39,7 +37,6 @@
     https://dictionary.cambridge.org/dictionary/english/awe-inspiring
   - Oxford Learner’s: extremely impressive; making you admire it very much
     https://www.oxfordlearnersdictionaries.com/definition/english/awe-inspiring
-
 ### bask
 - 分类：通用（状态/享受）
 - 词性：verb / 动词
@@ -53,7 +50,6 @@
     https://dictionary.cambridge.org/dictionary/english/bask
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/bask
-
 ### beget
 - 分类：通用（因果/产生）
 - 词性：verb / 动词
@@ -67,7 +63,6 @@
     https://dictionary.cambridge.org/dictionary/english/beget
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/beget
-
 ### beguile
 - 分类：通用（影响/欺骗）
 - 词性：verb / 动词
@@ -81,7 +76,6 @@
     https://dictionary.cambridge.org/dictionary/english/beguile
   - Oxford Learner’s: to trick somebody into doing something, especially by being nice to them
     https://www.oxfordlearnersdictionaries.com/definition/english/beguile
-
 ### boon
 - 分类：通用（利益/帮助）
 - 词性：noun / 名词
@@ -95,7 +89,6 @@
     https://dictionary.cambridge.org/dictionary/english/boon
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/boon
-
 ### brimming
 - 分类：通用（数量/状态）
 - 词性：adjective / 形容词; present participle / 现在分词
@@ -109,7 +102,6 @@
     https://dictionary.cambridge.org/dictionary/english/brimming
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/brimming
-
 ### cacophony
 - 分类：通用（声音/混乱）
 - 词性：noun / 名词
@@ -123,7 +115,6 @@
     https://dictionary.cambridge.org/dictionary/english/cacophony
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/cacophony
-
 ### calamity
 - 分类：通用（灾难）
 - 词性：noun / 名词
@@ -137,7 +128,6 @@
     https://dictionary.cambridge.org/dictionary/english/calamity
   - Oxford Learner’s: an event that causes great damage to people’s lives, property, etc.
     https://www.oxfordlearnersdictionaries.com/definition/english/calamity
-
 ### chagrin
 - 分类：通用（情绪）
 - 词性：noun / 名词
@@ -151,7 +141,6 @@
     https://dictionary.cambridge.org/dictionary/english/chagrin
   - Oxford Learner’s: a feeling of being disappointed or annoyed
     https://www.oxfordlearnersdictionaries.com/definition/english/chagrin
-
 ### chauvinism
 - 分类：通用（社会/态度）
 - 词性：noun / 名词
@@ -165,7 +154,17 @@
     https://dictionary.cambridge.org/dictionary/english/chauvinism
   - Oxford Learner’s: an aggressive and unreasonable belief that your own country is better than all others
     https://www.oxfordlearnersdictionaries.com/definition/english/chauvinism
-
+### chronic
+- 分类：通用（疾病/长期状态）
+- 词性：adjective / 形容词
+- 音标：/ˈkrɒnɪk/; /ˈkrɑːnɪk/
+- English explanation: Chronic means lasting for a long time, recurring often, or difficult to stop; in medicine, it describes a disease or condition that persists over time.
+- 中文解释：慢性的；长期的；反复发生的：尤指疾病或问题持续很久、经常复发，或难以停止。
+- 词典/公开来源：
+  - Cambridge: continuing for a long time; a chronic disease is one that continues for a long time and cannot be cured completely
+    https://dictionary.cambridge.org/dictionary/english/chronic
+  - Oxford Learner’s: lasting for a long time; difficult to cure or get rid of
+    https://www.oxfordlearnersdictionaries.com/definition/english/chronic
 ### constituent
 - 分类：通用（组成/政治）
 - 词性：noun/adjective / 名词/形容词
@@ -179,7 +178,6 @@
     https://dictionary.cambridge.org/dictionary/english/constituent
   - Oxford Learner’s: one of the parts of something that combine to form the whole; a person who lives in and can vote in a constituency
     https://www.oxfordlearnersdictionaries.com/definition/english/constituent_1
-
 ### cranny
 - 分类：通用（空间）
 - 词性：noun / 名词
@@ -193,7 +191,6 @@
     https://dictionary.cambridge.org/dictionary/english/cranny
   - Oxford Learner’s: a very small hole or opening, especially in a wall
     https://www.oxfordlearnersdictionaries.com/definition/english/cranny
-
 ### culmination
 - 分类：通用（过程/结果）
 - 词性：noun / 名词
@@ -207,7 +204,6 @@
     https://dictionary.cambridge.org/dictionary/english/culmination
   - Oxford Learner’s: the highest point or end of something, usually happening after a long time
     https://www.oxfordlearnersdictionaries.com/definition/english/culmination
-
 ### cusp
 - 分类：通用（边界/转折）
 - 词性：noun / 名词
@@ -221,7 +217,6 @@
     https://dictionary.cambridge.org/dictionary/english/cusp
   - Oxford Learner’s: a pointed end where two curves meet
     https://www.oxfordlearnersdictionaries.com/definition/english/cusp
-
 ### delineate
 - 分类：通用（描述/划定）
 - 词性：verb / 动词
@@ -235,7 +230,6 @@
     https://dictionary.cambridge.org/dictionary/english/delineate
   - Oxford Learner’s: to describe, draw or explain something in detail
     https://www.oxfordlearnersdictionaries.com/definition/english/delineate
-
 ### devolve
 - 分类：通用（转移/退化）
 - 词性：verb / 动词
@@ -247,7 +241,6 @@
     https://www.merriam-webster.com/dictionary/devolve
   - Cambridge: to ( cause power or responsibility to) be given to other people
     https://dictionary.cambridge.org/dictionary/english/devolve
-
 ### ebb
 - 分类：通用（变化/衰退）
 - 词性：noun/verb / 名词/动词
@@ -261,7 +254,17 @@
     https://dictionary.cambridge.org/dictionary/english/ebb
   - Oxford Learner’s: the period of time when the sea flows away from the land
     https://www.oxfordlearnersdictionaries.com/definition/english/ebb_1
-
+### elated
+- 分类：通用（情绪）
+- 词性：adjective / 形容词
+- 音标：/ɪˈleɪtɪd/
+- English explanation: Elated means extremely happy and excited because something good has happened or is expected to happen.
+- 中文解释：兴高采烈的；非常高兴和激动的：因好事发生或即将发生而感到强烈开心。
+- 词典/公开来源：
+  - Cambridge: extremely happy and excited, often because something has happened or been achieved
+    https://dictionary.cambridge.org/dictionary/english/elated
+  - Oxford Learner’s: very happy and excited because of something good that has happened, or will happen
+    https://www.oxfordlearnersdictionaries.com/definition/english/elated
 ### endow
 - 分类：通用（给予/资助）
 - 词性：verb / 动词
@@ -275,7 +278,6 @@
     https://dictionary.cambridge.org/dictionary/english/endow
   - Oxford Learner’s: to give a large sum of money to a school, a college or another institution to provide it with an income
     https://www.oxfordlearnersdictionaries.com/definition/english/endow
-
 ### engulf
 - 分类：通用（吞没/包围）
 - 词性：verb / 动词
@@ -289,7 +291,6 @@
     https://dictionary.cambridge.org/dictionary/english/engulf
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/engulf
-
 ### feat
 - 分类：通用（成就）
 - 词性：noun / 名词
@@ -303,7 +304,28 @@
     https://dictionary.cambridge.org/dictionary/english/feat
   - Oxford Learner’s: an action or a piece of work that needs skill, strength or courage
     https://www.oxfordlearnersdictionaries.com/definition/english/feat
-
+### flicker
+- 分类：通用（光/短暂出现）
+- 词性：verb/noun / 动词/名词
+- 音标：/ˈflɪkə(r)/; /ˈflɪkər/
+- English explanation: To flicker is to shine unsteadily, appear briefly, or move with small quick movements; as a noun, it is a brief or wavering light or appearance.
+- 中文解释：闪烁；一闪而过；轻微快速移动：光忽明忽暗，或某种表情/念头短暂出现；名词指闪烁或短暂迹象。
+- 词典/公开来源：
+  - Cambridge: to shine with a light that is sometimes bright and sometimes weak
+    https://dictionary.cambridge.org/dictionary/english/flicker
+  - Oxford Learner’s: to keep going on and off as it shines or burns
+    https://www.oxfordlearnersdictionaries.com/definition/english/flicker_1
+### gape
+- 分类：通用（表情/开口）
+- 词性：verb/noun / 动词/名词
+- 音标：/ɡeɪp/
+- English explanation: To gape is to stare with the mouth open in surprise, or to be wide open; as a noun, it can mean an open-mouthed stare or a wide opening.
+- 中文解释：目瞪口呆地看；张大口；裂开：因震惊或惊讶张着嘴看；也可指大张开的口或缝。
+- 词典/公开来源：
+  - Cambridge: to look in great surprise at someone or something, especially with an open mouth
+    https://dictionary.cambridge.org/dictionary/english/gape
+  - Oxford Learner’s: an act of staring at somebody/something with your mouth open because you are shocked or surprised
+    https://www.oxfordlearnersdictionaries.com/definition/english/gape_1
 ### garner
 - 分类：通用（获得/收集）
 - 词性：verb / 动词
@@ -317,7 +339,6 @@
     https://dictionary.cambridge.org/dictionary/english/garner
   - Oxford Learner’s: to obtain or collect something such as information, support, etc.
     https://www.oxfordlearnersdictionaries.com/definition/english/garner
-
 ### glamor
 - 分类：通用（魅力/吸引）
 - 词性：noun / 名词
@@ -331,7 +352,6 @@
     https://dictionary.cambridge.org/dictionary/english/glamor
   - Oxford Learner’s: glamor standalone page returned 404 during check; compare glamour
     https://www.oxfordlearnersdictionaries.com/definition/english/glamor
-
 ### glaring
 - 分类：通用（视觉/明显性）
 - 词性：adjective / 形容词
@@ -345,7 +365,6 @@
     https://dictionary.cambridge.org/dictionary/english/glaring
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/glaring
-
 ### glimmer
 - 分类：通用（光/迹象）
 - 词性：noun/verb / 名词/动词
@@ -359,7 +378,6 @@
     https://dictionary.cambridge.org/dictionary/english/glimmer
   - Oxford Learner’s: a small unsteady light; a small sign of something
     https://www.oxfordlearnersdictionaries.com/definition/english/glimmer_1
-
 ### gobble
 - 分类：通用（进食/动作）
 - 词性：verb / 动词
@@ -373,7 +391,6 @@
     https://dictionary.cambridge.org/dictionary/english/gobble
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/gobble
-
 ### gooey
 - 分类：通用（质地/触感）
 - 词性：adjective / 形容词
@@ -387,7 +404,6 @@
     https://dictionary.cambridge.org/dictionary/english/gooey
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/gooey
-
 ### grail
 - 分类：通用（追求/目标）
 - 词性：noun / 名词
@@ -401,7 +417,6 @@
     https://dictionary.cambridge.org/dictionary/english/grail
   - Oxford Learner’s: a thing that you try very hard to find or achieve, but never will
     https://www.oxfordlearnersdictionaries.com/definition/english/grail
-
 ### grain
 - 分类：通用（食物/材料）
 - 词性：noun / 名词
@@ -415,7 +430,17 @@
     https://dictionary.cambridge.org/dictionary/english/grain
   - Oxford Learner’s: the small hard seeds of food plants such as wheat , rice, etc.; a single seed of such a plant
     https://www.oxfordlearnersdictionaries.com/definition/english/grain
-
+### gross
+- 分类：通用（评价/数量）
+- 词性：adjective/verb/noun / 形容词/动词/名词
+- 音标：/ɡrəʊs/
+- English explanation: Gross can mean total before deductions, very obvious and unacceptable, or extremely unpleasant; as a verb it can mean to earn a total amount.
+- 中文解释：总的；严重的；令人恶心的：可指扣除前总额、明显且不可接受，或非常令人不快；动词可指总共赚得。
+- 词典/公开来源：
+  - Cambridge: (in) total; extremely unpleasant
+    https://dictionary.cambridge.org/dictionary/english/gross
+  - Oxford Learner’s: being the total amount of something before anything is taken away; very unpleasant
+    https://www.oxfordlearnersdictionaries.com/definition/english/gross_1
 ### guise
 - 分类：通用（外表/伪装）
 - 词性：noun / 名词
@@ -429,7 +454,6 @@
     https://dictionary.cambridge.org/dictionary/english/guise
   - Oxford Learner’s: a way in which somebody/something appears, often in a way that is different from usual or that hides the truth about them/it
     https://www.oxfordlearnersdictionaries.com/definition/english/guise
-
 ### holocaust
 - 分类：通用（灾难/历史）
 - 词性：noun / 名词
@@ -443,7 +467,6 @@
     https://dictionary.cambridge.org/dictionary/english/holocaust
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/holocaust
-
 ### hydrogen
 - 分类：通用（化学/元素）
 - 词性：noun / 名词
@@ -457,7 +480,6 @@
     https://dictionary.cambridge.org/dictionary/english/hydrogen
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/hydrogen
-
 ### imbue
 - 分类：通用（影响/赋予）
 - 词性：verb / 动词
@@ -471,7 +493,6 @@
     https://dictionary.cambridge.org/dictionary/english/imbue-with
   - Oxford Learner’s: to fill somebody/something with strong feelings, opinions or values
     https://www.oxfordlearnersdictionaries.com/definition/english/imbue
-
 ### inexorable
 - 分类：通用（趋势/过程）
 - 词性：adjective / 形容词
@@ -485,7 +506,6 @@
     https://dictionary.cambridge.org/dictionary/english/inexorable
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/inexorable
-
 ### infuriating
 - 分类：通用（情绪）
 - 词性：adjective / 形容词
@@ -499,7 +519,6 @@
     https://dictionary.cambridge.org/dictionary/english/infuriating
   - Oxford Learner’s: making you extremely angry
     https://www.oxfordlearnersdictionaries.com/definition/english/infuriating
-
 ### inglorious
 - 分类：通用（评价/名誉）
 - 词性：adjective / 形容词
@@ -513,7 +532,6 @@
     https://dictionary.cambridge.org/dictionary/english/inglorious
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/inglorious
-
 ### intrepid
 - 分类：通用（性格）
 - 词性：adjective / 形容词
@@ -527,7 +545,6 @@
     https://dictionary.cambridge.org/dictionary/english/intrepid
   - Oxford Learner’s: very brave; not afraid of danger or difficulties
     https://www.oxfordlearnersdictionaries.com/definition/english/intrepid
-
 ### invigorate
 - 分类：通用（能量/改善）
 - 词性：verb / 动词
@@ -541,7 +558,6 @@
     https://dictionary.cambridge.org/dictionary/english/invigorate
   - Oxford Learner’s: to make somebody feel healthy and full of energy; to make a situation or organization efficient and successful
     https://www.oxfordlearnersdictionaries.com/definition/english/invigorate
-
 ### litmus
 - 分类：通用（化学/测试）
 - 词性：noun / 名词
@@ -555,7 +571,6 @@
     https://dictionary.cambridge.org/dictionary/english/litmus
   - Oxford Learner’s: a substance that turns red when it touches an acid and blue when it touches an alkali
     https://www.oxfordlearnersdictionaries.com/definition/english/litmus
-
 ### locus
 - 分类：通用（位置/中心）
 - 词性：noun / 名词
@@ -569,7 +584,6 @@
     https://dictionary.cambridge.org/dictionary/english/locus
   - Oxford Learner’s: the exact place where something happens or that is thought to be the centre of something
     https://www.oxfordlearnersdictionaries.com/definition/english/locus
-
 ### loom
 - 分类：通用（出现/工具）
 - 词性：verb/noun / 动词/名词
@@ -583,7 +597,6 @@
     https://dictionary.cambridge.org/dictionary/english/loom
   - Oxford Learner’s: to appear as a large shape that is not clear, especially in a frightening way
     https://www.oxfordlearnersdictionaries.com/definition/english/loom_1
-
 ### maelstrom
 - 分类：通用（混乱/力量）
 - 词性：noun / 名词
@@ -597,7 +610,6 @@
     https://dictionary.cambridge.org/dictionary/english/maelstrom
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/maelstrom
-
 ### mesmerize
 - 分类：通用（心理/注意力）
 - 词性：verb / 动词
@@ -611,7 +623,6 @@
     https://dictionary.cambridge.org/dictionary/english/mesmerize
   - Oxford Learner’s: to have such a strong effect on you that you cannot give your attention to anything else
     https://www.oxfordlearnersdictionaries.com/definition/english/mesmerize
-
 ### micron
 - 分类：通用（计量/尺度）
 - 词性：noun / 名词
@@ -625,7 +636,6 @@
     https://dictionary.cambridge.org/dictionary/english/micron
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/micron
-
 ### millennia
 - 分类：通用（时间）
 - 词性：plural noun / 复数名词
@@ -637,7 +647,6 @@
     https://www.merriam-webster.com/dictionary/millennia
   - Cambridge: plural of millennium
     https://dictionary.cambridge.org/dictionary/english/millennia
-
 ### minuscule
 - 分类：通用（大小）
 - 词性：adjective / 形容词
@@ -651,7 +660,6 @@
     https://dictionary.cambridge.org/dictionary/english/minuscule
   - Oxford Learner’s: extremely small
     https://www.oxfordlearnersdictionaries.com/definition/english/minuscule
-
 ### nook
 - 分类：通用（空间）
 - 词性：noun / 名词
@@ -665,7 +673,6 @@
     https://dictionary.cambridge.org/dictionary/english/nook
   - Oxford Learner’s: a small quiet place or corner that is sheltered or hidden from other people
     https://www.oxfordlearnersdictionaries.com/definition/english/nook
-
 ### noxious
 - 分类：通用（危害/毒性）
 - 词性：adjective / 形容词
@@ -679,7 +686,6 @@
     https://dictionary.cambridge.org/dictionary/english/noxious
   - Oxford Learner’s: poisonous or harmful
     https://www.oxfordlearnersdictionaries.com/definition/english/noxious
-
 ### onslaught
 - 分类：通用（攻击/事件）
 - 词性：noun / 名词
@@ -693,7 +699,6 @@
     https://dictionary.cambridge.org/dictionary/english/onslaught
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/onslaught
-
 ### outwit
 - 分类：通用（策略）
 - 词性：verb / 动词
@@ -707,7 +712,6 @@
     https://dictionary.cambridge.org/dictionary/english/outwit
   - Oxford Learner’s: to defeat somebody/something or gain an advantage over them by doing something clever
     https://www.oxfordlearnersdictionaries.com/definition/english/outwit
-
 ### paltry
 - 分类：通用（数量/价值）
 - 词性：adjective / 形容词
@@ -721,7 +725,17 @@
     https://dictionary.cambridge.org/dictionary/english/paltry
   - Oxford Learner’s: too small to be considered as important or useful; having no value or useful qualities
     https://www.oxfordlearnersdictionaries.com/definition/english/paltry
-
+### perilous
+- 分类：通用（危险）
+- 词性：adjective / 形容词
+- 音标：/ˈperələs/
+- English explanation: Perilous means very dangerous or full of risk.
+- 中文解释：危险的；凶险的：非常危险，充满风险。
+- 词典/公开来源：
+  - Cambridge: extremely dangerous
+    https://dictionary.cambridge.org/dictionary/english/perilous
+  - Oxford Learner’s: very dangerous
+    https://www.oxfordlearnersdictionaries.com/definition/english/perilous
 ### pitched
 - 分类：通用（形状/程度）
 - 词性：adjective / 形容词
@@ -735,7 +749,6 @@
     https://dictionary.cambridge.org/dictionary/english/pitched
   - Oxford Learner’s: sloping; not flat
     https://www.oxfordlearnersdictionaries.com/definition/english/pitched
-
 ### platter
 - 分类：通用（餐具/食物）
 - 词性：noun / 名词
@@ -749,7 +762,6 @@
     https://dictionary.cambridge.org/dictionary/english/platter
   - Oxford Learner’s: a large plate that is used for serving food
     https://www.oxfordlearnersdictionaries.com/definition/english/platter
-
 ### populism
 - 分类：通用（政治/社会）
 - 词性：noun / 名词
@@ -763,7 +775,6 @@
     https://dictionary.cambridge.org/dictionary/english/populism
   - Oxford Learner’s: a type of politics that claims to represent the opinions and wishes of ordinary people
     https://www.oxfordlearnersdictionaries.com/definition/english/populism
-
 ### primitive
 - 分类：通用（早期/简单）
 - 词性：adjective / 形容词
@@ -777,7 +788,6 @@
     https://dictionary.cambridge.org/dictionary/english/primitive
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/primitive
-
 ### proclaim
 - 分类：通用（表达/宣告）
 - 词性：verb / 动词
@@ -791,7 +801,39 @@
     https://dictionary.cambridge.org/dictionary/english/proclaim
   - Oxford Learner’s: to publicly and officially tell people about something important
     https://www.oxfordlearnersdictionaries.com/definition/english/proclaim
-
+### psychic
+- 分类：通用（心理/超自然）
+- 词性：adjective/noun / 形容词/名词
+- 音标：/ˈsaɪkɪk/
+- English explanation: Psychic can mean relating to supposed supernatural mental powers, a person said to have such powers, or relating to the mind rather than the body.
+- 中文解释：通灵的；有特异感知能力的；精神的：可指所谓超自然心智能力，也可指具有这种能力的人，或与心理而非身体有关。
+- 词典/公开来源：
+  - Cambridge: having a special mental ability, for example so that you are able to know what will happen in the future or know what people are thinking
+    https://dictionary.cambridge.org/dictionary/english/psychic
+  - Oxford Learner’s: connected with strange powers of the mind and not able to be explained by natural laws; connected with the mind rather than the body
+    https://www.oxfordlearnersdictionaries.com/definition/english/psychic_1
+### quagmire
+- 分类：通用（困境/地形）
+- 词性：noun / 名词
+- 音标：/ˈkwæɡmaɪə(r)/; /ˈkwɒɡmaɪə(r)/
+- English explanation: A quagmire is soft wet ground that is hard to cross, or figuratively a difficult, dangerous, or trapping situation.
+- 中文解释：沼泽地；泥潭；困境：柔软湿地会使人陷进去；比喻难以摆脱、危险复杂的局面。
+- 词典/公开来源：
+  - Cambridge: an area of soft, wet ground that you sink into if you try to walk on it; a difficult and dangerous situation
+    https://dictionary.cambridge.org/dictionary/english/quagmire
+  - Oxford Learner’s: an area of soft wet ground; a difficult or dangerous situation
+    https://www.oxfordlearnersdictionaries.com/definition/english/quagmire
+### repertoire
+- 分类：通用（能力/艺术）
+- 词性：noun / 名词
+- 音标：/ˈrepətwɑː(r)/; /ˈrepərtwɑːr/
+- English explanation: A repertoire is the full set of songs, pieces, roles, skills, methods, or behaviors that a person or group can perform or use.
+- 中文解释：曲目；剧目；全部技能/方法：表演者会演的作品集合；也泛指一个人或群体可使用的技能、方法或行为库。
+- 词典/公开来源：
+  - Cambridge: all the music or plays, etc. that you can do or perform or that you know; all the things that someone can do, all the methods that someone can use
+    https://dictionary.cambridge.org/dictionary/english/repertoire
+  - Oxford Learner’s: all the plays, songs, pieces of music, etc. that a performer knows and can perform; all the things that a person is able to do
+    https://www.oxfordlearnersdictionaries.com/definition/english/repertoire
 ### roster
 - 分类：通用（组织/名单）
 - 词性：noun / 名词
@@ -805,7 +847,6 @@
     https://dictionary.cambridge.org/dictionary/english/roster
   - Oxford Learner’s: a list showing the tasks that different people have to do at different times within an organization
     https://www.oxfordlearnersdictionaries.com/definition/english/roster_1
-
 ### rung
 - 分类：通用（物体/阶梯）
 - 词性：noun / 名词
@@ -819,7 +860,6 @@
     https://dictionary.cambridge.org/dictionary/english/rung
   - Oxford Learner’s: one of the bars that forms a step in a ladder
     https://www.oxfordlearnersdictionaries.com/definition/english/rung_1
-
 ### schism
 - 分类：通用（分裂/分歧）
 - 词性：noun / 名词
@@ -833,7 +873,6 @@
     https://dictionary.cambridge.org/dictionary/english/schism
   - Oxford Learner’s: strong disagreement within an organization, especially a religious one, that makes its members divide into separate groups
     https://www.oxfordlearnersdictionaries.com/definition/english/schism
-
 ### sensile
 - 分类：通用（感觉/知觉）
 - 词性：adjective / 形容词
@@ -846,7 +885,6 @@
     https://dictionary.cambridge.org/dictionary/english/sensile
   - Oxford Learner’s: term page returned 404 during check
     https://www.oxfordlearnersdictionaries.com/definition/english/sensile
-
 ### sheer
 - 分类：通用（程度/性质）
 - 词性：adjective / 形容词
@@ -860,7 +898,6 @@
     https://dictionary.cambridge.org/dictionary/english/sheer
   - Oxford Learner’s: used to emphasize the size, degree or amount of something
     https://www.oxfordlearnersdictionaries.com/definition/english/sheer_1
-
 ### sitcom
 - 分类：通用（影视/媒体）
 - 词性：noun / 名词
@@ -874,7 +911,39 @@
     https://dictionary.cambridge.org/dictionary/english/sitcom
   - Oxford Learner’s: a regular comedy programme on television that shows the same characters in different funny situations
     https://www.oxfordlearnersdictionaries.com/definition/english/sitcom
-
+### smack
+- 分类：通用（动作/声音）
+- 词性：verb/noun/adverb / 动词/名词/副词
+- 音标：/smæk/
+- English explanation: To smack is to hit with an open hand or with force, often making a sharp sound; as a noun it can mean such a hit or sound, and as an adverb it means directly or exactly.
+- 中文解释：拍打；掌掴；砰的一声；正好：用手掌或力量击打并发出短促响声；名词指拍打/响声；副词可指“正好、直接”。
+- 词典/公开来源：
+  - Cambridge: to hit someone or something forcefully with the flat inside part of your hand, producing a short, loud noise
+    https://dictionary.cambridge.org/dictionary/english/smack
+  - Oxford Learner’s: to hit somebody with your open hand or an object, especially as a punishment
+    https://www.oxfordlearnersdictionaries.com/definition/english/smack_1
+### sniff
+- 分类：通用（嗅觉/动作）
+- 词性：verb/noun / 动词/名词
+- 音标：/snɪf/
+- English explanation: To sniff is to draw air in through the nose to smell something or because of crying/cold; it can also mean speaking with disapproval.
+- 中文解释：嗅；抽鼻子；轻蔑地说：通过鼻子吸气闻气味，或因感冒/哭泣吸鼻；也可指以不满或轻蔑语气说话。
+- 词典/公开来源：
+  - Cambridge: to smell something by taking air in through your nose; to take air in quickly through your nose
+    https://dictionary.cambridge.org/dictionary/english/sniff
+  - Oxford Learner’s: to breathe air in through your nose in a way that makes a sound; to breathe air in through the nose in order to discover or enjoy the smell of something
+    https://www.oxfordlearnersdictionaries.com/definition/english/sniff_1
+### sour
+- 分类：通用（味觉/态度）
+- 词性：adjective/verb / 形容词/动词
+- 音标：/ˈsaʊə(r)/; /ˈsaʊər/
+- English explanation: Sour means having a sharp acidic taste or smell, spoiled, unfriendly, or bitter in mood; as a verb, to sour means to become or make something unpleasant or spoiled.
+- 中文解释：酸的；变质的；不友好的；变坏：味道像柠檬般尖酸，或食物变坏；也可形容态度冷淡、不悦，动词指使变糟。
+- 词典/公开来源：
+  - Cambridge: having a sharp, sometimes unpleasant, taste or smell, like a lemon, and not sweet; unfriendly or easily annoyed
+    https://dictionary.cambridge.org/dictionary/english/sour
+  - Oxford Learner’s: having a taste like that of a lemon; not cheerful; unfriendly and unpleasant
+    https://www.oxfordlearnersdictionaries.com/definition/english/sour_1
 ### spew
 - 分类：通用（喷出/排放）
 - 词性：verb / 动词
@@ -888,7 +957,6 @@
     https://dictionary.cambridge.org/dictionary/english/spew
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/spew
-
 ### squish
 - 分类：通用（动作/声音）
 - 词性：verb/noun / 动词/名词
@@ -902,7 +970,6 @@
     https://dictionary.cambridge.org/dictionary/english/squish
   - Oxford Learner’s: if something soft squishes or is squished, it is pushed out of shape when it is pressed
     https://www.oxfordlearnersdictionaries.com/definition/english/squish
-
 ### stave
 - 分类：通用（阻止/延缓）
 - 词性：verb / 动词; noun / 名词
@@ -916,7 +983,6 @@
     https://dictionary.cambridge.org/dictionary/english/stave
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/stave
-
 ### stint
 - 分类：通用（工作/时间）
 - 词性：noun/verb / 名词/动词
@@ -930,7 +996,6 @@
     https://dictionary.cambridge.org/dictionary/english/stint
   - Oxford Learner’s: a period of time that you spend working somewhere or doing a particular activity
     https://www.oxfordlearnersdictionaries.com/definition/english/stint_1
-
 ### subjectivity
 - 分类：通用（认识/观点）
 - 词性：noun / 名词
@@ -944,7 +1009,6 @@
     https://dictionary.cambridge.org/dictionary/english/subjectivity
   - Oxford Learner’s: the fact of being influenced by personal ideas, opinions or feelings, rather than facts
     https://www.oxfordlearnersdictionaries.com/definition/english/subjectivity
-
 ### subserve
 - 分类：通用（功能/作用）
 - 词性：verb / 动词
@@ -958,7 +1022,6 @@
     https://dictionary.cambridge.org/dictionary/english/subserve
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/subserve
-
 ### succumb
 - 分类：通用（失败/屈服）
 - 词性：verb / 动词
@@ -972,7 +1035,6 @@
     https://dictionary.cambridge.org/dictionary/english/succumb
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/succumb
-
 ### sycophancy
 - 分类：通用（性格/行为）
 - 词性：noun / 名词
@@ -986,7 +1048,6 @@
     https://dictionary.cambridge.org/dictionary/english/sycophancy
   - Oxford Learner’s: behaviour that praises important or powerful people too much and in a way that is not sincere, especially in order to get something from them
     https://www.oxfordlearnersdictionaries.com/definition/english/sycophancy
-
 ### tantalizing
 - 分类：通用（欲望/吸引）
 - 词性：adjective / 形容词
@@ -1000,7 +1061,6 @@
     https://dictionary.cambridge.org/dictionary/english/tantalizing
   - Oxford Learner’s: making you want something that you cannot have or do
     https://www.oxfordlearnersdictionaries.com/definition/english/tantalizing
-
 ### terraform
 - 分类：通用（科幻/行星改造）
 - 词性：verb / 动词
@@ -1014,7 +1074,6 @@
     https://dictionary.cambridge.org/dictionary/english/terraform
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/terraform
-
 ### tiff
 - 分类：通用（人际关系）
 - 词性：noun / 名词
@@ -1028,7 +1087,6 @@
     https://dictionary.cambridge.org/dictionary/english/tiff
   - Oxford Learner’s: a slight argument between close friends or two people who love each other
     https://www.oxfordlearnersdictionaries.com/definition/english/tiff_1
-
 ### tinker
 - 分类：通用（修补/调整）
 - 词性：verb/noun / 动词/名词
@@ -1042,7 +1100,6 @@
     https://dictionary.cambridge.org/dictionary/english/tinker
   - Oxford Learner’s: an offensive word for a Traveller , Romani or other member of the travelling community
     https://www.oxfordlearnersdictionaries.com/definition/english/tinker_1
-
 ### triune
 - 分类：通用（哲学/宗教）
 - 词性：adjective / 形容词
@@ -1052,7 +1109,6 @@
 - 词典/公开来源：
   - Merriam-Webster: trinity sense 1
     https://www.merriam-webster.com/dictionary/triune
-
 ### tuck
 - 分类：通用（动作）
 - 词性：verb/noun / 动词/名词
@@ -1066,7 +1122,6 @@
     https://dictionary.cambridge.org/dictionary/english/tuck
   - Oxford Learner’s: to push, fold or turn the ends or edges of clothes, paper, etc. so that they are held in place or look neat
     https://www.oxfordlearnersdictionaries.com/definition/english/tuck_1
-
 ### tumult
 - 分类：通用（情绪/事件）
 - 词性：noun / 名词
@@ -1080,7 +1135,6 @@
     https://dictionary.cambridge.org/dictionary/english/tumult
   - Oxford Learner’s: a confused situation in which there is usually a lot of noise and excitement, often involving large numbers of people
     https://www.oxfordlearnersdictionaries.com/definition/english/tumult
-
 ### undergird
 - 分类：通用（支持/基础）
 - 词性：verb / 动词
@@ -1094,7 +1148,6 @@
     https://dictionary.cambridge.org/dictionary/english/undergird
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/undergird
-
 ### unfathomable
 - 分类：通用（理解/程度）
 - 词性：adjective / 形容词
@@ -1108,7 +1161,6 @@
     https://dictionary.cambridge.org/dictionary/english/unfathomable
   - Oxford Learner’s: too strange or difficult to be understood
     https://www.oxfordlearnersdictionaries.com/definition/english/unfathomable
-
 ### ungodly
 - 分类：通用（程度/宗教）
 - 词性：adjective / 形容词
@@ -1122,7 +1174,6 @@
     https://dictionary.cambridge.org/dictionary/english/ungodly
   - Oxford Learner’s: not showing respect for God; evil
     https://www.oxfordlearnersdictionaries.com/definition/english/ungodly
-
 ### untenable
 - 分类：通用（论证/处境）
 - 词性：adjective / 形容词
@@ -1136,7 +1187,6 @@
     https://dictionary.cambridge.org/dictionary/english/untenable
   - Oxford Learner’s: that cannot be defended against attack or criticism
     https://www.oxfordlearnersdictionaries.com/definition/english/untenable
-
 ### unwieldy
 - 分类：通用（形状/管理）
 - 词性：adjective / 形容词
@@ -1150,7 +1200,6 @@
     https://dictionary.cambridge.org/dictionary/english/unwieldy
   - Oxford Learner’s: difficult to move or control because of its size, shape or weight
     https://www.oxfordlearnersdictionaries.com/definition/english/unwieldy
-
 ### uranium
 - 分类：通用（化学/元素）
 - 词性：noun / 名词
@@ -1164,7 +1213,6 @@
     https://dictionary.cambridge.org/dictionary/english/uranium
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/uranium
-
 ### verge
 - 分类：通用（边缘/临界）
 - 词性：noun / 名词
@@ -1178,7 +1226,6 @@
     https://dictionary.cambridge.org/dictionary/english/verge
   - Oxford Learner’s: a piece of grass at the edge of a path, road, etc.
     https://www.oxfordlearnersdictionaries.com/definition/english/verge_1
-
 ### wondrous
 - 分类：通用（评价/感受）
 - 词性：adjective / 形容词

@@ -1,5 +1,17 @@
 # 神经科学 / Neuroscience
 
+### adrenaline
+- 分类：神经科学（神经递质/激素）
+- 词性：noun / 名词
+- 音标：/əˈdrenəlɪn/
+- English explanation: Adrenaline is a hormone and neurotransmitter released during fear, anger, excitement, or stress, increasing heart rate and preparing the body for rapid action.
+- 中文解释：肾上腺素：人在恐惧、愤怒、兴奋或压力下分泌的激素/神经递质，会加快心跳、提高能量动员，使身体准备快速反应。
+- 词典/公开来源：
+  - Cambridge: a hormone (= chemical substance) produced by the body when a person is frightened, angry, or excited, which makes the heart beat faster and prepares the body to react to danger
+    https://dictionary.cambridge.org/dictionary/english/adrenaline
+  - Oxford Learner’s: a substance produced in the body when you are excited, afraid or angry. It makes the heart beat faster and increases your energy and ability to move quickly.
+    https://www.oxfordlearnersdictionaries.com/definition/english/adrenaline
+
 ### amygdala
 - 分类：神经科学
 - 词性：noun / 名词
@@ -80,6 +92,18 @@
   - Oxford Learner’s: to hold something tightly, or fasten two things together, with a clamp
     https://www.oxfordlearnersdictionaries.com/definition/english/clamp_1
 
+### compulsion
+- 分类：神经科学（精神医学/行为）
+- 词性：noun / 名词
+- 音标：/kəmˈpʌlʃn/
+- English explanation: A compulsion is a strong, hard-to-control urge to do something repeatedly, sometimes against one’s own wishes or better judgment.
+- 中文解释：强迫冲动；强制：难以控制、反复想做某事的强烈欲望；也可指迫使人做事的压力。
+- 词典/公开来源：
+  - Cambridge: a very strong feeling of wanting to do something repeatedly that is difficult to control
+    https://dictionary.cambridge.org/dictionary/english/compulsion
+  - Oxford Learner’s: a strong desire to do something, especially something that is wrong, silly or dangerous
+    https://www.oxfordlearnersdictionaries.com/definition/english/compulsion
+
 ### dendrite
 - 分类：神经科学（神经元结构）
 - 词性：noun / 名词
@@ -106,6 +130,18 @@
     https://dictionary.cambridge.org/dictionary/english/electrophysiology
   - Oxford Learner’s: term page returned 404 during check
     https://www.oxfordlearnersdictionaries.com/definition/english/electrophysiology
+
+### euphoria
+- 分类：神经科学（情绪/精神状态）
+- 词性：noun / 名词
+- 音标：/juːˈfɔːriə/
+- English explanation: Euphoria is an unusually intense feeling of happiness, excitement, or confidence, often short-lived and sometimes disproportionate to the situation.
+- 中文解释：欣快；狂喜：极强的幸福、兴奋或自信感，常持续较短，有时与实际情境不成比例。
+- 词典/公开来源：
+  - Cambridge: extreme happiness, sometimes more than is reasonable in a particular situation
+    https://dictionary.cambridge.org/dictionary/english/euphoria
+  - Oxford Learner’s: an extremely strong feeling of happiness and excitement that usually lasts only a short time
+    https://www.oxfordlearnersdictionaries.com/definition/english/euphoria
 
 ### excitatory
 - 分类：神经科学（神经信号/兴奋）
@@ -229,6 +265,30 @@
   - Cambridge: in a position near the front of the brain or the head
     https://dictionary.cambridge.org/dictionary/english/prefrontal
 
+### psychedelic
+- 分类：神经科学（精神药理/感知）
+- 词性：adjective/noun / 形容词/名词
+- 音标：/ˌsaɪkəˈdelɪk/
+- English explanation: Psychedelic describes drugs, experiences, art, or music that alter perception and may cause hallucinations or unusually vivid sensory experiences.
+- 中文解释：迷幻的；致幻的：指能改变感知、引起幻觉或强烈感官体验的药物/体验；也指色彩、图案、音乐等具有迷幻风格。
+- 词典/公开来源：
+  - Cambridge: (of a drug) causing effects on the mind, such as feelings of deep understanding or unusually strong experiences of colour, sound, taste, and touch
+    https://dictionary.cambridge.org/dictionary/english/psychedelic
+  - Oxford Learner’s: causing the user to see and hear things that are not there or that do not exist (= to hallucinate)
+    https://www.oxfordlearnersdictionaries.com/definition/english/psychedelic
+
+### psychiatrist
+- 分类：神经科学（精神医学/职业）
+- 词性：noun / 名词
+- 音标：/saɪˈkaɪətrɪst/
+- English explanation: A psychiatrist is a medical doctor trained to diagnose, study, and treat mental illnesses.
+- 中文解释：精神科医生：受过医学训练、专门研究、诊断和治疗精神疾病的医生。
+- 词典/公开来源：
+  - Cambridge: a doctor with special training in treating mental illness
+    https://dictionary.cambridge.org/dictionary/english/psychiatrist
+  - Oxford Learner’s: a doctor who studies and treats mental illnesses
+    https://www.oxfordlearnersdictionaries.com/definition/english/psychiatrist
+
 ### psychophysicist
 - 分类：神经科学（感觉/心理物理学）
 - 词性：noun / 名词
@@ -257,6 +317,42 @@
   - Oxford Learner’s: public dictionary entry checked for the same term/sense
     https://www.oxfordlearnersdictionaries.com/definition/english/reflex
 
+### satiation
+- 分类：神经科学（摄食/奖赏）
+- 词性：noun / 名词
+- 音标：/ˌseɪʃiˈeɪʃn/
+- English explanation: Satiation is the state or process of being fully satisfied, especially after food or pleasure, so that no more is wanted.
+- 中文解释：饱足；满足：尤其指食物或愉悦需求被充分满足后，不再想要更多的状态或过程。
+- 词典/公开来源：
+  - Cambridge: the act of completely satisfying yourself or a need, especially with food or pleasure
+    https://dictionary.cambridge.org/dictionary/english/satiation
+  - Oxford Learner’s: the feeling or fact of having had so much of something that you do not want any more
+    https://www.oxfordlearnersdictionaries.com/definition/english/satiation
+
+### schizophrenia
+- 分类：神经科学（精神医学/疾病）
+- 词性：noun / 名词
+- 音标：/ˌskɪtsəˈfriːniə/; /ˌskɪtsəˈfreniə/
+- English explanation: Schizophrenia is a serious mental illness involving disturbed links among thought, emotion, behavior, and reality perception.
+- 中文解释：精神分裂症：严重精神疾病，可影响思维、情绪、行为以及对现实的判断，并可能导致与现实或人际关系脱离。
+- 词典/公开来源：
+  - Cambridge: a serious mental illness in which someone cannot understand what is real and what is imaginary
+    https://dictionary.cambridge.org/dictionary/english/schizophrenia
+  - Oxford Learner’s: a mental illness in which a person becomes unable to link thought, emotion and behaviour, leading to withdrawal from reality and personal relationships
+    https://www.oxfordlearnersdictionaries.com/definition/english/schizophrenia
+
+### serotonin
+- 分类：神经科学（神经递质）
+- 词性：noun / 名词
+- 音标：/ˌserəˈtəʊnɪn/
+- English explanation: Serotonin is a neurotransmitter involved in signaling in the brain and body and associated with mood and feelings of relaxation or happiness.
+- 中文解释：血清素；5-羟色胺：参与大脑和身体信号传递的神经递质，与情绪、放松感和幸福感等有关。
+- 词典/公开来源：
+  - Cambridge: a neurotransmitter (= a chemical in the body that carries messages from the brain) that helps you feel relaxed and happy
+    https://dictionary.cambridge.org/dictionary/english/serotonin
+  - Oxford Learner’s: a chemical in the brain that affects how messages are sent from the brain to the body, and also affects how a person feels
+    https://www.oxfordlearnersdictionaries.com/definition/english/serotonin
+
 ### somatosensory
 - 分类：神经科学
 - 词性：adjective / 形容词
@@ -283,6 +379,18 @@
     https://dictionary.cambridge.org/dictionary/english/spinal
   - Oxford Learner’s: connected with the spine (= the long bone in the back)
     https://www.oxfordlearnersdictionaries.com/definition/english/spinal
+
+### stress hormone
+- 分类：神经科学（神经内分泌/压力）
+- 词性：noun phrase / 名词短语
+- 音标：/ˈstres hɔːməʊn/; /ˈstres hɔːrməʊn/
+- English explanation: A stress hormone is a hormone connected with the body’s response to stress, helping prepare the body for challenge or danger.
+- 中文解释：压力激素：与身体应激反应有关的激素，帮助身体面对挑战或危险；常见例子包括皮质醇、肾上腺素等。
+- 词典/公开来源：
+  - Cambridge: a type of hormone produced by the body, for example when you are frightened, angry, or excited, that makes the heart beat faster and prepares the body to react to danger
+    https://dictionary.cambridge.org/dictionary/english/stress-hormone
+  - Oxford Learner’s: a hormone that is connected with how the body responds to stress
+    https://www.oxfordlearnersdictionaries.com/definition/english/stress-hormone
 
 ### synapse
 - 分类：神经科学（神经元连接）
